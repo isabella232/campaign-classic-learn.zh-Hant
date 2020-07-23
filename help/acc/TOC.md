@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 檔案
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 75c696abfd57318672bf6f8011c4a501fc6a7bc5
+source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '300'
 ht-degree: 3%
 
 ---
@@ -30,8 +30,10 @@ ht-degree: 3%
    + [建立收件者清單](/help/acc/getting-started/creating-a-list-of-recipients.md)
    + [建立工作流程](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [建立定位工作流程](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [如何匯入描述檔](/help/acc/data-management/importing-profiles.md)
    + [在電子郵件中管理種子和校樣](/help/acc/sending-messages/managing-seed-and-proofs.md)
++ Profile Management {#profile-management}
+   + [建立和管理設定檔](/help/acc/profile-management/create-and-manage-profiles.md)
+   + [匯入描述檔](/help/acc/data-management/importing-profiles.md)
 + 傳送訊息{#sending-messages}
    + 電子郵件通道{#email-channel}
       + [建立促銷活動和電子郵件](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
