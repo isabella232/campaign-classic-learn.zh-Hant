@@ -24,7 +24,7 @@ AMP for Email是一種新的開放原始碼格式，可讓開發人員建立動�
 
 >[!NOTE]
 >
-> 若要傳送AMP電子郵件，您必須向 [Google](https://developers.google.com/gmail/ampemail/register) 和 [Microsoft註冊您寄送的電子郵件地址](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook)。
+>若要傳送AMP電子郵件，您必須向 [Google](https://developers.google.com/gmail/ampemail/register) 和 [Microsoft註冊您寄送的電子郵件地址](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook)。
 
 以下影片說明如何在Adobe Campaign Classic中啟動AMP，並展示其使用情形。
 
