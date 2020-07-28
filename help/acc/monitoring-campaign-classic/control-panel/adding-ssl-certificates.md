@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '221'
 ht-degree: 4%
 
 ---
@@ -18,13 +18,13 @@ ht-degree: 4%
 
 # 新增SSL憑證
 
-Adobe Campaign可 [!UICONTROL Control Panel] 讓您新增SSL憑證以保護您的子網域。
+Adobe Campaign控制面板可讓您新增SSL憑證，以保護您的子網域。
 
 ## 訪問控制面板子域管理
 
 要訪問「控制面板」中的子域管理，請轉至：
 
-* [Experience Cloud首頁](https://experience.adobe.com/#/home) >解決方案選擇器： **[!DNL Campaign]** >卡 **[!UICONTROL Control Panel]** 片>卡 **[!UICONTROL Subdomains & Certificates]** 片
+* [Experience Cloud首頁](https://experience.adobe.com/#/home) >解決方案選擇器： 促銷活動> **控制面板卡** >子網 **域與憑證卡**
 
    或
 * 直接從URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -50,7 +50,7 @@ Adobe Campaign可 [!UICONTROL Control Panel] 讓您新增SSL憑證以保護您�
 
 在您取得SSL憑證後，就需要為您計畫進行保全的子網域安裝SSL憑證。
 
-以下視訊說明如何在中安裝SSL憑證 [!UICONTROL Control Panel]。
+以下視訊說明如何在「控制面板」中安裝SSL憑證。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 *安裝SSL憑證（01:25分鐘）*
