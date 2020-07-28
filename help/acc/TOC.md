@@ -12,7 +12,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 translation-type: tm+mt
 source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '319'
 ht-degree: 3%
 
 ---
@@ -28,9 +28,8 @@ ht-degree: 3%
    + [建立行銷計畫、計畫和促銷活動](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [建立促銷活動和電子郵件](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
    + [建立收件者清單](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [建立工作流程](/help/acc/automating-with-workflows/creating-a-workflow.md)
-   + [建立定位工作流程](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [在電子郵件中管理種子和校樣](/help/acc/sending-messages/managing-seed-and-proofs.md)
+   + [建立工作流程](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [在工作流程中定位描述檔](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
    + [建立和管理設定檔](/help/acc/profile-management/create-and-manage-profiles.md)
    + [匯入描述檔](/help/acc/data-management/importing-profiles.md)
@@ -38,7 +37,9 @@ ht-degree: 3%
    + 電子郵件通道{#email-channel}
       + [建立促銷活動和電子郵件](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [在電子郵件中管理種子和校樣](/help/acc/sending-messages/managing-seed-and-proofs.md)
-      + [使用動態內容區塊個人化電子郵件](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
+      + [使用動態內容區塊個人化電子郵件](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [使用個人化欄位個人化電子郵件](/help/acc/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [個人化電子郵件——使用條件式內容建立多語言電子報](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [設定循環和持續的電子郵件促銷活動](/help/acc/sending-messages/recurring-deliveries.md)
       + [使用AMP定義互動式電子郵件內容](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + 推播頻道 {#push-channel}
@@ -84,5 +85,5 @@ ht-degree: 3%
          + [解密資料](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [控制面板疑難排解](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 訪問外部資料庫(FDA) {#fda}
-      + [在 [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [雪花的大資料管理](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
