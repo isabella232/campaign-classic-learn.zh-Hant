@@ -6,7 +6,7 @@ sub-product: Campaign Classic
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '243'
 ht-degree: 23%
 
 ---
@@ -20,7 +20,7 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 * **[GPG密鑰管理](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *瞭解如何在指定的例項上產生和安裝公開／私有金鑰對，以加密傳出資料，以及在[!UICONTROL Campaign]Campaign例項上匯入和安裝公開金鑰，以解密傳入資料。*
+   *瞭解如何在指定的促銷活動例項上產生和安裝公開／私密金鑰對，以加密傳出資料，以及在促銷活動例項上匯入和安裝公開金鑰，以解密傳入資料。*
 
 * **[委派子網域(BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -61,11 +61,11 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
     <p>
   </td>
   <td>
-    <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
       <img alt="使用動態內容區塊（視訊）個人化電子郵件" src="./assets/ACC-Personalization.png" />
     </a>
     <div>
-      <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
     <strong>使用動態內容區塊個人化電子郵件</strong>
     </a>
     </div>
