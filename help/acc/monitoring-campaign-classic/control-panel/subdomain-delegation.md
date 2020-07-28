@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '129'
 ht-degree: 14%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 14%
 # 委派子網域
 
 >[!NOTE]
-> 從的子網域委 [!UICONTROL Control Panel] 派將於1月底之前提供beta版，且受
-> 經常更新和修改，恕不另行通知。
+>
+>將於1月底 [!UICONTROL Control Panel] 推出測試版的子網域委派，但必須經常更新和修改，恕不另行通知。
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
@@ -28,7 +28,7 @@ Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdoma
 
 要在中訪問子域管 [!UICONTROL Control Panel]理，請轉至：
 
-* [Experience Cloud首頁](https://experience.adobe.com/#/home) >解決方案選擇器： **[!DNL Campaign]** >卡 **[!UICONTROL Control Panel]** 片> **子網域與憑證卡**
+* [Experience Cloud首頁](https://experience.adobe.com/#/home) >解決方案選擇器： 促銷活動> **[!UICONTROL Control Panel]** 資訊卡> **子網域與憑證卡**
 
    或
 * 直接從URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
