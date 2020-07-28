@@ -14,7 +14,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Adobe Campaign為行銷人員提供數種選項，可供他們檢閱並提供傳
 
 ## 設定促銷活動的核准  {#configuring-approvals-for-campaigns}
 
-如果您在促銷活動工作流程中的所有傳送都有相同的一組審核者，則您將運用核准 [!DNL Campaign] 功能。 透過在促銷活動層級設定核准和審核者，核准工作和審核者會在執行工作流程後，下推至工作流程的每個傳送活動。
+如果您在促銷活動工作流程中所有傳送都有相同的審核者集，則可運用促銷活動核准功能。 透過在促銷活動層級設定核准和審核者，核准工作和審核者會在執行工作流程後，下推至工作流程的每個傳送活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
