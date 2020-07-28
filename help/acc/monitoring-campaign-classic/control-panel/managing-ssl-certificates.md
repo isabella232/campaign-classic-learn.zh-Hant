@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 要訪問 [!UICONTROL subdomain management] 中 [!UICONTROL Control Panel]，請轉至：
 
-* [Experience Cloud首頁](https://experience.adobe.com/#/home) >解決方案選擇器： **[!DNL Campaign]** >卡 **[!UICONTROL Control Panel]** 片>卡 **[!UICONTROL Subdomains & Certificates]** 片
+* [Experience Cloud首頁](https://experience.adobe.com/#/home) >解決方案選擇器： 促銷活動> **控制面板卡** >子網 **域與憑證卡**
 
    或
 * 直接從URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
