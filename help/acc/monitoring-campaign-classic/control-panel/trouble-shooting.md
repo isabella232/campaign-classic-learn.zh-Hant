@@ -28,18 +28,18 @@ ht-degree: 1%
 ### 症狀： Experience Cloud首頁中的存取連結 [!UICONTROL Control Panel] 不會顯示給使用者
 
 **原因：**
-使用者直到新增為產品設定檔 _Campaign-xxx-Administrators/Admin的使用者後，才會看到連結_。
+使用者直到新增為產品設定檔「Campaign-xxx-Administrators/Admin」的使用者後，才會看到連結
 
 **該做什麼：**
-管理員需要將使用者新增至產品設定檔 _Campaign-xxx_ -Admins，以便管理每個例項。 如果使用者是所有例項的管理員，則他們可能仍需將自己新增為「使用者」。
+管理員需要將使用者新增至產品設定檔「Campaign-xxx-Admins」中，才能管理每個例項。 如果使用者是所有例項的管理員，則他們可能仍需將自己新增為「使用者」。
 
 ### 症狀： 例項未列於 [!UICONTROL Control Panel]
 
 **原因：**
-最可能的使用者需要新增為遺失例項的「使用者」產品設定檔 _Campaign-xxx-Administrators/Admin_ 。
+最可能的使用者需要新增為遺失例項的「使用者」產品設定檔「Campaign-xxx-Administrators/Admin」
 
 **該做什麼：**
-管理員需要將使用者新增至產品設定檔 _Campaign-xxx_ -Admins，以便管理每個例項。 如果使用者是所有例項的管理員，則他們可能仍需將自己新增為「使用者」。
+管理員需要將使用者新增至產品設定檔「Campaign-xxx-Admins」中，才能管理每個例項。 如果使用者是所有例項的管理員，則他們可能仍需將自己新增為「使用者」。
 
 ### 有用的影片
 
