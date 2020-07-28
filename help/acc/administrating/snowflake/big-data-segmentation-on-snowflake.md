@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 雪花的大資料管理
 
-本教學課程說明如何在Adobe Campaign [!DNL Snowflake] Classic中運用連接器。
+本教學課程說明如何在Adobe Campaign Classic中運用Snowflake連接器。
 您將學習如何
 
 * 連接到雪花
