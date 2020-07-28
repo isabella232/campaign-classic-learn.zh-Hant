@@ -24,7 +24,7 @@ ht-degree: 0%
 
 要在中訪問子域管 [!UICONTROL Control Panel]理，請轉至：
 
-* [Experience Cloud首頁](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: **[!DNL Campaign]** >卡 **[!UICONTROL Control Panel]** 片>卡 **[!UICONTROL Subdomains & Certificates]** 片
+* [Experience Cloud首頁](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] >卡 **[!UICONTROL Control Panel]** 片>卡 **[!UICONTROL Subdomains & Certificates]** 片
 
    或
 * 直接從URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
