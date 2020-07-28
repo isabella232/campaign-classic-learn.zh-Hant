@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 如何使用稽核記錄
 
-[!UICONTROL Audit Trail] 即時擷取在Adobe Campaign中發生的動作和事件的完整清單。 功 [!UICONTROL Audit Trail] 能包括自助式存取資料記錄的方式，以協助回答下列問題：
+稽核記錄可即時擷取Adobe Campaign中發生之動作和事件的完整清單。 「稽核記錄」功能包含自助方式，可存取資料記錄，以協助回答下列問題：
 
 * 一個物體呢？
 * 誰上次修改的，何時修改的？
@@ -28,7 +28,7 @@ ht-degree: 0%
 >
 >稽核記錄需要Campaign Classic 19.1版或更新版本
 
-將記 [!UICONTROL Audit Trail] 錄並列出操作符操作，如建立、修改和刪除工作流、選項和源架構。 此外，還專門記錄了以下工作流操作：
+稽核記錄會記錄並列出運算元動作，例如建立、修改和刪除工作流程、選項和來源結構。 此外，還專門記錄了以下工作流操作：
 
 * 開始
 * 暫停
