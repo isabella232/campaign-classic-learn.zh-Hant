@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 檔案
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '323'
 ht-degree: 3%
 
 ---
@@ -26,13 +26,13 @@ ht-degree: 3%
    + [探索Adobe Campaign Classic使用者介面](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理行銷宣傳](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [建立行銷計畫、計畫和促銷活動](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [建立促銷活動和電子郵件](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
-   + [建立收件者清單](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [建立工作流程](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [建立促銷活動和電子郵件](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
    + [在工作流程中定位描述檔](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
    + [建立和管理設定檔](/help/acc/profile-management/create-and-manage-profiles.md)
    + [匯入描述檔](/help/acc/data-management/importing-profiles.md)
+   + [建立收件者清單](/help/acc/profile-management/creating-a-list-of-recipients.md)
+   + [使用工作流程建立收件者清單](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 傳送訊息{#sending-messages}
    + 電子郵件通道{#email-channel}
       + [建立促銷活動和電子郵件](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
@@ -85,5 +85,5 @@ ht-degree: 3%
          + [解密資料](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [控制面板疑難排解](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 訪問外部資料庫(FDA) {#fda}
-      + [雪花的大資料管理](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [在 [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
