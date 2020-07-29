@@ -4,9 +4,9 @@ description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 23%
 
 ---
@@ -20,7 +20,7 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 * **[GPG密鑰管理](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *瞭解如何在指定的促銷活動例項上產生和安裝公開／私密金鑰對，以加密傳出資料，以及在促銷活動例項上匯入和安裝公開金鑰，以解密傳入資料。*
+   *瞭解如何在指定的例項上產生和安裝公開／私有金鑰對，以加密傳出資料，以及在[!UICONTROL Campaign]Campaign例項上匯入和安裝公開金鑰，以解密傳入資料。*
 
 * **[委派子網域(BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
