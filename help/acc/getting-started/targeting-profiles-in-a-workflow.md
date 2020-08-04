@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 7%
+source-wordcount: '129'
+ht-degree: 6%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 7%
 
 * [結合查詢結果以精確目標](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [通過排除查詢結果來細化目標](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [使用工作流建立清單](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+* [使用更新清單活動建立具有工作流的清單](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
 
 ## 其他資源
 
