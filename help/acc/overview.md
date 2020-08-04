@@ -4,9 +4,9 @@ description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '246'
 ht-degree: 23%
 
 ---
@@ -49,28 +49,28 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="稽核記錄（視訊）" src="./assets/acc-audit-trail.png" />
+      <img alt="稽核記錄（視訊）" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
     <strong>稽核記錄</strong>
     </a>
-    </div>
+    </div> 
     <p>
     <em>擷取在Adobe Campaign中發生的動作和事件的完整清單。</em>
     <p>
   </td>
   <td>
-    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-      <img alt="使用動態內容區塊（視訊）個人化電子郵件" src="./assets/ACC-Personalization.png" />
+    <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+      <img alt="使用AMP（視訊）定義互動式電子郵件內容" src="./assets/29940.png" />
     </a>
     <div>
-      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-    <strong>使用動態內容區塊個人化電子郵件</strong>
+      <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+    <strong>使用AMP定義互動式電子郵件內容</strong>
     </a>
     </div>
     <p>
-    <em>使用收件者個人檔案中的條件個人化訊息。 </em>
+    <em>瞭解如何在Adobe Campaign Classic中啟用和使用AMP </em>
     <p>
   </td>
 </tr>
