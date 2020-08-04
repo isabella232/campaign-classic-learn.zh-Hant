@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 檔案
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '353'
 ht-degree: 3%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 3%
    + [建立定位工作流程](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
    + [結合查詢結果以精確目標](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [通過排除查詢結果來細化目標](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [使用工作流建立清單](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+   + [使用更新清單活動建立具有工作流的清單](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
    + [設定驗證工作流程](/help/acc/automating-with-workflows/validation-flow-configuration.md)
    + [設定擴充活動](/help/acc/automating-with-workflows/enrichment-activity.md)
    + [資料區隔](/help/acc/data-management/data-segmentation.md)
