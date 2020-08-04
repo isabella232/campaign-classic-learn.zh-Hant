@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '111'
 ht-degree: 4%
 
 ---
@@ -35,4 +35,4 @@ ht-degree: 4%
 
 * [在工作流程中定位描述檔](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 * [通過排除查詢結果來細化目標](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [使用工作流建立清單](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+* [使用更新清單活動建立具有工作流的清單](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
