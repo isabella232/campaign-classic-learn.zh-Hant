@@ -7,18 +7,18 @@ solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: 教學課程
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
-getting-started-title: 檔案
+getting-started-title: 文件
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
+source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 3%
+source-wordcount: '350'
+ht-degree: 19%
 
 ---
 
 
-# Adobe Campaign Classic教學課程 {#tutorials}
+# Adobe Campaign Classic Tutorials {#tutorials}
 
 + [概觀](/help/acc/overview.md)
 + Getting Started {#getting-started}
@@ -73,20 +73,19 @@ ht-degree: 3%
    + [如何將Dynamics 365與Adobe Campaign Classic整合](/help/acc/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
    + 控制面板{#control-panel-acc}
-      + [控制面板概述](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [監控伺服器容量、允許列出IP地址和添加SSH密鑰](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [生成SSH密鑰](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-      + [連接到SFTP伺服器](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
+      + [控制面板概觀](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
+      + [監控伺服器容量、允許清單 IP 地址及新增 SSH 金鑰](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+      + [產生 SSH 金鑰](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+      + [連接到 SFTP 伺服器](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
       + [委派子網域](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [新增SSL憑證](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [管理SSL憑證](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
+      + [新增 SSL 憑證](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [新增URL權限](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
       + [IP允許列出實例訪問](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Google TXT 記錄管理](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + GPG密鑰管理 {#gpg-key-management}
-         + [GPG密鑰管理——概述](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [生成並安裝用於資料加密的GPG密鑰](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [使用GPG密鑰加密資料](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+      + GPG 金鑰管理 {#gpg-key-management}
+         + [GPG 金鑰管理──概觀](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [產生並安裝用於資料加密的 GPG 金鑰](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [使用 GPG 金鑰加密資料](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [解密資料](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [控制面板疑難排解](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 訪問外部資料庫(FDA) {#fda}
