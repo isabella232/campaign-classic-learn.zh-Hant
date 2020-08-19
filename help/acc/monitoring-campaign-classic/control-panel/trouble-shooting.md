@@ -1,6 +1,6 @@
 ---
-title: 問題解決控制面板
-description: 「控制面板」可讓您依例項監視和管理SFTP儲存空間，並允許列出IP位址。
+title: 控制面板疑難排解
+description: 「控制面板」可以讓您依執行個體及允許清單 IP 位址監視及管理您的 SFTP 儲存空間。
 feature: Control Panel
 topics: Control Panel
 kt: 2938
@@ -11,58 +11,58 @@ translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# 故障排除 [!UICONTROL Control Panel]
+# 疑難排解 [!UICONTROL Control Panel]
 
-## 登入與首頁
+## 登入和首頁
 
-### 症狀： 無法登入Experience Cloud
+### 症狀：無法登入 Experience Cloud
 
 **該做什麼：**
-使用者必須找到其IMS組織ID(xxx)。 管理員需要將使用者新增至產品設定檔「Campaign-xxx-Admins」中，才能管理每個例項。 如果使用者是所有例項的管理員，則他們仍需將自己新增為使用者。
+使用者需要找到其 IMS Org ID (xxx)。管理員需要將使用者新增到他們想要管理的每個執行個體的產品設定檔「Campaign-xxx-Admins」。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為使用者。
 
-### 症狀： Experience Cloud首頁中的存取連結 [!UICONTROL Control Panel] 不會顯示給使用者
+### 症狀：使用者看不到 experience Cloud 首頁存取 [!UICONTROL Control Panel] 的連結
 
 **原因：**
-使用者直到新增為產品設定檔「Campaign-xxx-Administrators/Admin」的使用者後，才會看到連結
+使用者直到新增為產品設定檔 _Campaign-xxx-Administrators/Admin 的使用者後，才能看到連結_。
 
 **該做什麼：**
-管理員需要將使用者新增至產品設定檔「Campaign-xxx-Admins」中，才能管理每個例項。 如果使用者是所有例項的管理員，則他們可能仍需將自己新增為「使用者」。
+管理員需要將使用者新增至產品設定檔 _Campaign-xxx-Admins_，以便管理執行個體。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為使用者。
 
-### 症狀： 例項未列於 [!UICONTROL Control Panel]
+### 症狀：執行個體未列於 [!UICONTROL Control Panel]
 
 **原因：**
-最可能的使用者需要新增為遺失例項的「使用者」產品設定檔「Campaign-xxx-Administrators/Admin」
+可能是，使用者需要新增為消失的執行個體的使用者產品設定檔 _Campaign-xxx-Administrators/Admin_
 
 **該做什麼：**
-管理員需要將使用者新增至產品設定檔「Campaign-xxx-Admins」中，才能管理每個例項。 如果使用者是所有例項的管理員，則他們可能仍需將自己新增為「使用者」。
+管理員需要將使用者新增至產品設定檔 _Campaign-xxx-Admins_，以便管理執行個體。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為使用者。
 
 ### 有用的影片
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*檢查IMS組織ID（00:26分鐘）*
+*檢查 IMS 組織 ID (00:26分鐘)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*如何將管理員新增至產品設定檔管理員，以便[!UICONTROL Control panel]使用（01:03分鐘）*
+*如何為產品設定檔管理員新增管理員，以便使用[!UICONTROL Control panel](01:03 分鐘)*
 
-### 實用檔案
+### 實用文件
 
-* [探索控制面板](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [管理 [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [探索「控制面板」](https://helpx.adobe.com/tw/campaign/kb/control-panel-overview.html)
+* [管理 [!UICONTROL Control Panel]](https://helpx.adobe.com/tw/campaign/kb/control-panel-access.html) 的權限
 
-## 建立與SFTP伺服器（用戶端或API）的連線
+## 建立與 SFTP 伺服器 (用戶端或 API) 的連線
 
-連線至SFTP伺服器需要：
+連線至 SFTP 伺服器需要：
 
-* [!UICONTROL Allow listing] 您從中連接到SFTP伺服器的IP地址
-* 需要向Adobe Campaign註冊的私密／公用金鑰對
-* 如果直接連接到SFTP伺服器，您還需要SFTP客戶端軟體
+* [!UICONTROL Allow listing] 您連接到 SFTP 伺服器的 IP 位址
+* 需要向 Adobe Campaign 註冊私人/公有金鑰組
+* 如果直接連接到 SFTP 伺服器，您還需要 SFTP 用戶端軟體
 
-### 有用的檔案
+### 實用文件
 
-* [登入您的 SFTP 伺服器](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [登入您的 SFTP 伺服器](https://helpx.adobe.com/tw/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
