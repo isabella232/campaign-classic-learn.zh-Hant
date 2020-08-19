@@ -1,6 +1,6 @@
 ---
 title: 委派子網域
-description: 瞭解如何將子網域完全委派至 Adobe Campaign.
+description: 瞭解如何將子網域完全委派至 Adobe Campaign
 feature: Subdomain Delegation
 topics: Control Panel
 kt: 4115
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: e40441c242af138f9686d291bb804fae46b4f62d
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 49%
+ht-degree: 85%
 
 ---
 
@@ -22,13 +22,14 @@ ht-degree: 49%
 >
 > Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
-Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
+Adobe Campaign [!UICONTROL Control Panel] 可以讓您將子網域完全委派給 Adobe Campaign。
 
 ## 存取 [!UICONTROL Control Panel] 子網域管理
 
 若要 [!UICONTROL Control Panel] 存取子網域管理，請前往：
 
-* [Experience Cloud首頁](https://experience.adobe.com/#/home) >解決方案選擇器： **[!DNL Campaign]** >卡 **[!UICONTROL Control Panel]** 片>子網 **域與憑證** 。
+* [Experience Cloud 首頁](https://experience.adobe.com/#/home) > 解決方案選擇器：**[!DNL Campaign]** > **[!UICONTROL Control Panel]** 卡片 > **子網域與憑證**卡片
+或
 * 直接從 URL：[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## 如何委派子網域
@@ -36,9 +37,9 @@ Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdoma
 以下影片示範如何委派子網域。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
-*子網域委派（05:07分鐘）*
+*子網域委派 (05:07分鐘)*
 
 ## 其他資源：
 
-* [新增SSL憑證](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
+* [新增 SSL 憑證](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
 * [子網域和憑證](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
