@@ -1,6 +1,6 @@
 ---
-title: 如何使用稽核記錄
-description: '稽核記錄可即時擷取Adobe Campaign中發生之動作和事件的完整清單。 '
+title: 如何使用稽核軌跡
+description: '稽核軌跡可以即時擷取Adobe Campaign 中發生之動作和事件的完整清單。 '
 feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
@@ -10,37 +10,37 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 0%
+source-wordcount: '161'
+ht-degree: 100%
 
 ---
 
 
-# 如何使用稽核記錄
+# 如何使用稽核軌跡
 
-稽核記錄可即時擷取Adobe Campaign中發生之動作和事件的完整清單。 「稽核記錄」功能包含自助方式，可存取資料記錄，以協助回答下列問題：
+[!UICONTROL Audit Trail]即時擷取在 Adobe Campaign 中發生之動作和事件的完整清單。[!UICONTROL Audit Trail] 功能包括自助式存取歷史資料記錄，以協助回答下列問題：
 
-* 一個物體呢？
-* 誰上次修改的，何時修改的？
-* 上一個州是什麼？
+* 物件怎麼了？
+* 最近由誰修改？何時修改？
+* 上一個狀態是什麼？
 
 >[!NOTE]
 >
->稽核記錄需要Campaign Classic 19.1版或更新版本
+>稽核軌跡需要 Campaign Classic 19.1 版或更新版本
 
-稽核記錄會記錄並列出運算元動作，例如建立、修改和刪除工作流程、選項和來源結構。 此外，還專門記錄了以下工作流操作：
+[!UICONTROL Audit Trail] 將記錄並列出運算子動作，例如建立、修改和刪除工作流程、選項和源架構。此外，還專門記錄了以下工作流程操作：
 
 * 開始
 * 暫停
 * 停止
 * 重新啟動
-* 清除
+* 清理
 * 模擬
 * 喚醒
 * 無條件停止
 
-以下視訊說明存取稽核記錄記錄的位置，以及可設定的設定。
+以下影片說明存取稽核軌跡的位置，以及可以進行的相關設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-如需詳細資訊，請參閱稽核記錄 [檔案](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)。
+如需詳細資訊，請參閱[稽核軌跡文件](https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)。
