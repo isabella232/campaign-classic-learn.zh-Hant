@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic-lear
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
+source-git-commit: a5efb8f8230373b9aa3c5dd2f85305f4685e9190
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 77%
+source-wordcount: '356'
+ht-degree: 76%
 
 ---
 
@@ -48,6 +48,8 @@ ht-degree: 77%
       + [設定傳遞範本](/help/acc/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [設定傳遞範本屬性](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [部署隨選電子郵件傳遞範本](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+   + 直接郵件 {#direct-mail}
+      + [建立直接郵件傳送](help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 疲勞管理{#fatigue-management}
       + [使用態樣規則](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用預先定義的篩選](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
