@@ -1,6 +1,6 @@
 ---
 title: 如何在Adobe Campaign Classic中設定著陸頁面
-description: Adobe Campaign Classic可讓您在其伺服器上設計並代管各種網頁，包括線上調查、偏好設定中心、取消訂閱頁面。 此影片示範如何透過建立偏好設定中心來導覽Adobe Campaign的網頁應用程式編輯器。
+description: Adobe Campaign Classic可讓您在其伺服器上設計並主控各種著陸頁面，包括線上調查、偏好設定中心、取消訂閱頁面。 此影片示範如何透過建立偏好設定中心來導覽Adobe Campaign的網頁應用程式編輯器。
 feature: Landing Pages
 topics: Configure
 kt: 1562
@@ -9,9 +9,9 @@ doc-type: feature video
 activity: setup
 team: DOC
 translation-type: tm+mt
-source-git-commit: 4a0f1fd9de07e5d81f3fcc1db93b4b27ac2e75b1
+source-git-commit: 25c52ebde4c815fd7073dffb90973afc86b7bffb
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 如何設定著陸頁面
 
-Adobe Campaign Classic可讓您在其伺服器上設計並代管各種網頁，包括線上調查、偏好設定中心、取消訂閱頁面。
+Adobe Campaign Classic可讓您在其伺服器上設計並主控各種著陸頁面，包括線上調查、偏好設定中心、取消訂閱頁面。
 
 此影片示範如何透過建立偏好設定中心來導覽Adobe Campaign的網頁應用程式編輯器。
 
