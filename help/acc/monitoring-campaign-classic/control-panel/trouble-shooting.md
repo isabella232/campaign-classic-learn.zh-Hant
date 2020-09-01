@@ -47,7 +47,7 @@ ht-degree: 100%
 *檢查 IMS 組織 ID (00:26分鐘)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*如何為產品設定檔管理員新增管理員，以便使用[!UICONTROL Control panel](01:03 分鐘)*
+*如何為產品設定檔管理員新增管理員，以便使用[!UICONTROL Control panel] (01:03 分鐘)*
 
 ### 實用文件
 
