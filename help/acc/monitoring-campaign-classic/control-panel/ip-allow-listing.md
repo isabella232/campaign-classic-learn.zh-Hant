@@ -1,24 +1,25 @@
 ---
-title: IP 允許列出執行個體
-seo-title: IP 允許列出執行個體
-description: 下面的影片說明如何透過允許列出 IP 位址範圍，以設定與執行個體的新連線。
+title: 新增IP位址以允許清單
+seo-title: 新增IP位址以允許清單
+description: 瞭解如何將IP範圍新增至Campaign Classic例項的允許清單，以及如何使用控制面板將它們從允許清單中移除。
 seo-description: 下面的影片說明如何透過允許列出 IP 位址範圍，以設定與執行個體的新連線。
-feature: IP allow listing
-topics: Control Panel
+feature: instance settings
+topics: null
 kt: 3479
+thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 64%
 
 ---
 
 
-# IP 允許列出執行個體
+# 新增IP位址以允許清單
 
 「控制面板」可以讓您允許列出 IP 位址範圍，以便將新的連線設定到您的執行個體。依預設，Adobe Campaign Classic 執行個體無法從各種 IP 位址進行存取。因此，必須將 IP位址列入允許清單：
 
@@ -33,11 +34,10 @@ ht-degree: 100%
 或
 * 直接從 URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## 如何將 IP 位址納入允許清單
+## 將IP範圍新增至例項的允許清單
 
-下面的影片說明如何使用控制面板將 IP 位址納入允許清單。
+瞭解如何將IP範圍新增至Campaign Classic例項的允許清單，以及如何使用控制面板將它們從允許清單中移除。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
-*IP 允許列出 (03:24 分鐘)*
 
 如需 IP 允許清單的詳細資訊，請參閱[詳細的產品文件](https://helpx.adobe.com/tw/campaign/kb/control-panel-instance-settings.html)。
