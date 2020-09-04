@@ -11,10 +11,10 @@ getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 1f0de3205220dab1814a28070a4014d01f0b7a34
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 76%
+ht-degree: 74%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 76%
       + [委派子網域](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [新增 SSL 憑證](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [新增 URL 權限](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [IP 允許執行個體存取清單](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [新增IP位址以允許清單](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Google TXT 記錄管理](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + GPG 金鑰管理 {#gpg-key-management}
          + [GPG 金鑰管理──概觀](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
