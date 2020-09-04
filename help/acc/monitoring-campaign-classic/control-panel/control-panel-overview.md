@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -49,14 +49,14 @@ ht-degree: 100%
 您要瞭解您的 [!DNL IMS org ID]。以下影片說明您可以在何處查閱執行個體的 [!DNL IMS org ID]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*檢查[!DNL IMS Org ID] (00:26 分鐘)*
+*檢查[!DNL IMS Org ID](00:26 分鐘)*
 
 ### 管理員權限
 
 必須擁有管理員權限才能存取 [!UICONTROL Control Panel]。以下影片說明如何為 Campaign 執行個體新增管理員
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*如何為產品設定檔新增管理員「[!UICONTROL Administrators]」，以便使用[!UICONTROL Control Panel] (01:03 分鐘)*
+*如何為產品設定檔新增管理員「[!UICONTROL Administrators]」，以便使用[!UICONTROL Control Panel](01:03 分鐘)*
 
 ## [!UICONTROL Control Panel] 教學課程
 
@@ -80,7 +80,7 @@ ht-degree: 100%
 
    *如何將外部 URL 新增至授權 URL 清單，以便您的執行個體可以連結到這些 URL。*
 
-* **[IP 允許執行個體存取清單](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[新增IP位址以允許清單](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    *瞭解如何透過將[!UICONTROL allow listing]IP 位址範圍納入允許名單，以利使新的連線設定至您的執行個體。*
 
