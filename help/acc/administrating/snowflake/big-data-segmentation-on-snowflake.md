@@ -3,22 +3,22 @@ title: 雪花的大資料管理
 description: 本教學課程說明如何在Adobe Campaign Classic中運用Snowflake連接器
 feature: Snowflake
 topics: FDA
-kt: 4450
+kt: 4405
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 0c330ade07ba8bcdb825a632c7ac319fa8c845e9
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 6%
 
 ---
 
 
 # 雪花的大資料管理
 
-本教學課程說明如何在Adobe Campaign Classic中運用Snowflake連接器。
+本教學課程說明如何在Adobe Campaign [!DNL Snowflake] Classic中運用連接器。
 您將學習如何
 
 * 連接到雪花
