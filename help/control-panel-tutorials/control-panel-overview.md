@@ -1,7 +1,7 @@
 ---
-title: 控制面板
+title: 控制面板 - 概觀
 seo-title: 控制面板
-description: 「控制面板」可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項管理SFTP儲存或允許清單IP位址。
+description: 「控制面板」可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項管理SFTP儲存、管理GPG金鑰或子網域和憑證。
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,22 +9,21 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 314a0aa471bdd5673fdbc1c99cfefd325ec268e4
+source-git-commit: ab7c8903a7eaa024abd8e658aee6c31f87f73f96
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 85%
+source-wordcount: '197'
+ht-degree: 72%
 
 ---
 
 
-# [!UICONTROL Control Panel]
+# [!UICONTROL Control Panel] 概觀
 
 >[!NOTE]
 >
->Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」用詞，已由「[!UICONTROL allow list]及「[!UICONTROL block list]」取代。
->產品 UI、選項名稱、內部程式碼及教學課程影片可能仍會出現這些詞語。這些用詞將在未來的「控制面板」版本被取代。
+>Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」用詞，已由「[!UICONTROL allowlist]及「[!UICONTROL denylist]」取代。產品 UI、選項名稱、內部程式碼及教學課程影片可能仍會出現這些詞語。這些用詞將在未來的「控制面板」版本被取代。
 
-[!UICONTROL Control Panel] 可以讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體或 [!UICONTROL allow list] IP 位址管理 SFTP 儲存。
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
 ## 存取 [!UICONTROL Control Panel]
 
@@ -52,7 +51,7 @@ ht-degree: 85%
 
 ### 管理員權限
 
-必須擁有管理員權限才能存取 [!UICONTROL Control Panel]。以下影片說明如何為 Campaign 執行個體新增管理員
+必須擁有管理員權限才能存取 [!UICONTROL Control Panel]。以下影片說明如何為 Campaign 執行個體新增管理員.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
