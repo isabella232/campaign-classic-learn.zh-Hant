@@ -1,6 +1,6 @@
 ---
 title: 產生 SSH 金鑰
-description: 您必須產生 SSH 金鑰，才能將其新增至 Adobe Campaign 控制面板。下面的影片說明如何使用終端產生 SSH 金鑰。
+description: 瞭解如何使用終端產生SSH金鑰，以及如何在控制面板中儲存該金鑰的公開版本。
 feature: SSH Key
 topics: Control Panel
 kt: 6348
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: d378a5afdce1d01e138dd90e357caa66362bacd0
+source-git-commit: 375a20d78f7aa8ab5def5398308ebb9219bafe58
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 63%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## 如何產生 SSH 金鑰
 
-下面的影片說明如何使用終端產生 SSH 金鑰。
+瞭解如何使用終端產生SSH金鑰，以及如何在控制面板中儲存該金鑰的公開版本。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 *如何建立 SSH 金鑰 (2:16分鐘)*
