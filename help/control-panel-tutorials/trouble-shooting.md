@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
@@ -44,10 +44,12 @@ ht-degree: 100%
 ### 有用的影片
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *檢查 IMS 組織 ID (00:26分鐘)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*如何為產品設定檔管理員新增管理員，以便使用[!UICONTROL Control panel] (01:03 分鐘)*
+
+*如何為產品設定檔管理員新增管理員，以便使用[!UICONTROL Control panel](01:03 分鐘)*
 
 ### 實用文件
 
