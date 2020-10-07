@@ -13,7 +13,7 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classi
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
+source-git-commit: 0c8e60fa27a3cd1699286327fe9722f7fd7f306d
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 80%
@@ -26,9 +26,9 @@ ht-degree: 80%
 + [控制面板概觀](/help/control-panel-tutorials/control-panel-overview.md)
 + [控制面板快速入門](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理{#sftp-management}
+   + [產生 SSH 金鑰](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [連接到 SFTP 伺服器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
    + [監控伺服器容量、允許清單 IP 位址和新增 SSH 金鑰](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   + [產生 SSH 金鑰](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
 + 子網域和憑證{#subdomains-and-certificates}
    + [委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [新增 SSL 憑證](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
