@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 100%
@@ -38,4 +38,5 @@ ht-degree: 100%
 此影片說明如何使用用戶端 SFTP 應用程式，使用您儲存在「控制面板」的金鑰，連線至您的 SFTP 伺服器。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
+
 *連線至 SFTP 伺服器 (02:04 分鐘)*
