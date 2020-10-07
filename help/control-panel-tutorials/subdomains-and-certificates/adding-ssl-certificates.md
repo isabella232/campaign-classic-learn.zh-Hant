@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -41,6 +41,7 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您新增 SSL 憑證，以保
 以下影片說明如何在「控制面板」產生「憑證申請檔」。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+
 *產生憑證申請檔 (02:36分鐘)*
 
 ### 2. 購買 SSL 憑證
@@ -54,6 +55,7 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您新增 SSL 憑證，以保
 以下影片說明如何在 [!UICONTROL Control Panel] 安裝 SSL 憑證。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+
 *安裝 SSL 憑證 (01:25分鐘)*
 
 ## 其他資源：
