@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign控制面板教學課程
-user-guide-description: Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
-breadcrumb-title: Control Panel Tutorials
+user-guide-description: 「控制面板」可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項管理SFTP儲存，或允許清單IP位址。
+breadcrumb-title: 控制面板教學課程
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -13,10 +13,10 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classi
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 0c8e60fa27a3cd1699286327fe9722f7fd7f306d
+source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 80%
+source-wordcount: '158'
+ht-degree: 60%
 
 ---
 
@@ -26,9 +26,11 @@ ht-degree: 80%
 + [控制面板概觀](/help/control-panel-tutorials/control-panel-overview.md)
 + [控制面板快速入門](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理{#sftp-management}
+   + SFTP 管理{#sftp-management}
+   + [監控伺服器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [新增IP範圍至允許清單](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [產生 SSH 金鑰](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [連接到 SFTP 伺服器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
-   + [監控伺服器容量、允許清單 IP 位址和新增 SSH 金鑰](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
 + 子網域和憑證{#subdomains-and-certificates}
    + [委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [新增 SSL 憑證](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
