@@ -13,9 +13,9 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classi
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 60%
 
 ---
@@ -26,7 +26,6 @@ ht-degree: 60%
 + [控制面板概觀](/help/control-panel-tutorials/control-panel-overview.md)
 + [控制面板快速入門](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理{#sftp-management}
-   + SFTP 管理{#sftp-management}
    + [監控伺服器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [新增IP範圍至允許清單](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [產生 SSH 金鑰](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
