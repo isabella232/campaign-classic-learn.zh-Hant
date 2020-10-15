@@ -1,6 +1,6 @@
 ---
 title: 建立和管理設定檔
-description: 瞭解Adobe Campaign Classic中設定檔的概念。 瞭解如何存取描述檔資料、排序和篩選描述檔，以及手動建立和管理描述檔。 本影片還說明Adobe Campaign Classic與通用資料保護規則(GDPR)和加州消費者隱私法(CCPA)的相容性。
+description: 了解 Adobe Campaign Classic 中設定檔的概念。了解如何存取設定檔資料、排序和篩選設定檔，以及手動建立和管理設定檔。本影片還說明 Adobe Campaign Classic 與一般資料保護規範 (GDPR) 和加州消費者隱私保護法 (CCPA) 的相容性。
 feature: Profiles
 topics: null
 kt: 5081
@@ -13,16 +13,16 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 14%
+ht-degree: 85%
 
 ---
 
 
 # 建立和管理設定檔
 
-瞭解Adobe Campaign Classic中設定檔的概念。 瞭解如何存取描述檔資料、排序和篩選描述檔，以及手動建立和管理描述檔。
+了解 Adobe Campaign Classic 中設定檔的概念。了解如何存取設定檔資料、排序和篩選設定檔，以及手動建立和管理設定檔。
 
-本影片還說明Adobe Campaign Classic與通用資料保護規則(GDPR)和加州消費者隱私法(CCPA)的相容性。
+本影片還說明 Adobe Campaign Classic 與一般資料保護規範 (GDPR) 和加州消費者隱私保護法 (CCPA) 的相容性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
 
