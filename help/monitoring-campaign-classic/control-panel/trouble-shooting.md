@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
@@ -49,7 +49,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*如何為產品設定檔管理員新增管理員，以便使用[!UICONTROL Control panel] (01:03 分鐘)*
+*如何為產品設定檔管理員新增管理員，以便使用[!UICONTROL Control panel](01:03 分鐘)*
 
 ### 實用文件
 
@@ -64,7 +64,7 @@ ht-degree: 100%
 * 需要向 Adobe Campaign 註冊私人/公有金鑰組
 * 如果直接連接到 SFTP 伺服器，您還需要 SFTP 用戶端軟體
 
-### 實用文件
+### 實用文件 {#helpful-docs}
 
 * [登入您的 SFTP 伺服器](https://helpx.adobe.com/tw/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
