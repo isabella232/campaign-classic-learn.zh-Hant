@@ -9,9 +9,9 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: user
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 瞭解 Adobe Campaign Classic 如何與 Adobe Digital Experience 作品集整合，並概觀其主要特性與功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12)
