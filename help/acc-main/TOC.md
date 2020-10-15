@@ -12,11 +12,11 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic-lear
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '356'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -29,20 +29,20 @@ ht-degree: 74%
    + [探索 Adobe Campaign Classic 使用者介面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理行銷宣傳](/help/getting-started/managing-marketing-campaigns.md)
    + [建立行銷計畫、計畫和行銷活動](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [建立行銷活動和電子郵件](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
-   + [在工作流程中定位描述檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
-+ Profile Management {#profile-management}
+   + [建立行銷活動和電子郵件](https://docs.adobe.com/content/help/zh-Hant/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [在工作流程中定位設定檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
++ 設定檔管理 {#profile-management}
    + [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
-   + [匯入描述檔](/help/data-management/importing-profiles.md)
+   + [匯入設定檔](/help/data-management/importing-profiles.md)
    + [建立收件者清單](/help/profile-management/creating-a-list-of-recipients.md)
    + [使用工作流程建立收件者清單](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 傳送訊息{#sending-messages}
    + 電子郵件通道{#email-channel}
       + [建立行銷活動和電子郵件](/help/getting-started/creating-a-campaign-and-an-email.md)
       + [管理電子郵件中的種子和校樣](/help/sending-messages/managing-seed-and-proofs.md)
-      + [使用動態內容區塊個人化電子郵件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [使用動態內容區塊製作個人化電子郵件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [使用個人化欄位個人化電子郵件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-      + [個人化電子郵件——使用條件式內容建立多語言電子報](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+      + [個人化電子郵件 – 使用條件式內容建立多語電子報](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [設定循環和持續的電子郵件行銷活動](/help/sending-messages/recurring-deliveries.md)
       + [使用 AMP 定義互動式電子郵件內容](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + 推播通道 {#push-channel}
@@ -59,13 +59,13 @@ ht-degree: 74%
 + 協調行銷活動{#orchestration}
    + [建立多通道行銷活動](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 + 報告 {#reporting}
-   + [產生描述性分析報表](/help/reporting/generating-a-descriptive-analysis-report.md)
+   + [產生描述性分析報告](/help/reporting/generating-a-descriptive-analysis-report.md)
 + 使用工作流程自動化 {#automating-with-workflows}
    + [建立工作流程](/help/automating-with-workflows/creating-a-workflow.md)
    + [建立定位工作流程](/help/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [結合查詢結果以精確目標](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-   + [通過排除查詢結果來細化目標](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [使用更新清單活動建立具有工作流的清單](/help/automating-with-workflows/using-the-update-list-activity.md)
+   + [結合查詢結果以修訂目標](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+   + [排除查詢結果以修訂目標](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+   + [使用更新清單活動，建立具有工作流程的清單](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [設定驗證工作流程](/help/automating-with-workflows/validation-flow-configuration.md)
    + [設定擴充活動](/help/automating-with-workflows/enrichment-activity.md)
    + [資料分段](/help/data-management/data-segmentation.md)
@@ -85,7 +85,7 @@ ht-degree: 74%
       + [委派子網域](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [新增 SSL 憑證](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [新增 URL 權限](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [新增IP位址以允許清單](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [新增 IP 位址以允許清單](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Google TXT 記錄管理](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + GPG 金鑰管理 {#gpg-key-management}
          + [GPG 金鑰管理 - 概觀](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
@@ -94,4 +94,4 @@ ht-degree: 74%
          + [解密資料](/help/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [控制面板疑難排解](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 存取外部資料庫 (FDA){#fda}
-      + [ [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)大數據管理
+      + [大數據管理 [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
