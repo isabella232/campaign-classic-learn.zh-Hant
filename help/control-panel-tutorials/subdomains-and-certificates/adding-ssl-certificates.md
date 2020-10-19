@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: 60a9359f42f05ac21f4130c16bd5de1353d679f9
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '214'
+ht-degree: 96%
 
 ---
 
@@ -58,7 +58,7 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您新增 SSL 憑證，以保
 
 *安裝 SSL 憑證 (01:25分鐘)*
 
-## 其他資源：
+## 其他資源
 
-* [委派子網域](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-* [子網域和憑證──文件](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [完整子網域委派（視訊）](./subdomain-delegation.md)
+* [子網域和憑證（檔案）](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
