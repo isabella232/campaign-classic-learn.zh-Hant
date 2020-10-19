@@ -13,10 +13,10 @@ getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 100%
+source-wordcount: '324'
+ht-degree: 97%
 
 ---
 
@@ -77,21 +77,6 @@ ht-degree: 100%
 + 整合 {#integrating}
    + [如何將 Dynamics 365 與 Adobe Campaign Classic 整合](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
-   + 控制面板{#control-panel-acc}
-      + [控制面板概觀](/help/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [監控伺服器容量、允許清單 IP 位址和新增 SSH 金鑰](/help/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [產生 SSH 金鑰](/help/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-      + [連接到 SFTP 伺服器](/help/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
-      + [委派子網域](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [新增 SSL 憑證](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [新增 URL 權限](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [新增 IP 位址以允許清單](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
-      + [Google TXT 記錄管理](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + GPG 金鑰管理 {#gpg-key-management}
-         + [GPG 金鑰管理 - 概觀](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [產生並安裝用於資料加密的 GPG 金鑰](/help/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [使用 GPG 金鑰加密資料](/help/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [解密資料](/help/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
-      + [控制面板疑難排解](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
+   + [控制面板](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
    + 存取外部資料庫 (FDA){#fda}
       + [大數據管理 [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
