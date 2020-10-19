@@ -3,11 +3,11 @@ title: Adobe Campaign Classic 教學課程 – 概觀
 description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
-source-wordcount: '250'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 89%
 
 ---
 
@@ -18,17 +18,9 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 ## 新增功能
 
-* **[GPG 金鑰管理](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[使用CNAME（測試版）委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *瞭解如何在指定的 [!UICONTROL Campaign] 執行個體產生和安裝公開/私人金鑰組，以加密傳出資料，以及在 Campaign 執行個體匯入和安裝公開金鑰，以解密傳入資料。*
-
-* **[委派子網域 (BETA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
-
-   *瞭解如何將子網域完全委派至 Adobe Campaign*
-
-* **[使用 AMP 定義互動式電子郵件內容](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
-
-   *瞭解如何以 AMP 格式設定電子郵件內容 Adobe Campaign Classic (ACC)。*
+   *瞭解如何使用「控制面板」中的CNAME來設定和送出子網域。*
 
 ## 員工精選
 
