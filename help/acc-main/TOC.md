@@ -11,9 +11,8 @@ tutorials-title: 教學課程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic-learn/tutorials/overview.html
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-type: Tutorial
 translation-type: tm+mt
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 100%
