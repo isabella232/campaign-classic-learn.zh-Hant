@@ -3,11 +3,11 @@ title: Adobe Campaign Classic 教學課程 – 概觀
 description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -18,9 +18,9 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 ## 新增功能
 
-* **[使用CNAME（測試版）委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+* **[使用CNAME (beta) 委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *瞭解如何使用「控制面板」中的CNAME來設定和送出子網域。*
+   *瞭解如何使用「控制面板」中的 CNAME 來設定和提交子網域。*
 
 ## 員工精選
 
@@ -28,7 +28,7 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 <tr>
   <td>
     <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-      <img alt="工作流程熱度圖 (影片)" src="./assets/workflow-heatmap.png"/>
+      <img alt="工作流程熱度圖（影片）" src="./assets/workflow-heatmap.png"/>
     </a>
     <div>
       <a href="./monitoring-campaign-classic/workflow-heatmap.md">
@@ -41,7 +41,7 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="稽核軌跡 (影片)" src="./assets/acc-audit-trail-thumb.png" />
+      <img alt="稽核軌跡（影片）" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
@@ -54,7 +54,7 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
   </td>
   <td>
     <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-      <img alt="使用 AMP 定義互動式電子郵件內容 (影片)" src="./assets/29940.png" />
+      <img alt="使用 AMP 定義互動式電子郵件內容（影片）" src="./assets/29940.png" />
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
