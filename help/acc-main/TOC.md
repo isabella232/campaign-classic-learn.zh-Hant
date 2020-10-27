@@ -16,7 +16,7 @@ translation-type: tm+mt
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -77,6 +77,6 @@ ht-degree: 97%
 + 整合 {#integrating}
    + [如何將 Dynamics 365 與 Adobe Campaign Classic 整合](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
-   + [控制面板](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [控制面板](https://docs.adobe.com/content/help/zh-Hant/campaign-classic-learn/control-panel/control-panel-overview.html)
    + 存取外部資料庫 (FDA){#fda}
       + [大數據管理 [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
