@@ -7,11 +7,11 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: ht
-source-wordcount: '197'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 94fec8af7e6de034e3482d39fde79f70bfa8b089
+workflow-type: tm+mt
+source-wordcount: '209'
+ht-degree: 94%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 100%
 Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、管理 GPG 金鑰或子網域和憑證。
 
 ## 新增功能
+
+* **[監控資料庫](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *瞭解如何監控實例的資料庫使用情況。*
 
 * **[使用 CNAME 委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
