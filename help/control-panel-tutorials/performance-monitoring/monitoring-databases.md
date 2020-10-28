@@ -10,17 +10,17 @@ audience: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 94fec8af7e6de034e3482d39fde79f70bfa8b089
+source-git-commit: 4f24a2b09209e4641186d3b4f2d9bbdc9e450a1b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 3%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
 # 監控資料庫
 
-例 [!DNL Adobe Campaign] 項的資料庫包含儲存在中的所有資產、工作流程和資料 [!DNL Adobe Campaign]。 因此，監控實例的資料庫是確保最佳效能的關鍵。
+您的促銷活動例項的所有資產、工作流程和資料都儲存在資料庫中。 資料庫達到最大容量時，可能會導致您的例項發生問題（無法登入、傳送電子郵件等）。 因此，必須定期監視實例的資料庫以確保最佳效能。
 
 瞭解如何使用監控實例的資料庫使用情況 [!DNL Control Panel]。
 
