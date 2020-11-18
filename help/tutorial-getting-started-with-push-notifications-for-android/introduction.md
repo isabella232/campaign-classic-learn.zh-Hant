@@ -8,7 +8,7 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 6%
@@ -36,7 +36,7 @@ Adobe Campaign allows you to send personalized and segmented [!DNL push] notific
 
    您的例項上必須安裝行動應用程式頻道套件。 以下影片說明如何檢查您的例項是否已安裝行動應用程式頻道，若未安裝，則說明如何安裝。
 
-   [!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
 ## 教學課程
 
