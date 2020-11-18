@@ -9,7 +9,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 瞭解如何在Campaign中設定Android Services和建立Android行動應用程式。 若要能夠定義推播通知的目標應用程式，必須執行此步驟。
 
-[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 ## 接下來要看什麼
 
