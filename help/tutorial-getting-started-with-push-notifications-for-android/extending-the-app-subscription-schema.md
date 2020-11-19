@@ -9,7 +9,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 2%
@@ -17,15 +17,15 @@ ht-degree: 2%
 ---
 
 
-# 擴充應用程式訂閱結構以個人化推播通知
+# 擴充架構 [!UICONTROL app subscription] 以個人化推播通知
 
-瞭解如何延伸應用程式訂閱結構，以便儲存Campaign從行動應用程式接收的個人化值。
+瞭解如何擴充 [!UICONTROL app subscription] 架構，以儲存從行動應用程式收 [!DNL Campaign] 到的個人化值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
-## 接下來要看什麼
+**下一步**
 
-**[在Campaign中設定Android服務](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)**
+步驟2: [在Campaign中設定Android服務並建立Android行動應用程式](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
 ## 其他資源
 
