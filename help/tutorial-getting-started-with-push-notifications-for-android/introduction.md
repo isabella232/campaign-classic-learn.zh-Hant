@@ -1,5 +1,5 @@
 ---
-title: 教學課程簡介
+title: Android推播通知快速入門——簡介
 description: 本教學課程將逐步引導您完成從 Adobe Campaign 傳送推播通知以及在 Android 應用程式中接收這些通知的步驟。
 feature: push
 topics: mobile channels
@@ -8,15 +8,15 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9b26dfd30e60c3e12c52e4318a853498af186b4a
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 9%
+source-wordcount: '365'
+ht-degree: 8%
 
 ---
 
 
-# 教學課程簡介
+# Android推播通知快速入門——簡介
 
 Adobe Campaign allows you to send personalized and segmented [!DNL push] notifications to [!DNL iOS] and [!DNL Android] mobile devices. 本教學課程將逐步引導您完成從Adobe Campaign傳送通 [!DNL push] 知至應用程式的相關 [!DNL Android] 步驟。
 
