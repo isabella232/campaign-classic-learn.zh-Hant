@@ -8,17 +8,17 @@ solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 index: true
 translation-type: tm+mt
-source-git-commit: 9b26dfd30e60c3e12c52e4318a853498af186b4a
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 11%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
 # Getting started with push notifications for Android {#getting-started-with-push-notifications-for-android}
 
-+ [教學課程簡介](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)
++ [Android推播通知快速入門——簡介](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)
 + [步驟1:擴充應用程式訂閱結構以個人化推播通知](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 + [步驟2:在Campaign中設定Android服務並建立Android行動應用程式](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 + [步驟3:設定和傳送推播通知](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
