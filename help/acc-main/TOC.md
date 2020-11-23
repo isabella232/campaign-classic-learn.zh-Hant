@@ -6,7 +6,7 @@ user-guide-description: Adobe Campaign Classic 可讓行銷人員設計跨通道
 breadcrumb-title: 教學課程
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hant&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: 教學課程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic-learn/tutorials/overview.html
 getting-started-title: 文件
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 92%
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 92%
 + [概觀](/help/overview.md)
 + 快速入門{#getting-started}
    + [Adobe Campaign Classic 簡介](/help/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [安裝和設定Adobe Campaign用戶端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [安裝及設定 Adobe Campaign 用戶端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [探索 Adobe Campaign Classic 使用者介面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理行銷宣傳](/help/getting-started/managing-marketing-campaigns.md)
    + [建立行銷計畫、計畫和行銷活動](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
