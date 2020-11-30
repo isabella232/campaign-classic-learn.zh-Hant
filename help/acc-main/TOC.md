@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hant&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: 教學課程
-tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
+source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 94%
+source-wordcount: '343'
+ht-degree: 90%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 94%
    + [探索 Adobe Campaign Classic 使用者介面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理行銷宣傳](/help/getting-started/managing-marketing-campaigns.md)
    + [建立行銷計畫、計畫和行銷活動](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [建立行銷活動和電子郵件](https://docs.adobe.com/content/help/zh-Hant/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [建立行銷活動和電子郵件](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
    + [在工作流程中定位設定檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + 設定檔管理 {#profile-management}
    + [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
@@ -79,6 +79,6 @@ ht-degree: 94%
 + 整合 {#integrating}
    + [如何將 Dynamics 365 與 Adobe Campaign Classic 整合](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
-   + [控制面板](https://docs.adobe.com/content/help/zh-Hant/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [控制面板](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hant)
    + 存取外部資料庫 (FDA){#fda}
       + [大數據管理 [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
