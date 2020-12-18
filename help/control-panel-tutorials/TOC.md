@@ -5,15 +5,15 @@ user-guide-description: 「控制面板」可以讓 Adobe Campaign 管理員監�
 breadcrumb-title: 控制面板教學課程
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hant&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: 教學課程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic-learn/tutorials/overview.html
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
 ht-degree: 100%
 
