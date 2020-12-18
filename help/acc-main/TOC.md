@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hant&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: 教學課程
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 90%
    + [探索 Adobe Campaign Classic 使用者介面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理行銷宣傳](/help/getting-started/managing-marketing-campaigns.md)
    + [建立行銷計畫、計畫和行銷活動](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [建立行銷活動和電子郵件](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+   + [建立行銷活動和電子郵件](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=zh-Hant)
    + [在工作流程中定位設定檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + 設定檔管理 {#profile-management}
    + [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
@@ -48,7 +48,7 @@ ht-degree: 90%
    + 推播通道 {#push-channel}
       + [安裝行動應用程式頻道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [使用 Experience Platform Mobile SDK 設定推播通道](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Android推播通知快速入門（教學課程）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
+      + [Android 推播通知快速入門（教學課程）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=zh-Hant)
    + 使用傳遞範本{#using-delivery-templates}
       + [設定傳遞範本](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [設定傳遞範本屬性](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
