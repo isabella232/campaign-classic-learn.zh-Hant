@@ -3,11 +3,11 @@ title: Adobe Campaign Classic 教學課程 – 概觀
 description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -18,12 +18,12 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 ## 新增功能
 
-* **[Android推播通知快速入門](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
+* **[Android 推播通知快速入門](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
-   *本教學課程將引導您完成從Adobe Campaign傳送推播通知至Android應用程式的相關步驟。*
+   *本教學課程將逐步引導您完成從 Adobe Campaign 傳送推播通知到 Android 應用程式的步驟。*
 
 
-* **[使用CNAME (beta) 委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+* **[使用 CNAME (beta) 委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *瞭解如何使用「控制面板」中的 CNAME 來設定和提交子網域。*
 
