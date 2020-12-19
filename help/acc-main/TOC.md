@@ -11,11 +11,11 @@ tutorials-title: 教學課程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: ht
-source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: ht
-source-wordcount: '343'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+workflow-type: tm+mt
+source-wordcount: '348'
+ht-degree: 98%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 100%
       + [使用態樣規則](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用預先定義的篩選](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + 協調行銷活動{#orchestration}
+   + [執行促銷活動](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [建立多通道行銷活動](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 + 報告 {#reporting}
    + [產生描述性分析報告](/help/reporting/generating-a-descriptive-analysis-report.md)
@@ -71,6 +72,7 @@ ht-degree: 100%
    + [設定驗證工作流程](/help/automating-with-workflows/validation-flow-configuration.md)
    + [設定擴充活動](/help/automating-with-workflows/enrichment-activity.md)
    + [資料分段](/help/data-management/data-segmentation.md)
+   + [管理核准](/help/automating-with-workflows/managing-approvals.md)
 + 設計內容{#designing-content}
    + [設定登錄頁面](/help/designing-content/configure-landingpages.md)
 + 監控{#monitoring}
