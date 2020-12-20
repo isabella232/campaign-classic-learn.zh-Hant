@@ -17,19 +17,19 @@ ht-degree: 1%
 ---
 
 
-# 在Campaign中 [!DNL Android] 設定服務及建立 [!DNL Android] 行動應用程式
+# 設定[!DNL Android]服務並在Campaign中建立[!DNL Android]行動應用程式
 
-瞭解如何在Campaign中設 [!DNL Android] 定服務及建立 [!DNL Android] 行動應用程式。 您必須執行此步驟，才能為推播通知定義目標行動應用程式。
+瞭解如何在Campaign中設定[!DNL Android]服務並建立[!DNL Android]行動應用程式。 您必須執行此步驟，才能為推播通知定義目標行動應用程式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 **上一步**
 
-步驟1: [擴充應用程式訂閱結構以個人化推播通知](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+步驟1:[擴充應用程式訂閱結構以個人化推播通知](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
 **下一步**
 
-步驟3: [設定和傳送推播通知](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
+步驟3:[設定和傳送推播通知](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
 
 ## 其他資源
 
