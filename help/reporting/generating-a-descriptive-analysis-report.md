@@ -20,7 +20,7 @@ ht-degree: 55%
 
 # 產生描述性分析報告
 
-瞭解如何從工作流程 [!UICONTROL descriptive analysis report] 產生內容。
+瞭解如何從工作流程產生[!UICONTROL descriptive analysis report]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
