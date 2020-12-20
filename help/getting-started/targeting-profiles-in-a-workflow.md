@@ -1,5 +1,5 @@
 ---
-title: 在工作流程中定位描述檔
+title: 在工作流程中定位設定檔
 description: 瞭解促銷活動工作流程的使用，並瞭解如何使用篩選條件建立工作流程並定位工作流程中的設定檔。
 feature: Workflows
 topics: Targeting Activities
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 7%
+ht-degree: 38%
 
 ---
 
 
-# 在工作流程中定位描述檔
+# 在工作流程中定位設定檔
 
 瞭解促銷活動工作流程的使用，並瞭解如何使用篩選條件建立工作流程並定位工作流程中的設定檔。
 
@@ -25,9 +25,9 @@ ht-degree: 7%
 
 ## 下一個要觀看的教學課程
 
-* [結合查詢結果以精確目標](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [通過排除查詢結果來細化目標](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [使用更新清單活動建立具有工作流的清單](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [結合查詢結果以修訂目標](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [排除查詢結果以修訂目標](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [使用更新清單活動，建立具有工作流程的清單](/help/automating-with-workflows/using-the-update-list-activity.md)
 
 ## 其他資源
 
@@ -40,4 +40,4 @@ ht-degree: 7%
 教學課程：
 
 * [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
-* [匯入描述檔](/help/data-management/importing-profiles.md)
+* [匯入設定檔](/help/data-management/importing-profiles.md)
