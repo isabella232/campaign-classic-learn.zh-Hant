@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 25%
+ht-degree: 37%
 
 ---
 
@@ -34,5 +34,5 @@ ht-degree: 25%
 
 教學課程：
 
-* [使用動態內容區塊個人化電子郵件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [個人化電子郵件——使用條件式內容建立多語言電子報](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [使用動態內容區塊製作個人化電子郵件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [個人化電子郵件 – 使用條件式內容建立多語電子報](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
