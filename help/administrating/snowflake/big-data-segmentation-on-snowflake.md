@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # 雪花的大資料管理
 
-本教學課程說明如何在Adobe Campaign [!DNL Snowflake] Classic中運用連接器。
+本教學課程說明如何在Adobe Campaign Classic中運用[!DNL Snowflake]連接器。
 您將學習如何
 
 * 連接到雪花
