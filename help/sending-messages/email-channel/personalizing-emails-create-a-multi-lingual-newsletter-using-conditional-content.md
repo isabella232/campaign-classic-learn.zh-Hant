@@ -1,5 +1,5 @@
 ---
-title: 個人化電子郵件——使用條件式內容建立多語言電子報
+title: 個人化電子郵件 – 使用條件式內容建立多語電子報
 description: 透過多語言電子報的範例，瞭解如何將條件式內容新增至傳送內容。
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 35%
+ht-degree: 62%
 
 ---
 
 
-# 個人化電子郵件——使用條件式內容建立多語言電子報
+# 個人化電子郵件 – 使用條件式內容建立多語電子報
 
 透過設定條件式內容欄位，您可以建立進階的個人化。滿足特定條件時，便可以取代完整的文本區塊及/或影像。
 
@@ -34,5 +34,5 @@ ht-degree: 35%
 
 教學影片：
 
-* [使用動態內容區塊個人化電子郵件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [使用動態內容區塊製作個人化電子郵件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
 * [使用個人化欄位個人化電子郵件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
