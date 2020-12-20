@@ -17,15 +17,15 @@ ht-degree: 2%
 ---
 
 
-# 擴充架構 [!UICONTROL app subscription] 以個人化推播通知
+# 擴充[!UICONTROL app subscription]架構以個人化推播通知
 
-瞭解如何擴充 [!UICONTROL app subscription] 架構，以儲存從行動應用程式收 [!DNL Campaign] 到的個人化值。
+瞭解如何擴充[!UICONTROL app subscription]架構，以便儲存從行動應用程式收到的個人化值[!DNL Campaign]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
 **下一步**
 
-步驟2: [在Campaign中設定Android服務並建立Android行動應用程式](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+步驟2:[在Campaign中設定Android服務並建立Android行動應用程式](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
 ## 其他資源
 
