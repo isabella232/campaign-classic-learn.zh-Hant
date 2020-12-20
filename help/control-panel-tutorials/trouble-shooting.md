@@ -64,7 +64,7 @@ ht-degree: 100%
 * 需要向 Adobe Campaign 註冊私人/公有金鑰組
 * 如果直接連接到 SFTP 伺服器，您還需要 SFTP 用戶端軟體
 
-### 實用文件 {#helpful-docs}
+### 實用文件  {#helpful-docs}
 
 * [登入您的 SFTP 伺服器](https://helpx.adobe.com/tw/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
