@@ -11,19 +11,19 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 65%
 
 ---
 
 
-# Getting started with the [!UICONTROL Control Panel] {#control-panel}
+# [!UICONTROL Control Panel] {#control-panel}快速入門
 
 >[!NOTE]
 >
 >Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」用詞，已由「[!UICONTROL allowlist]及「[!UICONTROL denylist]」取代。產品 UI、選項名稱、內部程式碼及教學課程影片可能仍會出現這些詞語。這些用詞將在未來的「控制面板」版本被取代。
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+[!UICONTROL Control Panel]可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項管理[!DNL SFTP]儲存、管理[!DNL GPG]金鑰或[!UICONTROL subdomains]和[!UICONTROL certificates]。
 
 本文將說明如何存取控制面板，以及使用控制面板的先決條件。
 
@@ -50,7 +50,7 @@ The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor k
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*檢查[!DNL IMS Org ID]（00:26 分鐘）*
+*檢查 [!DNL IMS Org ID] （00:26 分鐘）*
 
 ### 管理員權限
 
