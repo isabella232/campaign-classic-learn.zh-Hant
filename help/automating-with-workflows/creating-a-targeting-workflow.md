@@ -22,4 +22,5 @@ Adobe Campaign使用工作流程來進行定位促銷活動、建立促銷活動
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-如需詳細資訊， [請參閱「工](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)作 [流程」](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) 和「定位活動」的相關檔案。
+請參閱有關Workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)的檔案[
+和[關於定位活動](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)，以瞭解詳細資訊。
