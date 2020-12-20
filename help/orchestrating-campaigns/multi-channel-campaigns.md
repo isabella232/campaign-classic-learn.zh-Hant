@@ -1,6 +1,6 @@
 ---
 title: 在Adobe Campaign Classic(ACC)中建立多通道促銷活動
-description: 瞭解如何運用電子郵件、簡訊和直接郵件傳送來建立多通道宣傳。
+description: 了解如何運用電子郵件、寄送簡訊及傳送直接郵件，建立多管道行銷活動。
 feature: Workflows
 topics: null
 kt: 1563
@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 5%
+ht-degree: 38%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 
 多頻道傳送是在單一工作流程中設計和執行。
 
-瞭解如何運用電子郵件、簡訊和直接郵件傳送來建立多通道宣傳。
+了解如何運用電子郵件、寄送簡訊及傳送直接郵件，建立多管道行銷活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
