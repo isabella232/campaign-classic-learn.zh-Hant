@@ -1,5 +1,5 @@
 ---
-title: 監控伺服器容量
+title: 監視伺服器容量
 description: 「控制面板」可以讓您依執行個體監控及管理 SFTP 儲存，並將 IT 位址新增至允許清單。
 feature: SFTP Management
 topics: Control Panel
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 8d354d89015e1985be5a8c3c13fee53961b1d686
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 66%
+ht-degree: 73%
 
 ---
 
 
-# 監控伺服器容量
+# 監視伺服器容量
 
 「控制面板」可讓您依例項監視和管理SFTP儲存空間。
 
