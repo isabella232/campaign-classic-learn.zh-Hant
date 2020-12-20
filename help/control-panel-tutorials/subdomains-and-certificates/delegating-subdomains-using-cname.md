@@ -17,7 +17,7 @@ ht-degree: 47%
 ---
 
 
-# 使用CNAME (beta) 委派子網域
+# 使用 CNAME (beta) 委派子網域
 
 >[!IMPORTANT]
 >
