@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 58%
+ht-degree: 71%
 
 ---
 
@@ -34,5 +34,5 @@ ht-degree: 58%
 教學課程：
 
 * [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
-* [匯入描述檔](/help/data-management/importing-profiles.md)
+* [匯入設定檔](/help/data-management/importing-profiles.md)
 * [使用工作流程建立收件者清單](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
