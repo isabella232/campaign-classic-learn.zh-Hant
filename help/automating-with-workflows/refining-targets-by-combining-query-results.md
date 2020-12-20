@@ -1,5 +1,5 @@
 ---
-title: 結合查詢結果以精確目標
+title: 結合查詢結果以修訂目標
 description: 瞭解如何使用交叉點或聯合活動在工作流程中結合查詢結果來調整目標。
 feature: Workflows
 topics: Targeting Activities
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 5%
+ht-degree: 36%
 
 ---
 
 
-# 結合查詢結果以精確目標
+# 結合查詢結果以修訂目標
 
-瞭解如何透過使用或活動在工作流程中結合查詢結果來 **[!UICONTROL intersection]** 調整 **[!UICONTROL union]** 目標。
+瞭解如何在使用&#x200B;**[!UICONTROL intersection]**&#x200B;或&#x200B;**[!UICONTROL union]**&#x200B;活動的工作流程中結合查詢結果來調整目標。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
@@ -33,6 +33,6 @@ ht-degree: 5%
 
 教學課程：
 
-* [在工作流程中定位描述檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [通過排除查詢結果來細化目標](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [使用更新清單活動建立具有工作流的清單](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [在工作流程中定位設定檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
+* [排除查詢結果以修訂目標](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [使用更新清單活動，建立具有工作流程的清單](/help/automating-with-workflows/using-the-update-list-activity.md)
