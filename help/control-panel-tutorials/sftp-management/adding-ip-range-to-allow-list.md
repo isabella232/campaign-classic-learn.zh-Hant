@@ -1,5 +1,5 @@
 ---
-title: '新增IP範圍至允許清單 '
+title: '新增 IP 範圍至允許清單 '
 description: 瞭解如何新增IP位址範圍至允許清單。
 feature: Ip Range
 topics: Control Panel
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 3%
+ht-degree: 20%
 
 ---
 
 
-# 新增IP範圍至允許清單
+# 新增 IP 範圍至允許清單
 
 要通過客戶端應用程式或API連接到伺服器，必須設定公共SSH密鑰，並將連接到SFTP伺服器的IP地址添加到允許清單。
 
