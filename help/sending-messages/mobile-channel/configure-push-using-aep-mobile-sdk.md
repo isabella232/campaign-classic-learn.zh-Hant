@@ -1,5 +1,5 @@
 ---
-title: '使用Experience Platform Mobile SDK設定推播頻道 '
+title: '使用 Experience Platform Mobile SDK 設定推播通道 '
 description: '此影片說明如何使用Experience Cloud Mobile SDK，為Campaign Classic設定推播頻道。 '
 feature: Mobile SDK
 topics: Mobile Channels
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 2%
+ht-degree: 24%
 
 ---
 
 
-# 使用Experience Platform Mobile SDK設定推播頻道
+# 使用 Experience Platform Mobile SDK 設定推播通道
 
 本影片說明如何設定和安裝Adobe Experience Platform Mobile SDK。
 
