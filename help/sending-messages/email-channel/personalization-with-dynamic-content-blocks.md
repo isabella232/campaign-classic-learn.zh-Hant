@@ -1,5 +1,5 @@
 ---
-title: 使用動態內容區塊個人化電子郵件
+title: 使用動態內容區塊製作個人化電子郵件
 description: 瞭解如何建立動態內容區塊，以及如何使用這些區塊來個人化您的電子郵件傳送內容。
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 48%
+ht-degree: 67%
 
 ---
 
 
-# 使用動態內容區塊個人化電子郵件
+# 使用動態內容區塊製作個人化電子郵件
 
 在 Adobe Campaign，您可以製作個人化內容或訊息外觀，並將其與收件者設定檔的條件結合。
 
@@ -37,4 +37,4 @@ ht-degree: 48%
 教學影片：
 
 * [使用個人化欄位個人化電子郵件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [個人化電子郵件——使用條件式內容建立多語言電子報](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [個人化電子郵件 – 使用條件式內容建立多語電子報](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
