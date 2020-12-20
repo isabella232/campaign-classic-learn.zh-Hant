@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # 電子郵件傳送活動與傳送活動
 
-A可 [!UICONTROL Delivery-type activity] 讓您建立傳送動作。 它可以使用輸入元件來構造。
+[!UICONTROL Delivery-type activity]可讓您建立傳送動作。 它可以使用輸入元件來構造。
 
 此影片說明如何部署電子郵件傳送範本。 它說明電子郵件傳送與傳送工作流程之間的差異。
 
