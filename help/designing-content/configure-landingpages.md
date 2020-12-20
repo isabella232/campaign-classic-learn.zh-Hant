@@ -25,4 +25,4 @@ Adobe Campaign Classic可讓您在其伺服器上設計並主控各種著陸頁�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-如需詳細資訊，請參閱建立登陸頁 [面的詳細檔案](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)。
+如需詳細資訊，請參閱[建立著陸頁面](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)的詳細檔案。
