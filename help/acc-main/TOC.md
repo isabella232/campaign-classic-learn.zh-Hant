@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 4c2ad15599c4cadb1074f227d1f10be0a2315106
+source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 97%
+source-wordcount: '358'
+ht-degree: 96%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 97%
    + 電子郵件通道{#email-channel}
       + [建立行銷活動和電子郵件](/help/getting-started/creating-a-campaign-and-an-email.md)
       + [管理電子郵件中的種子和校樣](/help/sending-messages/managing-seed-and-proofs.md)
+      + [設定動態內容](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [使用動態內容區塊製作個人化電子郵件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [使用個人化欄位個人化電子郵件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [個人化電子郵件 – 使用條件式內容建立多語電子報](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
