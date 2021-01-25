@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 95%
+source-wordcount: '367'
+ht-degree: 88%
 
 ---
 
@@ -28,9 +28,10 @@ ht-degree: 95%
    + [安裝及設定 Adobe Campaign 用戶端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [探索 Adobe Campaign Classic 使用者介面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理行銷宣傳](/help/getting-started/managing-marketing-campaigns.md)
-   + [建立行銷計畫、計畫和行銷活動](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [建立行銷活動和電子郵件](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=zh-Hant)
-   + [在工作流程中定位設定檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [建立行銷計畫、計畫和宣傳](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+   + [建立促銷活動和電子郵件](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=zh-Hant)
+   + [在工作流程中定位描述檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [建立事件觸發的促銷活動](/help/getting-started/create-event-triggered-campaigns.md)
 + 設定檔管理 {#profile-management}
    + [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
    + [匯入設定檔](/help/data-management/importing-profiles.md)
