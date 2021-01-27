@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 81%
+source-wordcount: '50'
+ht-degree: 60%
 
 ---
 
@@ -25,5 +25,4 @@ ht-degree: 81%
 
 ## 其他資源：
 
-* [使用案例：建立電子郵件傳遞](https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
-* [打造工作流程 (文件)](https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html)
+* [使用案例：建立電子郵件傳遞](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case)
