@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '358'
 ht-degree: 88%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 88%
    + [探索 Adobe Campaign Classic 使用者介面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理行銷宣傳](/help/getting-started/managing-marketing-campaigns.md)
    + [建立行銷計畫、計畫和宣傳](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [建立促銷活動和電子郵件](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=zh-Hant)
+   + [建立行銷活動和電子郵件](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [在工作流程中定位描述檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [建立事件觸發的促銷活動](/help/getting-started/create-event-triggered-campaigns.md)
 + 設定檔管理 {#profile-management}
@@ -39,7 +39,7 @@ ht-degree: 88%
    + [使用工作流程建立收件者清單](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 傳送訊息{#sending-messages}
    + 電子郵件通道{#email-channel}
-      + [建立行銷活動和電子郵件](/help/getting-started/creating-a-campaign-and-an-email.md)
+      + [建立和設計電子郵件傳送](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [管理電子郵件中的種子和校樣](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [設定動態內容](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [使用動態內容區塊製作個人化電子郵件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -52,12 +52,12 @@ ht-degree: 88%
       + [安裝行動應用程式頻道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [使用 Experience Platform Mobile SDK 設定推播通道](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Android 推播通知快速入門（教學課程）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=zh-Hant)
+   + 直接郵件 {#direct-mail}
+      + [建立直接郵件傳送](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 使用傳遞範本{#using-delivery-templates}
       + [設定傳遞範本](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [設定傳遞範本屬性](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [部署隨選電子郵件傳遞範本](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + 直接郵件 {#direct-mail}
-      + [建立直接郵件傳送](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 疲勞管理{#fatigue-management}
       + [使用態樣規則](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用預先定義的篩選](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
