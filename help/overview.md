@@ -3,11 +3,11 @@ title: Adobe Campaign Classic 教學課程 – 概觀
 description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
-source-wordcount: '233'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 90%
 
 ---
 
@@ -18,18 +18,17 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 ## 新增功能
 
+* **[建立和設計電子郵件傳送](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+
+   *瞭解建立電子郵件傳送的程式，並瞭解如何設計和個人化電子郵件內容。*
+
 * **[Android 推播通知快速入門](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *本教學課程將逐步引導您完成從 Adobe Campaign 傳送推播通知到 Android 應用程式的步驟。*
 
-
 * **[使用 CNAME (beta) 委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *瞭解如何使用「控制面板」中的 CNAME 來設定和提交子網域。*
-
-* **[監控資料庫](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
-
-   *瞭解如何監控執行個體的資料庫使用情況。*
 
 ## 員工精選
 
