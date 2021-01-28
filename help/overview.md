@@ -4,7 +4,7 @@ description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 81%
@@ -20,7 +20,7 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 * **[傳送及驗證校樣](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-*瞭解如何傳送及驗證證明。*
+   *瞭解如何傳送及驗證證明。*
 
 * **[設計電子郵件，以提供傳遞能力](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
