@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
+source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 87%
+source-wordcount: '366'
+ht-degree: 86%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 87%
    + 電子郵件通道{#email-channel}
       + [建立和設計電子郵件傳送](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [管理電子郵件中的種子和校樣](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
+      + [傳送及驗證校樣](/help/sending-messages/email-channel/send-and-validate-proofs)
       + [設定動態內容](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [使用動態內容區塊製作個人化電子郵件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [使用個人化欄位個人化電子郵件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
