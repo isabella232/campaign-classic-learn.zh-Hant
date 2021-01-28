@@ -4,10 +4,10 @@ description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 90%
+source-wordcount: '254'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 90%
 Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Classic 許多功能的影片和教學課程。
 
 ## 新增功能
+
+* ** [設計電子郵件以提供傳遞能力](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+
+   *瞭解如何套用傳遞能力最佳實務。*
 
 * **[建立和設計電子郵件傳送](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
