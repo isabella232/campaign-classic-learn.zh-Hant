@@ -4,10 +4,10 @@ description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
+source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 87%
+source-wordcount: '246'
+ht-degree: 81%
 
 ---
 
@@ -18,7 +18,11 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 ## 新增功能
 
-* ** [設計電子郵件以提供傳遞能力](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[傳送及驗證校樣](/help/sending-messages/email-channel/send-and-validate-proofs)**
+
+*瞭解如何傳送及驗證證明。*
+
+* **[設計電子郵件，以提供傳遞能力](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *瞭解如何套用傳遞能力最佳實務。*
 
@@ -29,10 +33,6 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 * **[Android 推播通知快速入門](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *本教學課程將逐步引導您完成從 Adobe Campaign 傳送推播通知到 Android 應用程式的步驟。*
-
-* **[使用 CNAME (beta) 委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *瞭解如何使用「控制面板」中的 CNAME 來設定和提交子網域。*
 
 ## 員工精選
 
