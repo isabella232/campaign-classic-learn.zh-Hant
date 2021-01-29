@@ -12,7 +12,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 30c86539ae3b543b29f4929c45da32b5751ea40b
+source-git-commit: 72815762856f9537e409b52c4c9752c5193a0efc
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 85%
@@ -52,7 +52,7 @@ ht-degree: 85%
       + [疑難排解電子郵件傳送問題](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [設計電子郵件，以提供傳遞能力](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + SMS頻道{#sms-channel}
-      + [建立 SMS 傳遞](/help/sending-messages/mobile-channel/create-a-sms-delivery)
+      + [建立 SMS 傳遞](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 推播通道 {#push-channel}
       + [安裝行動應用程式頻道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [使用 Experience Platform Mobile SDK 設定推播通道](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
