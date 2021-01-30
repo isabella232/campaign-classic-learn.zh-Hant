@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: 537c202807c5a1c1b1918588d6f3396da9d48a51
 workflow-type: tm+mt
-source-wordcount: '378'
-ht-degree: 84%
+source-wordcount: '384'
+ht-degree: 82%
 
 ---
 
@@ -69,6 +69,7 @@ ht-degree: 84%
    + [設定和管理訂閱服務](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + 協調行銷活動{#orchestration}
    + [執行促銷活動](/help/orchestrating-campaigns/executing-a-campaign.md)
+   + [多通道和跨通道宣傳簡介](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [建立多通道促銷活動](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [建立跨通道促銷活動](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + 報告 {#reporting}
