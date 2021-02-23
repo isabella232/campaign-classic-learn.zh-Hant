@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 537c202807c5a1c1b1918588d6f3396da9d48a51
+source-git-commit: be6a627d858eabdeb7e64d2dd9fa969adcb49a27
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 82%
+source-wordcount: '394'
+ht-degree: 80%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 82%
 # Adobe Campaign Classic 教學課程 {#tutorials}
 
 + [概觀](/help/overview.md)
++ [準備開始使用Adobe Campaign —— 傳遞能力最佳實務](/https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
 + 快速入門{#getting-started}
    + [Adobe Campaign Classic 簡介](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [安裝及設定 Adobe Campaign 用戶端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
