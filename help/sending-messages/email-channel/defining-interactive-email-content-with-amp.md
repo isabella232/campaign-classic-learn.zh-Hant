@@ -1,18 +1,20 @@
 ---
 title: 使用 AMP 定義互動式電子郵件內容
-description: 本影片說明如何以 AMP 格式設定電子郵件內容 Adobe Campaign Classic (ACC)。
-feature: Email, Email Design
+description: 瞭解如何設定AMP格式的電子郵件內容。
+feature: 電子郵件、電子郵件設計
 topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
+role: 商業從業人員、開發人員
+level: 進階
 translation-type: tm+mt
-source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 100%
+source-wordcount: '143'
+ht-degree: 88%
 
 ---
 
