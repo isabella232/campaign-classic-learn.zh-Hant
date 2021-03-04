@@ -1,28 +1,30 @@
 ---
-title: 如何在Adobe Campaign Classic中設定驗證工作流程
-seo-title: 如何在Adobe Campaign Classic中設定驗證工作流程
-description: Adobe Campaign為行銷人員提供數種選項，可供他們檢閱並提供傳送內容、促銷活動目標、資料擷取和預算核准。 本教學課程說明如何設定不同的核准驗證工作流程。
+title: 如何在Adobe Campaign Classic設定驗證工作流程
+seo-title: 如何在Adobe Campaign Classic設定驗證工作流程
+description: 瞭解如何設定不同的核准驗證工作流程。
 seo-description: 本視訊將說明如何在ACCAdobe Campaign中設定和使用傳送範本，為行銷人員提供數種選項，供他們檢閱和提供傳送內容、促銷活動目標、資料擷取和預算核准。 本教學課程說明如何設定不同的核准驗證工作流程。
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Workflow
+feature: 工作流程、核准
 topics: Validation
 kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
+role: 業務從業人員
+level: 進階
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
 
 
-# 如何在Adobe Campaign Classic中設定驗證工作流程
+# 如何在Adobe Campaign Classic設定驗證工作流程
 
-Adobe Campaign為行銷人員提供數種選項，可供他們檢閱並提供傳送內容、促銷活動目標、資料擷取和預算核准。
+Adobe Campaign公司為行銷人員提供多種選項，可供他們審閱及提供傳送內容、促銷活動目標、資料擷取和預算核准。
 
 本教學課程說明如何設定不同的核准驗證工作流程。
 
@@ -30,8 +32,8 @@ Adobe Campaign為行銷人員提供數種選項，可供他們檢閱並提供傳
 
 在啟用核准步驟之前，行銷團隊必須先定義個別審核者：
 
-* 核准活動中的Adobe Campaign審核者角色可以是單一審核者（營運商）或一組審核者（營運商角色）。
-* 審核者和審核者群組必須由管理員角色先前在Adobe Campaign中設定。 這可讓促銷活動開發人員選擇審核者作為促銷活動或傳送的核准者。
+* 批准活動中的Adobe Campaign審閱者角色可以是單個審閱者（操作員）或一組審閱者（操作員角色）。
+* 審閱者和審閱者組以前必須由管理員角色在Adobe Campaign配置。 這可讓促銷活動開發人員選擇審核者作為促銷活動或傳送的核准者。
 
 ## 設定促銷活動的核准{#configuring-approvals-for-campaigns}
 
@@ -51,4 +53,4 @@ Adobe Campaign為行銷人員提供數種選項，可供他們檢閱並提供傳
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
 
-如需詳細資訊，請參閱[Approval Documentation](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)
+如需詳細資訊，請參閱[核准檔案](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)
