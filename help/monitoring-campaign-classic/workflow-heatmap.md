@@ -1,17 +1,19 @@
 ---
 title: 工作流程熱度圖
-description: Adobe Campaign 工作流程熱度圖包含目前執行的所有工作流程，並以色彩編碼的圖形來加以呈現。  藉由提供並行工作流程數目的快速概覽，讓 Adobe Campaign 平台管理員可以監控執行個體的負載情形，並據此規劃工作流程。
-feature: Workflow Heatmap
+description: 瞭解如何監控實例的負載並據此規劃工作流程。
+feature: 熱圖
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
+role: 管理員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 100%
+source-wordcount: '171'
+ht-degree: 90%
 
 ---
 
