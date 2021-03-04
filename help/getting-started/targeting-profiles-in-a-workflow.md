@@ -1,17 +1,19 @@
 ---
 title: 如何在工作流程中定位描述檔
 description: 瞭解促銷活動工作流程的使用，並瞭解如何使用篩選條件建立工作流程並定位工作流程中的設定檔。
-feature: Workflows
+feature: 工作流程
 topics: Targeting Activities
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '135'
 ht-degree: 30%
 
 ---
@@ -23,7 +25,7 @@ ht-degree: 30%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
 
-## 下一個要觀看的教學課程
+## 下一位Tutorials觀看
 
 * [結合查詢結果以修訂目標](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [排除查詢結果以修訂目標](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
