@@ -1,17 +1,19 @@
 ---
 title: 管理促銷活動中的核准
 description: 瞭解如何設定核准和促銷活動，以及如何區分傳送和工作流程核准。
-feature: Workflows, Approvals
+feature: 工作流程，核准
 topics: null
 kt: 5093
 thumbnail: 329605.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '83'
 ht-degree: 2%
 
 ---
