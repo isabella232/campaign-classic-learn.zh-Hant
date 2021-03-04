@@ -1,16 +1,18 @@
 ---
 title: 建立事件觸發的促銷活動
 description: 瞭解如何建立事件觸發的促銷活動並瞭解其用途。
-feature: Workflows, Targeting Activity
+feature: 工作流程，定位活動
 kt: 5087
 thumbnail: 330920.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
