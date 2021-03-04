@@ -1,17 +1,19 @@
 ---
 title: '設定和傳送推播通知 '
 description: 瞭解如何設定推播通知並傳送給Android應用程式使用者。
-feature: push
+feature: 推播
 topics: mobile channels
 kt: 6579
 thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: 管理員、開發人員、商業從業人員
+level: 初學者、中級、經驗豐富
 translation-type: tm+mt
-source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
