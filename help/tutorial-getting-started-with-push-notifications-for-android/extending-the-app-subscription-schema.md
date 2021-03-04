@@ -1,17 +1,19 @@
 ---
 title: 擴充應用程式訂閱結構以個人化推播通知
 description: 瞭解如何延伸應用程式訂閱結構，以便儲存Campaign從行動應用程式接收的個人化值。
-feature: push, data management
+feature: 推送，結構擴充
 topics: mobile channels
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: 管理員、開發人員
+level: 經驗豐富
 translation-type: tm+mt
-source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '95'
 ht-degree: 2%
 
 ---
