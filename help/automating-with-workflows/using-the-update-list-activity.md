@@ -1,25 +1,27 @@
 ---
 title: 使用更新清單活動，建立具有工作流程的清單
 description: 瞭解如何透過將標準排除套用至工作流程來調整目標。 您也將學習如何建立預先定義的篩選，以及如何拍攝工作流程。
-feature: Workflows
+feature: 工作流程、定位活動、查詢編輯器
 topics: Targeting Activities
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 36%
+source-wordcount: '131'
+ht-degree: 34%
 
 ---
 
 
 # 使用更新清單活動，建立具有工作流程的清單
 
-瞭解Adobe Campaign Classic中清單的概念，並瞭解如何使用工作流程中的更新清單活動來建立清單。
+瞭解Adobe Campaign Classic清單的概念，並瞭解如何使用工作流程中的更新清單活動來建立清單。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
 
