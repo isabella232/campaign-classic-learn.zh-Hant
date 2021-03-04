@@ -1,18 +1,20 @@
 ---
-title: 在Adobe Campaign Classic中部署臨機電子郵件傳送範本
-description: '此影片說明如何部署臨機電子郵件傳送範本，並說明電子郵件傳送與傳送工作流程之間的差異。 '
-feature: Delivery Templates
+title: 在Adobe Campaign Classic部署臨機電子郵件傳送範本
+description: '瞭解如何部署臨機電子郵件傳送範本，並瞭解電子郵件傳送與傳送工作流程之間的差異。 '
+feature: 傳送範本
 topics: Templates
 kt: 1565
 thumbnail: 24065.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: 管理員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 20%
+source-wordcount: '146'
+ht-degree: 19%
 
 ---
 
