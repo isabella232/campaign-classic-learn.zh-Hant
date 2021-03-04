@@ -1,18 +1,20 @@
 ---
 title: 排除查詢結果以修訂目標
 description: 瞭解如何透過將標準排除套用至工作流程來調整目標。 您也將學習如何建立預先定義的篩選，以及如何拍攝工作流程。
-feature: Workflows
+feature: 工作流程、定位活動、查詢編輯器
 topics: Targeting Activities
 kt: 5548
 thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 34%
+source-wordcount: '145'
+ht-degree: 32%
 
 ---
 
