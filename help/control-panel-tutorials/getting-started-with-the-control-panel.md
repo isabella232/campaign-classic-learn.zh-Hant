@@ -1,18 +1,21 @@
 ---
 title: 控制面板快速入門
-description: 本文將說明如何存取控制面板，以及使用控制面板的先決條件。
-feature: Control Panel
+description: 瞭解如何存取控制面板，以及使用控制面板的先決條件。
+feature: 控制面板
 topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+topic: null
+role: 管理員
+level: 經驗豐富
 translation-type: tm+mt
-source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 65%
+source-wordcount: '219'
+ht-degree: 66%
 
 ---
 
@@ -23,7 +26,7 @@ ht-degree: 65%
 >
 >Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」用詞，已由「[!UICONTROL allowlist]及「[!UICONTROL denylist]」取代。產品 UI、選項名稱、內部程式碼及教學課程影片可能仍會出現這些詞語。這些用詞將在未來的「控制面板」版本被取代。
 
-[!UICONTROL Control Panel]可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項管理[!DNL SFTP]儲存、管理[!DNL GPG]金鑰或[!UICONTROL subdomains]和[!UICONTROL certificates]。
+[!UICONTROL Control Panel]可讓Adobe Campaign管理員監控關鍵資產並執行管理任務，如按實例管理[!DNL SFTP]儲存、管理[!DNL GPG]鍵或[!UICONTROL subdomains]和[!UICONTROL certificates]。
 
 本文將說明如何存取控制面板，以及使用控制面板的先決條件。
 
