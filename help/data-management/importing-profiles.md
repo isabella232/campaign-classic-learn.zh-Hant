@@ -1,24 +1,26 @@
 ---
 title: 如何匯入設定檔？
-description: 此影片說明如何在Adobe Campaign Classic中匯入設定檔
-feature: Profile Management
+description: 瞭解如何在Adobe Campaign Classic匯入設定檔
+feature: 設定檔管理
 topics: Data Import and Export
 kt: 2176
 doc-type: feature video
 activity: use
 team: TM
+role: 商業從業人員、管理員、開發人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 21%
+source-wordcount: '51'
+ht-degree: 23%
 
 ---
 
 
 # 如何匯入設定檔？
 
-此影片說明如何在Adobe Campaign Classic中匯入設定檔。
+此影片說明如何匯入Adobe Campaign Classic的設定檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12)
 
