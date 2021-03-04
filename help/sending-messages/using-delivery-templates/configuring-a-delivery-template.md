@@ -1,19 +1,21 @@
 ---
-title: 在Adobe Campaign Classic中設定傳送範本
-description: 範本可系統地包含類型、寄件者和回覆地址，以及基本個人化區塊，例如鏡像頁面和取消訂閱連結。 它也可包含內容、公司標誌或簽名，以及其他傳送屬性，例如資源有效性、批量等。 以下影片示範如何設定臨機傳送的範本。
-feature: Delivery Templates
+title: 在Adobe Campaign Classic配置傳送模板
+description: 瞭解如何設定臨機傳送的範本。
+feature: 傳送範本
 topics: Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: 管理員
+level: 初學者
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 13%
+source-wordcount: '180'
+ht-degree: 16%
 
 ---
 
