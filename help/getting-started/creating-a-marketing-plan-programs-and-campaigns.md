@@ -1,19 +1,20 @@
 ---
 title: 如何建立行銷計畫、計畫和宣傳
 description: 瞭解有助於有效規划、執行和衡量跨通道行銷宣傳的 Adobe Campaign 主要概念。
-feature: marketing plan
+feature: Campaign
 topics: Getting started
 kt: 5347
 thumbnail: 35132.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: user
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 76%
+source-wordcount: '71'
+ht-degree: 73%
 
 ---
 
