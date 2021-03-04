@@ -1,17 +1,19 @@
 ---
 title: 使用壓力規則管理行銷疲勞
-description: 疲勞管理控制訊息傳送的頻率和數量，以避免收件者過度招攬。 如果您的促銷活動例項中沒有促銷活動最佳化模組，您可以設定預先定義的篩選條件，以依據收到的訊息數量來篩選目標人口。   此影片說明如何使用篩選器在Adobe Campaign Classic中實作疲勞管理。
-feature: Fatigue Management
+description: 瞭解如何使用濾鏡在Adobe Campaign Classic實施疲勞管理。
+feature: 疲勞管理
 topics: null
 kt: 2148
 doc-type: feature video
 activity: use
 team: TM
+role: 商業從業人員、開發人員、管理員
+level: 進階
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 3%
+source-wordcount: '108'
+ht-degree: 6%
 
 ---
 
@@ -20,7 +22,7 @@ ht-degree: 3%
 
 疲勞管理控制訊息傳送的頻率和數量，以避免收件者過度招攬。 如果您的促銷活動例項中沒有促銷活動最佳化模組，您可以設定預先定義的篩選條件，以依據收到的訊息數量來篩選目標人口。
 
-此影片說明如何使用篩選器在Adobe Campaign Classic中實作疲勞管理。
+本影片說明如何使用濾鏡在Adobe Campaign Classic實施疲勞管理。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12)
 
