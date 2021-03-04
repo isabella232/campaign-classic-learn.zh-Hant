@@ -1,7 +1,7 @@
 ---
 title: 監控資料庫
 description: 瞭解如何監控執行個體的資料庫使用情況。
-feature: Database Monitoring
+feature: 控制面板
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -9,18 +9,20 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
+role: 管理員
+level: 經驗豐富
 translation-type: tm+mt
-source-git-commit: 4f24a2b09209e4641186d3b4f2d9bbdc9e450a1b
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 18%
+source-wordcount: '90'
+ht-degree: 20%
 
 ---
 
 
 # 監控資料庫
 
-您的促銷活動例項的所有資產、工作流程和資料都儲存在資料庫中。 資料庫達到最大容量時，可能會導致您的例項發生問題（無法登入、傳送電子郵件等）。 因此，必須定期監視實例的資料庫以確保最佳效能。
+您的促銷活動例項的所有資產、工作流程和資料都儲存在資料庫中。 資料庫達到最大容量可能會導致您的例項發生問題（無法登入、傳送電子郵件等）。 因此，必須定期監視實例的資料庫以確保最佳效能。
 
 瞭解如何使用[!DNL Control Panel]監控實例的資料庫使用情況。
 
