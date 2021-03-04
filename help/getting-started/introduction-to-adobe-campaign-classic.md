@@ -1,19 +1,20 @@
 ---
 title: Adobe Campaign Classic 簡介
 description: 瞭解 Adobe Campaign Classic 如何與 Adobe Digital Experience 作品集整合，並概觀其主要特性與功能。
-feature: null
+feature: 概觀
 topics: Getting started
 kt: 5457
 thumbnail: 35129.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: 用戶
+role: 商業從業人員、管理員、開發人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 98%
+source-wordcount: '60'
+ht-degree: 91%
 
 ---
 
