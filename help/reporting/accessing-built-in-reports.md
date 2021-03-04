@@ -1,26 +1,27 @@
 ---
 title: 存取內建報表
-description: 瞭解  在Campaign Classic中建立報告與分析，並瞭解如何產生傳送報表。
-feature: Reporting
+description: 瞭解內建報告與分析，並瞭解如何產生傳送報告。
+feature: 報告
 topics: null
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: user
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 5866cade054ddc7d3d41db1104887c224dcf0c17
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '74'
+ht-degree: 12%
 
 ---
 
 
 # 存取內建報表
 
-瞭解  在Campaign Classic中建立報告與分析，並瞭解如何產生傳送報表。
+瞭解  以Campaign Classic建立內建報告與分析，並瞭解如何產生傳送報告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
 
