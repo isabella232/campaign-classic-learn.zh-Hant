@@ -1,18 +1,20 @@
 ---
 title: 安裝及設定 Adobe Campaign 用戶端
-description: 影片說明如何下載和安裝 Adobe Campaign 用戶端主控台、建立和管理您與多個環境的連線，以及驗證 Adobe Campaign 主控台的存取權。
-feature: Client consol
+description: 瞭解如何下載和安裝Adobe Campaign客戶端控制台、建立和管理您到多個環境的連接，以及驗證對Adobe Campaign客戶端控制台的訪問。
+feature: 用戶端主控台
 topics: Getting started
 kt: 5003
 thumbnail: 35124.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: 商業從業人員、管理員、開發人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 100%
+source-wordcount: '113'
+ht-degree: 68%
 
 ---
 
