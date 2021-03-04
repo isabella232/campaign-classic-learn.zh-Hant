@@ -1,17 +1,19 @@
 ---
-title: 如何在Adobe Campaign Classic中使用排版規則來設定疲勞管理
-description: 疲勞管理控制傳訊的頻率和數量，以避免收件者過度招攬，而且通常使用類型規則套用。 此影片說明如何運用排版規則，在Adobe Campaign Classic中實作疲勞管理。
-feature: Fatigue Management
+title: 如何建立Adobe Campaign Classic的排版規律疲勞管理
+description: 瞭解如何運用排版規則來實施疲勞管理。
+feature: 疲勞管理
 topics: null
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 2%
+source-wordcount: '210'
+ht-degree: 3%
 
 ---
 
@@ -26,7 +28,7 @@ ht-degree: 2%
 
 如此可免除建立不同促銷活動和工作流程時的額外步驟，同時確保您在適當的時間一致鎖定適當的人口。
 
-此影片說明如何運用排版規則，在Adobe Campaign Classic中實作疲勞管理。
+此視訊說明如何運用排版規則在Adobe Campaign Classic實施疲勞管理。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
