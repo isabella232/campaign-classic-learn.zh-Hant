@@ -12,10 +12,10 @@ topic: null
 role: 管理員
 level: 經驗豐富
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: df1ae08c0664812c266512283c7298b3f293e91d
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 66%
+source-wordcount: '275'
+ht-degree: 36%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 66%
 
 >[!NOTE]
 >
->Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」用詞，已由「[!UICONTROL allowlist]及「[!UICONTROL denylist]」取代。產品 UI、選項名稱、內部程式碼及教學課程影片可能仍會出現這些詞語。這些用詞將在未來的「控制面板」版本被取代。
+>所有管理員使用者都可存取控制面板。 授與使用者管理員存取權的步驟詳見（產品檔案）[https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel]。
+請注意，您的實例必須裝載在AWS上，並使用最新版(Gold Standard)[https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html]構建版本進行升級。 瞭解如何在（本節）[https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version]中檢查您的版本。 要檢查您的實例是否托管在AWS上，請遵循（本頁）[https://experienceleague.adobe.com/docs/control-panel/using/faq.html]中詳細介紹的步驟。
 
 [!UICONTROL Control Panel]可讓Adobe Campaign管理員監控關鍵資產並執行管理任務，如按實例管理[!DNL SFTP]儲存、管理[!DNL GPG]鍵或[!UICONTROL subdomains]和[!UICONTROL certificates]。
 
