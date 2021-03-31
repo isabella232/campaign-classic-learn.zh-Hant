@@ -5,13 +5,13 @@ product: Campaign
 sub-product: Campaign Classic
 feature: 概觀
 topic: null
-role: 商業從業人員、管理員、開發人員
+role: 商務從業人員、管理員、開發人員
 level: 初學者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -22,15 +22,15 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 ## 新增功能
 
-* **[建立跨通道促銷活動](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[建立跨頻道行銷活動](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
-   *瞭解如何建立和執行跨通道促銷活動。*
+   *瞭解如何建立和執行跨頻道行銷活動。*
 
 * **[使用控制群組](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *瞭解控制群組的概念，並瞭解如何使用控制群組進行傳送。*
+   *瞭解控制群組的概念，並瞭解如何使用控制群組進行傳遞。*
 
-* **[傳送及驗證校樣](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
+* **[傳送及驗證證明](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *瞭解如何傳送及驗證證明。*
 
@@ -38,9 +38,9 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
    *瞭解如何套用傳遞能力最佳實務。*
 
-* **[建立和設計電子郵件傳送](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+* **[建立和設計電子郵件傳遞](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *瞭解建立電子郵件傳送的程式，並瞭解如何設計和個人化電子郵件內容。*
+   *瞭解建立電子郵件傳遞的流程，並瞭解如何設計和個人化電子郵件內容。*
 
 
 ## 員工精選
