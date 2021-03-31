@@ -1,7 +1,7 @@
 ---
 product: Adobe Campaign Classic
 user-guide-title: Adobe Campaign 控制面板教學課程
-user-guide-description: 了解如何監視 Adobe Campaign 執行個體的關鍵資產，以及了解如何在控制面板中執行管理任務。
+user-guide-description: 瞭解如何在「控制面板」中監視 Adobe Campaign 執行個體的主要資產以及執行管理任務。
 breadcrumb-title: 控制面板教學課程
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -14,11 +14,11 @@ index: true
 feature: 控制面板
 role: 管理員
 level: 經驗豐富
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
