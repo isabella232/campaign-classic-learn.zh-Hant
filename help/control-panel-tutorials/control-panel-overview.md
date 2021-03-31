@@ -1,7 +1,7 @@
 ---
 title: 控制面板- 概觀
 description: Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、管理 GPG 金鑰或子網域和憑證。
-landing-page-description: 「控制面板」可讓「促銷活動」管理員監控關鍵資產並執行管理工作，例如管理SFTP儲存、GPG金鑰或子網域和憑證。
+landing-page-description: 「控制面板」可讓 Campaign 管理員監視重要資產並執行管理任務，例如依執行個體管理 SFTP 儲存、GPG 金鑰或子網域和憑證。
 feature: 控制面板
 topics: Control Panel
 kt: 3262
@@ -11,11 +11,11 @@ team: PM
 role: 管理員
 level: 經驗豐富
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -69,8 +69,8 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>連接到SFTP伺服器</strong>
-    </a>
+    <strong>連結到 SFTP 伺服器</strong>
+     </a>
     </div>
     <p>
     <em>了解如何使用用戶端 SFTP 應用程式，使用您儲存在控制面板的金鑰，連線至您的 SFTP 伺服器。</em>
