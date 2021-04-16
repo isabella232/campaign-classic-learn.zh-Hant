@@ -1,16 +1,13 @@
 ---
-product: adobe campaign classic
 user-guide-title: 在 Campaign Classic 中使用 Android 推播通知快速入門
 user-guide-description: 本教學課程將逐步引導您完成從 Adobe Campaign 傳送推播通知到 Android 應用程式的步驟。
 breadcrumb-title: Android 推播通知快速入門
 breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hant&tag=Campaign+Classic#recommended/solutions/campaign
 index: true
-translation-type: ht
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
-source-wordcount: '91'
+translation-type: tm+mt
+source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
