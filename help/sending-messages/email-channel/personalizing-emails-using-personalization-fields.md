@@ -1,23 +1,23 @@
 ---
 title: 使用個人化欄位個人化電子郵件
 description: 瞭解如何將個人化欄位新增至主旨行，以及電子郵件傳送的內容。
-feature: 動態內容區塊
+feature: 動態內容
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
+exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 36%
+source-wordcount: '126'
+ht-degree: 37%
 
 ---
-
 
 # 使用個人化欄位個人化電子郵件
 
