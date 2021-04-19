@@ -1,23 +1,23 @@
 ---
 title: 個人化電子郵件 – 使用條件式內容建立多語電子報
 description: 透過多語言電子報的範例，瞭解如何將條件式內容新增至傳送內容。
-feature: 動態內容區塊
+feature: 動態內容
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
+exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 59%
+source-wordcount: '118'
+ht-degree: 62%
 
 ---
-
 
 # 個人化電子郵件 – 使用條件式內容建立多語電子報
 
@@ -34,7 +34,7 @@ ht-degree: 59%
 * [關於個人化](https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * [條件式內容](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
 
-視訊Tutorials:
+影片教學課程:
 
 * [使用動態內容區塊製作個人化電子郵件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
 * [使用個人化欄位個人化電子郵件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
