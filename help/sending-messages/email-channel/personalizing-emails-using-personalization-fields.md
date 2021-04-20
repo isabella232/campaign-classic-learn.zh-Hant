@@ -1,7 +1,7 @@
 ---
 title: 使用個人化欄位個人化電子郵件
 description: 瞭解如何將個人化欄位新增至主旨行，以及電子郵件傳送的內容。
-feature: 動態內容
+feature: Dynamic Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg

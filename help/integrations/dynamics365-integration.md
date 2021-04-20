@@ -2,7 +2,7 @@
 title: 如何將 Dynamics 365 與 Adobe Campaign Classic 整合
 description: 本影片示範如何整合Dynamics 365與Adobe Campaign Classic。
 targetaudience: target-audience new;target-audience ongoing
-feature: 'Microsoft CRM整合 '
+feature: Microsoft CRM Integration 
 topics: Configure
 kt: 1869
 doc-type: feature video

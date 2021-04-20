@@ -1,7 +1,7 @@
 ---
 title: 如何傳送及驗證證明
 description: 瞭解如何傳送及驗證證明。
-feature: 電子郵件、證明
+feature: Email, Proofs
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video

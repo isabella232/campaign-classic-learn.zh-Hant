@@ -1,14 +1,14 @@
 ---
 title: 控制面板快速入門
 description: 瞭解如何存取控制面板，以及使用控制面板的先決條件。
-feature: 控制面板
+feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 管理員
-level: 經驗豐富
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: 2232079c569a46325807befd04ea91d2a64e1597
 workflow-type: tm+mt

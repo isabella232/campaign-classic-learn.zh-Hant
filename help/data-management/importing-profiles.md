@@ -1,7 +1,7 @@
 ---
 title: 如何匯入設定檔？
 description: 瞭解如何在Adobe Campaign Classic匯入設定檔
-feature: 設定檔
+feature: Profiles
 topics: Data Import and Export
 kt: 2176
 doc-type: feature video

@@ -1,7 +1,7 @@
 ---
 title: 工作流程熱度圖
 description: 瞭解如何監控執行個體的負載並據此計畫工作流程。
-feature: 熱度圖
+feature: Heatmap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video

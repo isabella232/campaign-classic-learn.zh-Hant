@@ -1,7 +1,7 @@
 ---
 title: 個人化電子郵件 – 使用條件式內容建立多語電子報
 description: 透過多語言電子報的範例，瞭解如何將條件式內容新增至傳送內容。
-feature: 動態內容
+feature: Dynamic Content
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg

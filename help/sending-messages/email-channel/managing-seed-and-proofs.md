@@ -1,15 +1,15 @@
 ---
 title: 如何管理電子郵件中的種子和校樣
 description: 瞭解如何在現有的電子郵件中新增種子和校樣，以及如何傳送。
-feature: 電子郵件
+feature: Email
 topics: null
 kt: 2178
 thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

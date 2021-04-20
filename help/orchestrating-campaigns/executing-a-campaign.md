@@ -1,15 +1,15 @@
 ---
 title: 執行促銷活動
 description: 瞭解如何執行促銷活動、檢閱電子郵件傳送和傳送屬性。
-feature: 促銷活動、電子郵件
+feature: Campaigns, Email
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

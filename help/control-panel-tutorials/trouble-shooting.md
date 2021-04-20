@@ -1,14 +1,14 @@
 ---
 title: 控制面板疑難排解
 description: 「控制面板」可以讓您依執行個體及允許清單 IP 位址監視及管理您的 SFTP 儲存空間。
-feature: 控制面板
+feature: Control Panel
 topics: Control Panel
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-role: 管理員
-level: 經驗豐富
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

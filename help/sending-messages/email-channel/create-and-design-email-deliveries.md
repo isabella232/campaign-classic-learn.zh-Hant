@@ -1,7 +1,7 @@
 ---
 title: 如何建立及設計電子郵件傳遞
 description: 瞭解建立電子郵件傳遞的流程，同時瞭解如何設計及個人化電子郵件內容。
-feature: 電子郵件、電子郵件設計、個人化
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
 thumbnail: 330941.jpg

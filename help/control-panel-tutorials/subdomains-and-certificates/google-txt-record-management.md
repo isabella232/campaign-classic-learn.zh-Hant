@@ -1,15 +1,15 @@
 ---
 title: Google TXT 記錄管理
 description: 您可以透過 Campaign「控制面板」，將 Google TXT 網站驗證記錄新增至所有用於傳送電子郵件至 Gmail 地址的子網域。
-feature: 控制面板
+feature: Control Panel
 topics: Control Panel
 kt: 4744
 thumbnail: 32369.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 管理員
-level: 經驗豐富
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

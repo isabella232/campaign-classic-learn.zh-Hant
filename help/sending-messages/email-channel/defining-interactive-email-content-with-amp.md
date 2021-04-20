@@ -1,7 +1,7 @@
 ---
 title: 使用 AMP 定義互動式電子郵件內容
 description: 瞭解如何以 AMP 格式設定電子郵件內容。
-feature: 電子郵件、電子郵件設計
+feature: Email, Email Design
 topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg

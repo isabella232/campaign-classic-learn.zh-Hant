@@ -1,15 +1,15 @@
 ---
 title: 建立收件者清單 與工作流程
 description: 瞭解如何從檔案總管設定收件者清單，以建立觀眾。
-feature: 受眾
+feature: Audiences
 topics: Getting started
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

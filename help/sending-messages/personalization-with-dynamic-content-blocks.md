@@ -1,7 +1,7 @@
 ---
 title: 使用動態內容區塊個人化電子郵件
 description: 本教學課程示範如何製作個人化的傳遞內容、在傳遞範本使用 JavaScript 程式碼、在不同的傳遞範本進行標準化及共用內容區塊。
-feature: 動態內容
+feature: Dynamic Content
 topics: Email Channel
 kt: 1559
 doc-type: feature video

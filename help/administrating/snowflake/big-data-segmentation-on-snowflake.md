@@ -1,7 +1,7 @@
 ---
 title: 大資料管理Snowflake
 description: 瞭解如何運用Adobe Campaign Classic的Snowflake連接器
-feature: 同盟資料存取
+feature: Federated Data Access
 topics: FDA
 kt: 4405
 doc-type: feature video

@@ -2,7 +2,7 @@
 title: Adobe Campaign Classic 教學課程 – 概觀
 description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 sub-product: Campaign Classic
-feature: 概觀
+feature: Overview
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7

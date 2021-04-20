@@ -1,7 +1,7 @@
 ---
 title: 如何使用控制組
 description: 瞭解控制組的概念，並瞭解如何使用控制組進行傳遞。
-feature: 控制組
+feature: Control Groups
 kt: 5085
 thumbnail: 330955.jpg
 doc-type: feature video

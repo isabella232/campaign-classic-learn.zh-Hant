@@ -1,15 +1,15 @@
 ---
 title: 如何在Adobe Campaign Classic設定登陸頁面
 description: 瞭解如何建立偏好設定中心來導覽Web應用程式編輯器。
-feature: 登錄頁面
+feature: Landing Pages
 topics: Configure
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: 開發人員、管理員
-level: 初學者
+role: Developer, Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

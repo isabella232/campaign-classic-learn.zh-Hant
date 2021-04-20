@@ -1,15 +1,15 @@
 ---
 title: 使用更新清單活動，建立具有工作流程的清單
 description: 瞭解如何透過將標準排除套用至工作流程來調整目標。 您也將學習如何建立預先定義的篩選，以及如何拍攝工作流程。
-feature: 工作流程、定位活動、查詢編輯器
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

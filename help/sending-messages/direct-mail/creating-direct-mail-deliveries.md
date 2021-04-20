@@ -1,7 +1,7 @@
 ---
 title: 建立直接郵件傳送
 description: 瞭解如何建立、格式化及執行直接郵件傳送。
-feature: 直接郵件
+feature: Direct Mail
 topics: null
 kt: 3859
 thumbnail: 21377.jpg

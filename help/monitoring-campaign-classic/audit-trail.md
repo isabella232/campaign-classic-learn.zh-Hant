@@ -1,7 +1,7 @@
 ---
 title: 如何使用稽核軌跡
 description: '稽核軌跡可以即時擷取Adobe Campaign 中發生之動作和事件的完整清單。 '
-feature: 稽核軌跡
+feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
 doc-type: feature video

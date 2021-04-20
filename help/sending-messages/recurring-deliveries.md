@@ -1,14 +1,14 @@
 ---
 title: 如何設定循環和持續的電子郵件宣傳
 description: 瞭解如何設定循環式和持續式傳送，並瞭解兩種方法的差異。
-feature: 工作流程
+feature: Workflows
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

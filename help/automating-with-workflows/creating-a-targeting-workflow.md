@@ -1,14 +1,14 @@
 ---
 title: 建立定位工作流程
 description: 瞭解如何使用定位工作流程來定義數個傳送定位。
-feature: 工作流程、定位活動、查詢編輯器
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 建立多通道促銷活動
 description: 了解如何運用電子郵件、寄送簡訊及傳送直接郵件，建立多管道行銷活動。
-feature: 工作流程
+feature: Workflows
 topics: null
 kt: 1563
 thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt

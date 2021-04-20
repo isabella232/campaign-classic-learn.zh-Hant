@@ -1,15 +1,15 @@
 ---
 title: 探索 Adobe Campaign Classic 使用者介面
 description: 瞭解主要的Adobe Campaign Classic使用者介面，並示範如何導覽主要功能。
-feature: 概觀
+feature: Overview
 topics: Getting started
 kt: 5009
 thumbnail: 35130.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

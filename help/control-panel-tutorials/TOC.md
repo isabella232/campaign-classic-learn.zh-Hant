@@ -4,7 +4,7 @@ user-guide-description: 瞭解如何在「控制面板」中監視 Adobe Campaig
 breadcrumb-title: 控制面板教學課程
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: 控制面板
+feature: Control Panel
 role: Administrator
 level: Experienced
 translation-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: 建立多管道行銷活動
 description: 瞭解如何建立管道對管道的行銷活動。
-feature: 工作流程
+feature: Workflows
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video

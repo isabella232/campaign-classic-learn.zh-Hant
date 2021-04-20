@@ -1,7 +1,7 @@
 ---
 title: 設定和管理訂閱服務
 description: 瞭解如何設定和管理訂閱並鎖定訂閱者。
-feature: '訂閱     '
+feature: Subscriptions     
 topics: null
 kt: 5088
 thumbnail: 329941.jpg

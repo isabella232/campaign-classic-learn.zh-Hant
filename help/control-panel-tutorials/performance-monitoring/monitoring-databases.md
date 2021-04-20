@@ -1,7 +1,7 @@
 ---
 title: 監控資料庫
 description: 瞭解如何監控執行個體的資料庫使用情況。
-feature: 控制面板
+feature: Control Panel
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -9,8 +9,8 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
-role: 管理員
-level: 經驗豐富
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

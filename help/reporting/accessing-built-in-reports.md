@@ -1,15 +1,15 @@
 ---
 title: 存取內建報表
 description: 瞭解內建報告與分析，並瞭解如何產生傳送報告。
-feature: 報告
+feature: Reporting
 topics: null
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

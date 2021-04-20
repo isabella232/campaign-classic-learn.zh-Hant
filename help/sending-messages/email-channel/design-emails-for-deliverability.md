@@ -1,7 +1,7 @@
 ---
 title: 如何在設計電子郵件時確保傳遞能力？
 description: 瞭解如何運用傳遞能力的最佳實務。
-feature: 電子郵件、傳遞能力
+feature: Email, Deliverability
 topics: null
 kt: 5095
 thumbnail: 330943.jpg

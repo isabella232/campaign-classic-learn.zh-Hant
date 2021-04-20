@@ -1,15 +1,15 @@
 ---
 title: 使用 CNAME 委派子網域
 description: 瞭解如何將子網域完全委派至 Adobe Campaign
-feature: 控制面板
+feature: Control Panel
 topics: Control Panel
 kt: 6015
 thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 管理員
-level: 經驗豐富
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

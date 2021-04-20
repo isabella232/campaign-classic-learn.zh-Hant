@@ -1,14 +1,14 @@
 ---
 title: 如何建立Adobe Campaign Classic的排版規律疲勞管理
 description: 瞭解如何運用排版規則來實施疲勞管理。
-feature: 疲勞管理
+feature: Fatigue Management
 topics: null
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

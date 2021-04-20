@@ -1,15 +1,15 @@
 ---
 title: 在Adobe Campaign Classic設定交付模板屬性
 description: 瞭解如何設定傳送範本屬性。
-feature: 傳送範本
+feature: Delivery Templates
 topics: Templates
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 管理員
-level: 初學者
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

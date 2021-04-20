@@ -5,7 +5,7 @@ description: 瞭解如何設定不同的核准驗證工作流程。
 seo-description: 本視訊將說明如何在ACCAdobe Campaign中設定和使用傳送範本，為行銷人員提供數種選項，供他們檢閱和提供傳送內容、促銷活動目標、資料擷取和預算核准。 本教學課程說明如何設定不同的核准驗證工作流程。
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: 工作流程，核准
+feature: Workflows, Approvals
 topics: Validation
 kt: KT-1566
 doc-type: feature video

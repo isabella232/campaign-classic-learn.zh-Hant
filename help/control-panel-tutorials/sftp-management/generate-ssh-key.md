@@ -1,15 +1,15 @@
 ---
 title: 產生 SSH 金鑰
 description: 瞭解如何使用終端產生SSH金鑰，以及如何在控制面板中儲存該金鑰的公開版本。
-feature: 控制面板
+feature: Control Panel
 topics: Control Panel
 kt: 6348
 thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 管理員
-level: 經驗豐富
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/generate-ssh-key.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

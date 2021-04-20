@@ -1,15 +1,15 @@
 ---
 title: 如何在工作流程中定位描述檔
 description: 瞭解促銷活動工作流程的使用，並瞭解如何使用篩選條件建立工作流程並定位工作流程中的設定檔。
-feature: 工作流程
+feature: Workflows
 topics: Targeting Activities
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 新增 SSL 憑證
 description: 瞭解如何新增SSL憑證以保護您的子網域。
-feature: 控制面板
+feature: Control Panel
 topics: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 管理員
-level: 經驗豐富
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

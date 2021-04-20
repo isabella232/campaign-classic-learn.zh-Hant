@@ -1,14 +1,14 @@
 ---
 title: Adobe Campaign Classic的資料分段
 description: '瞭解整合式客戶個人檔案、如何建立和更新個人檔案，以及如何根據這些個人檔案建立客戶細分。 '
-feature: 設定檔、資料管理活動
+feature: Profiles, Data Management Activity
 topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

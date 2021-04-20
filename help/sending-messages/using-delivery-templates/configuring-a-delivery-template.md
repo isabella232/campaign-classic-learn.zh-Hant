@@ -1,15 +1,15 @@
 ---
 title: 在Adobe Campaign Classic配置傳送模板
 description: 瞭解如何設定臨機傳送的範本。
-feature: 傳送範本
+feature: Delivery Templates
 topics: Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 管理員
-level: 初學者
+role: Administrator
+level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

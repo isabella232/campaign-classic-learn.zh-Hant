@@ -1,7 +1,7 @@
 ---
 title: 從促銷活動建立電子郵件
 description: 了解如何直接從行銷活動建立電子郵件傳送。
-feature: 電子郵件
+feature: Email
 topics: null
 kt: 2172
 thumbnail: 25604.jpg

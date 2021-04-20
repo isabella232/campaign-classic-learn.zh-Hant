@@ -1,7 +1,7 @@
 ---
 title: 使用壓力規則管理行銷疲勞
 description: 瞭解如何使用濾鏡在Adobe Campaign Classic實施疲勞管理。
-feature: 疲勞管理
+feature: Fatigue Management
 topics: null
 kt: 2148
 doc-type: feature video

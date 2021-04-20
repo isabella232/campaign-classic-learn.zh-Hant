@@ -1,15 +1,15 @@
 ---
 title: 安裝行動應用程式頻道
 description: 瞭解如何檢查您的例項是否已安裝行動應用程式頻道，以及如何安裝。
-feature: 推播
+feature: Push
 topics: mobile channels
 kt: 6438
 thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 管理員
-level: 初學者
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

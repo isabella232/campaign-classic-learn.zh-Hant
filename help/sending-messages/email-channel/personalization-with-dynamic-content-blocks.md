@@ -1,7 +1,7 @@
 ---
 title: 使用動態內容區塊製作個人化電子郵件
 description: 瞭解如何建立動態內容區塊，以及如何使用這些區塊來個人化您的電子郵件傳送內容。
-feature: 動態內容
+feature: Dynamic Content
 topics: Email Channel
 kt: 1559
 thumbnail: 24924
