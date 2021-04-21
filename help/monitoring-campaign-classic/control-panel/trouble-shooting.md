@@ -1,16 +1,15 @@
 ---
 title: 控制面板疑難排解
 description: 「控制面板」可以讓您依執行個體及允許清單 IP 位址監視及管理您的 SFTP 儲存空間。
-feature: Control Panel
-topics: Control Panel
+feature: 控制面板
 kt: 2938
 doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '341'
 ht-degree: 100%
 
 ---
