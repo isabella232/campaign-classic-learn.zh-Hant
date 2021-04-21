@@ -1,8 +1,7 @@
 ---
 title: 結合查詢結果以修訂目標
 description: 瞭解如何使用交叉點或聯合活動在工作流程中結合查詢結果來調整目標。
-feature: Workflows, Targeting Activity, Query Editor
-topics: Targeting Activities
+feature: 工作流程、定位活動、查詢編輯器
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 34%
+source-wordcount: '116'
+ht-degree: 35%
 
 ---
-
 
 # 結合查詢結果以修訂目標
 
