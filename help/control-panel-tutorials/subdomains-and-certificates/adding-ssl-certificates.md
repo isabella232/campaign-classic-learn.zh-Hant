@@ -1,8 +1,7 @@
 ---
 title: 新增 SSL 憑證
 description: 瞭解如何新增SSL憑證以保護您的子網域。
-feature: Control Panel
-topics: Control Panel
+feature: 控制面板
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
@@ -11,14 +10,14 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
+exl-id: 9ba485fb-be26-4f3c-a9de-844fecaec20d
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 90%
+source-wordcount: '212'
+ht-degree: 93%
 
 ---
-
 
 # 新增 SSL 憑證
 
@@ -63,5 +62,5 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您新增 SSL 憑證，以保
 
 ## 其他資源
 
-* [完整子網域委派（視訊）](./subdomain-delegation.md)
+* [完整子網域委派 (影片)](./subdomain-delegation.md)
 * [子網域和憑證（檔案）](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
