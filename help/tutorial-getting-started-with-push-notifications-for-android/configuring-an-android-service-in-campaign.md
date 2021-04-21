@@ -1,8 +1,7 @@
 ---
 title: 在Campaign中設定Android服務並建立Android行動應用程式
 description: 瞭解如何在Campaign中設定Android Services和建立Android行動應用程式。 我們必須將Neotrip應用程式定義為推播通知的目標。
-feature: Push
-topics: mobile channels
+feature: 推播
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: TM
 role: Administrator, Developer
 level: Experienced
+exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 1%
+source-wordcount: '140'
+ht-degree: 2%
 
 ---
-
 
 # 設定[!DNL Android]服務並在Campaign中建立[!DNL Android]行動應用程式
 
