@@ -2,8 +2,7 @@
 title: 建立和管理設定檔
 description: 了解如何存取設定檔資料、排序和篩選設定檔，以及手動建立和管理設定檔。了解應該遵守一般資料保護規範 (GDPR) 和加州消費者隱私保護法 (CCPA) 的規定。
 landing-page-description: 了解設定檔的相關概念。了解如何存取設定檔資料、排序和篩選設定檔，以及手動建立和管理設定檔。了解 GDPR 和 CCPA。
-feature: Profiles
-topics: null
+feature: 設定檔
 kt: 5081
 thumbnail: 35611.jpg
 doc-type: feature video
@@ -13,7 +12,7 @@ role: Business Practitioner
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
 translation-type: tm+mt
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 86%
