@@ -1,8 +1,7 @@
 ---
 title: Android 推播通知教學課程快速入門 - 簡介
 description: 本教學課程將逐步引導您完成從 Adobe Campaign 傳送推播通知以及在 Android 應用程式中接收這些通知的步驟。
-feature: Push
-topics: mobile channels
+feature: 推播
 kt: 6438
 doc-type: article
 activity: setup
@@ -10,9 +9,9 @@ team: TM
 role: Administrator, Developer
 level: Experienced
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 100%
 
