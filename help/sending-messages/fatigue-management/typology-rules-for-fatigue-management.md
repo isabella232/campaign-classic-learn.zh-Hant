@@ -1,22 +1,21 @@
 ---
 title: 如何建立Adobe Campaign Classic的排版規律疲勞管理
 description: 瞭解如何運用排版規則來實施疲勞管理。
-feature: Fatigue Management
-topics: null
+feature: 疲勞管理
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
+exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '207'
 ht-degree: 3%
 
 ---
-
 
 # 如何使用類型學規則建立疲勞管理
 
@@ -36,4 +35,3 @@ ht-degree: 3%
 
 * [關於行銷活動態樣](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
 * [使用壓力規則管理行銷疲勞](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
-
