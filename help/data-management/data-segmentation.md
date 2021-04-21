@@ -1,22 +1,21 @@
 ---
 title: Adobe Campaign Classic的資料分段
 description: '瞭解整合式客戶個人檔案、如何建立和更新個人檔案，以及如何根據這些個人檔案建立客戶細分。 '
-feature: Profiles, Data Management Activity
-topics: Data Management
+feature: 設定檔、資料管理活動
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
 role: Business Practitioner
 level: Beginner
+exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 1%
+source-wordcount: '307'
+ht-degree: 4%
 
 ---
-
 
 # 資料分段
 
@@ -45,4 +44,4 @@ Adobe Campaign的整合式客戶個人檔案可讓行銷人員大規模擷取和
 ## 其他資源 {#additional-resources}
 
 * [定位資料](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/targeting-data.html)
-* [工作流程最佳實務](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
+* [工作流程最佳實務](https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
