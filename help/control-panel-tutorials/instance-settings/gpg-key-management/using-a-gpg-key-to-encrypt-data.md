@@ -1,8 +1,7 @@
 ---
 title: '使用 GPG 金鑰加密資料 '
 description: 瞭解如何使用安裝在控制面板的 GPG 金鑰匯出資料。
-feature: Control Panel
-topics: GPG Key Management
+feature: 控制面板
 kt: 5793
 thumbnail: 36399.jpg
 doc-type: feature video
@@ -11,14 +10,14 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html
+exl-id: 678b6d42-3d00-4c45-96fa-5ee73ce05d2c
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 96%
+source-wordcount: '61'
+ht-degree: 100%
 
 ---
-
 
 # 使用 GPG 金鑰加密資料
 
