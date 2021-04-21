@@ -1,24 +1,23 @@
 ---
-title: 建立定位工作流程
+title: 建立目標定位工作流程
 description: 瞭解如何使用定位工作流程來定義數個傳送定位。
-feature: Workflows, Targeting Activity, Query Editor
-topics: Targeting Activities
+feature: 工作流程、定位活動、查詢編輯器
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '91'
 ht-degree: 8%
 
 ---
 
-
-# 建立定位工作流程
+# 建立目標定位工作流程
 
 Adobe Campaign使用工作流程來進行定位促銷活動、建立促銷活動或執行Adobe Campaign的技術程式。 在此影片中，我們將著重於定位工作流程。 定位工作流程可讓您建立數個傳送目標。
 
