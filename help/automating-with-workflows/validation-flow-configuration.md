@@ -13,10 +13,9 @@ team: TM
 role: Business Practitioner
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -27,7 +26,7 @@ Adobe Campaign公司為行銷人員提供多種選項，可供他們審閱及提
 
 本教學課程說明如何設定不同的核准驗證工作流程。
 
-## 先決條件{#prerequisite}
+## 先決條件 {#prerequisite}
 
 在啟用核准步驟之前，行銷團隊必須先定義個別審核者：
 
@@ -52,4 +51,4 @@ Adobe Campaign公司為行銷人員提供多種選項，可供他們審閱及提
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
 
-如需詳細資訊，請參閱[核准檔案](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)
+如需詳細資訊，請參閱[核准檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)
