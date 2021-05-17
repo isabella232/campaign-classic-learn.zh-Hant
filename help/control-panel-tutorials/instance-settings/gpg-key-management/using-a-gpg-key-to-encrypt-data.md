@@ -11,11 +11,10 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html
 exl-id: 678b6d42-3d00-4c45-96fa-5ee73ce05d2c
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 88%
 
 ---
 
@@ -28,4 +27,4 @@ ht-degree: 100%
 ## 其他資源：
 
 * [GPG 金鑰管理 (影片)](./gpg-key-management-overview.md)
-* [GPG 金鑰管理 (文件)](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG 金鑰管理 (文件)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
