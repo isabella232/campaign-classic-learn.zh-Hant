@@ -10,18 +10,22 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
+source-git-commit: b668dc4f6568be3d239c93fef50132acb26cb40c
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 34%
+source-wordcount: '147'
+ht-degree: 50%
 
 ---
 
-# 使用個人化欄位個人化電子郵件
 
-個人化欄位係用於傳遞訊息內容的第一層級個人化。您在主要內容中插入的欄位會顯示從選取資料來源插入資料的位置。
+# 使用動態內容區塊製作個人化電子郵件
 
-瞭解如何將個人化欄位新增至主旨行，以及電子郵件傳送的內容。
+在 Adobe Campaign，您可以製作個人化內容或訊息外觀，並將其與收件者設定檔的條件結合。
+
+個人化區塊是動態、個人化的，並包含可新增至傳送的特定轉換程式碼。 例如，您可以新增影像、電子郵件標題、電子郵件頁尾、鏡像頁面連結、取消訂閱連結等。
+
+瞭解如何建立動態內容區塊，以及如何使用這些區塊來個人化您的電子郵件傳送內容。
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
