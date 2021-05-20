@@ -4,9 +4,8 @@ user-guide-description: 本教學課程將逐步引導您完成從 Adobe Campaig
 breadcrumb-title: Android 推播通知快速入門
 breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
 index: true
-translation-type: tm+mt
 source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
