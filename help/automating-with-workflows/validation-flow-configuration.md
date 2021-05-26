@@ -1,53 +1,50 @@
 ---
-title: 如何在Adobe Campaign Classic設定驗證工作流程
-seo-title: 如何在Adobe Campaign Classic設定驗證工作流程
-description: 瞭解如何設定不同的核准驗證工作流程。
-seo-description: 本視訊將說明如何在ACCAdobe Campaign中設定和使用傳送範本，為行銷人員提供數種選項，供他們檢閱和提供傳送內容、促銷活動目標、資料擷取和預算核准。 本教學課程說明如何設定不同的核准驗證工作流程。
-uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
-discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
+title: 如何在Adobe Campaign Classic中設定驗證工作流程
+description: 了解如何設定不同的核准驗證工作流程。
 feature: 工作流程，核准
-kt: KT-1566
+kt: 1566
 doc-type: feature video
 activity: setup
 team: TM
 role: Business Practitioner
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: 4e3ffe869c735138b50d54a72a569552952f03fc
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
-# 如何在Adobe Campaign Classic設定驗證工作流程
 
-Adobe Campaign公司為行銷人員提供多種選項，可供他們審閱及提供傳送內容、促銷活動目標、資料擷取和預算核准。
+# 建立驗證工作流程
+
+Adobe Campaign提供數個選項，供行銷人員檢閱及提供傳遞內容、行銷活動目標、資料擷取和預算核准。
 
 本教學課程說明如何設定不同的核准驗證工作流程。
 
 ## 先決條件 {#prerequisite}
 
-在啟用核准步驟之前，行銷團隊必須先定義個別審核者：
+在啟用核准步驟之前，行銷團隊必須定義個別審核者：
 
-* 批准活動中的Adobe Campaign審閱者角色可以是單個審閱者（操作員）或一組審閱者（操作員角色）。
-* 審閱者和審閱者組以前必須由管理員角色在Adobe Campaign配置。 這可讓促銷活動開發人員選擇審核者作為促銷活動或傳送的核准者。
+* 核准活動中的Adobe Campaign審核者角色可以是單一審核者（運算元）或一組審核者（運算元角色）。
+* 若要讓行銷活動開發人員將審核者選為行銷活動或傳送中的核准者，審核者和審核者群組必須由管理員在Adobe Campaign中設定。
 
 ## 設定促銷活動的核准{#configuring-approvals-for-campaigns}
 
-如果促銷活動工作流程中所有傳遞的內容都有相同的審核者集，則您會運用[!DNL Campaign]核准功能。 透過在促銷活動層級設定核准和審核者，核准工作和審核者會在執行工作流程後，下推至工作流程的每個傳送活動。
+如果您的行銷活動工作流程中的所有傳送都有相同的審核者集，請在行銷活動層級設定核准和審核者，以套用行銷活動核准功能。 執行工作流程後，核准工作和審核者會下推至工作流程的每個傳送活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
-## 設定傳送的核准{#configuring-approvals-for-deliveries}
+## 配置傳遞的批准{#configuring-approvals-for-deliveries}
 
-您也可以在傳送層級設定核准。 如果傳送核准步驟和審核者與促銷活動核准步驟和審核者不同，傳送設定將覆寫促銷活動設定。
+您也可以在傳送層級設定核准。 如果傳遞核准步驟和審核者與促銷活動核准步驟和審核者不同，則傳遞設定會覆寫促銷活動設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12)
 
-## 設定核准活動{#configuring-an-approval-activity}
+## 配置批准活動{#configuring-an-approval-activity}
 
-與傳送或促銷活動核准不同，核准活動可讓您在工作流程中建立核准程式。 如此，在啟動傳送之前，可核准定位選擇邏輯。 此外，如有需要，還允許在工作流程的多個層級進行核准。
+與傳送或促銷活動核准不同，核准活動可讓使用者在工作流程中建立核准程式。 如此一來，即可在傳送啟動前核准目標選擇邏輯。 如有需要，也可允許在工作流程中的多個層級進行核准。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
 
