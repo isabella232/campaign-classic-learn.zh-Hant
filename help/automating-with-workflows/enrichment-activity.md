@@ -13,18 +13,18 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
-source-git-commit: 84d5dd568b0d8bae2ad97676f1eb1a312c0ff01e
+source-git-commit: 57ca0ea806c14c148d67e4f9b609764dfaec80db
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 1%
 
 ---
 
 # 如何設定擴充活動
 
-擴充活動是工作流程物件，可讓使用者將資料新增至工作表。 透過擴充，您可以新增欄至該表格以保留其他資料，或定義從該工作表格到其他現有資料的新連結。
+擴充活動是將資料新增至工作表格的工作流程物件。 使用擴充活動可讓您新增欄至可儲存其他資料的表格，或定義其他現有資料的新連結。
 
-此影片說明如何根據傳送記錄資訊來設定擴充活動。
+了解如何根據傳送記錄資訊設定擴充活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
 
