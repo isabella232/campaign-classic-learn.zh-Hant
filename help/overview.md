@@ -7,15 +7,15 @@ role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '254'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# Adobe Campaign ClassicV7Tutorials-概觀
+# Adobe Campaign V7 教學課程 – 概覽
 
-Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用指南包含有關Adobe Campaign ClassicV7的許多功能和功能的影片和教學課程。
+Adobe Campaign 為設計跨頻道客戶體驗提供了平台，同時為可視性行銷活動的策劃、即時互動管理和跨頻道執行提供適合環境。本使用手冊包含了 Adobe Campaign Classic V7 許多功能的相關影片和教學課程。
 
 ## 新增功能
 
