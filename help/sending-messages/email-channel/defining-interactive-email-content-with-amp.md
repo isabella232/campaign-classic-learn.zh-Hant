@@ -11,17 +11,17 @@ role: Business Practitioner, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
 source-git-commit: 03676d22cd0f94ff6ca34692c18a871d82f2c833
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # 使用 AMP 定義互動式電子郵件內容
 
-AMP for Email是一種新的開放原始碼格式，可讓開發人員建立動態和互動式電子郵件。 透過直接在電子郵件中提供的現代化應用程式功能，收件者可以動態地與訊息本身的內容互動。
+AMP for Email 是新的開放原始碼格式，可以讓開發人員建立動態和互動式電子郵件。透過直接在電子郵件中提供的現代化應用程式功能，收件者可以與訊息本身內容進行動態互動。
 
-目前只有Gmail、Outlook和Mail.ru支援AMP格式。
+目前僅 Gmail、Outlook 和 Mail.ru 支援 AMP 格式。
 
 以下影片說明如何在Adobe Campaign Classic 啟動 AMP，並展示其使用情形。
 
@@ -30,4 +30,4 @@ AMP for Email是一種新的開放原始碼格式，可讓開發人員建立動�
 ## 其他資源：
 
 * [AMP 編輯器](https://playground.amp.dev/)
-* [文件](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=en#about-amp-for-email)
+* [文件](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=zh-Hant#about-amp-for-email)
