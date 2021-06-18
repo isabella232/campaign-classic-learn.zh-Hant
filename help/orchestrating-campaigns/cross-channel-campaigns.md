@@ -9,20 +9,20 @@ activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
 source-git-commit: 8eee5de1b133fea146a2b05b1489b786e3117f9f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 # 建立跨頻道行銷活動
 
-在跨通道宣傳中，單一行銷通訊會使用多個通道，根據偏好的收件者通道觸及更廣的目標受眾。
+在跨頻道行銷活動中，單一行銷通訊會利用多個頻道，根據偏好的收件者頻道觸及更廣泛的目標對象。
 
-瞭解如何使用電子郵件、簡訊和直接郵件傳送來建立跨通道宣傳。
+瞭解如何運用電子郵件、簡訊及直接郵件傳遞，建立多頻道行銷活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
 ## 其他資源
 
-* [多管道和跨管道行銷活動](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+* [多頻道和跨頻道行銷活動](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
