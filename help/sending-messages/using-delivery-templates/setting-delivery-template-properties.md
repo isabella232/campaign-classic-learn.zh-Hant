@@ -1,26 +1,25 @@
 ---
-title: 在Adobe Campaign Classic設定交付模板屬性
-description: 瞭解如何設定傳送範本屬性。
-feature: 傳送範本
+title: 在Adobe Campaign Classic中設定傳遞範本屬性
+description: 瞭解如何設定傳遞範本屬性。
+feature: 傳遞範本
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 23%
+ht-degree: 79%
 
 ---
 
 # 設定傳遞範本屬性 {#setting-the-delivery-template-properties}
 
-下面的影片說明如何設定傳送範本屬性，並詳細說明每個屬性。
+以下影片說明如何設定傳送範本屬性，並詳細說明每個屬性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12)
 
@@ -33,7 +32,7 @@ ht-degree: 23%
 
 文件：
 
-* [關於範本](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [建立傳送範本](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [選擇目標對應](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [從範本建立傳遞](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [關於範本](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=zh-Hant)
+* [建立傳遞範本](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=zh-Hant)
+* [選擇目標對應](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=zh-Hant)
+* [從範本建立傳遞](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=zh-Hant)
