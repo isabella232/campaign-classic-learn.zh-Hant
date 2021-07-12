@@ -1,18 +1,17 @@
 ---
 title: 連接到 SFTP 伺服器
-description: 瞭解如何使用用戶端SFTP應用程式，使用您儲存在「控制面板」中的金鑰，連線至您的SFTP伺服器。
+description: 了解如何使用用戶端SFTP應用程式，使用您儲存在控制面板的金鑰，連線至您的SFTP伺服器。
 feature: 控制面板
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
 exl-id: 6b615904-283b-4197-9fd4-d91e20a14657
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 84%
