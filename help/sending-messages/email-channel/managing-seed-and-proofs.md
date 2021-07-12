@@ -1,26 +1,25 @@
 ---
-title: 如何管理電子郵件中的種子和校樣
-description: 瞭解如何在現有的電子郵件中新增種子和校樣，以及如何傳送。
+title: 如何管理電子郵件中的種子和證明
+description: 了解如何為現有的電子郵件新增種子和校樣，以及如何傳送。
 feature: 電子郵件
 kt: 2178
 thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: a10824f4-c2ea-4c9a-bbf4-3290a96a0de8
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 33%
 
 ---
 
-# 如何管理電子郵件中的種子和校樣
+# 如何管理電子郵件中的種子和證明
 
-瞭解如何在現有的電子郵件中新增種子和校樣，以及如何傳送。
+了解如何為現有的電子郵件新增種子和校樣，以及如何傳送。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
