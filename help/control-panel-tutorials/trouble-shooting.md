@@ -6,12 +6,11 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 100%
@@ -66,6 +65,6 @@ ht-degree: 100%
 * 需要向 Adobe Campaign 註冊私人/公有金鑰組
 * 如果直接連接到 SFTP 伺服器，您還需要 SFTP 用戶端軟體
 
-### 實用文件  {#helpful-docs}
+### 實用文件 {#helpful-docs}
 
 * [登入您的 SFTP 伺服器](https://helpx.adobe.com/tw/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
