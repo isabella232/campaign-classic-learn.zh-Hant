@@ -1,7 +1,7 @@
 ---
 title: 新增 IP 位址以允許清單
 seo-title: 新增 IP 位址以允許清單
-description: 瞭解如何將IP範圍新增至Campaign Classic例項的允許清單，以及如何使用控制面板從允許清單中移除這些清單。
+description: 了解如何新增IP範圍以Campaign Classic例項的允許清單，以及如何使用控制面板從允許清單中移除例項。
 seo-description: 下面的影片說明如何透過允許列出 IP 位址範圍，以設定與執行個體的新連線。
 feature: 控制面板
 kt: 3479
@@ -9,11 +9,11 @@ thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 70%
@@ -35,9 +35,9 @@ ht-degree: 70%
 或
 * 直接從 URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## 將IP範圍新增至例項的允許清單
+## 將IP範圍新增至執行個體的允許清單
 
-瞭解如何將IP範圍新增至Campaign Classic例項的允許清單，以及如何使用控制面板從允許清單中移除這些清單。
+了解如何新增IP範圍以Campaign Classic例項的允許清單，以及如何使用控制面板從允許清單中移除例項。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
