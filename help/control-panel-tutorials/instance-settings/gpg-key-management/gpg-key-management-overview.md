@@ -3,14 +3,14 @@ title: GPG 金鑰管理──概觀
 description: 以下影片說明如何在指定的促銷活動例項上產生和安裝公開／私密金鑰對，以加密傳出資料，以及在促銷活動例項上匯入和安裝公開金鑰，以解密傳入資料。
 feature: 控制面板
 team: TM
-role: Administrator
+role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
 exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ GPG (GnuPG) 使用非對稱的單一金鑰組加密訊息。若要使用 [!DNL C
 
 ## 其他資源：
 
-* [GPG 金鑰管理 (文件)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG 金鑰管理 (文件)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=zh-Hant)
