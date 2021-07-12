@@ -1,26 +1,25 @@
 ---
-title: 在Adobe Campaign Classic部署臨機電子郵件傳送範本
-description: '瞭解如何部署臨機電子郵件傳送範本，並瞭解電子郵件傳送與傳送工作流程之間的差異。 '
-feature: 傳送範本
+title: 在Adobe Campaign Classic中部署隨選電子郵件傳送範本
+description: '了解如何部署隨選電子郵件傳送範本，並了解電子郵件傳送與傳送工作流程之間的差異。 '
+feature: 傳遞範本
 kt: 1565
 thumbnail: 24065.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 20%
+ht-degree: 61%
 
 ---
 
 # 部署隨選電子郵件傳遞範本 {#deploying-a-delivery-template}
 
-此影片說明如何部署臨機電子郵件傳送範本，並說明電子郵件傳送與傳送工作流程之間的差異。
+此影片說明如何部署隨選電子郵件傳送範本，並說明電子郵件傳送與傳送工作流程之間的差異。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
 
@@ -32,7 +31,7 @@ ht-degree: 20%
 
 文件：
 
-* [關於範本](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [建立傳送範本](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [選擇目標對應](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [從範本建立傳遞](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [關於範本](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=zh-Hant)
+* [建立傳遞範本](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=zh-Hant)
+* [選擇目標對應](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=zh-Hant)
+* [從範本建立傳遞](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=zh-Hant)
