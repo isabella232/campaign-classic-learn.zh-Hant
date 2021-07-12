@@ -1,16 +1,15 @@
 ---
-title: Adobe Campaign Classic的資料分段
-description: '瞭解整合式客戶個人檔案、如何建立和更新個人檔案，以及如何根據這些個人檔案建立客戶細分。 '
+title: Adobe Campaign Classic中的資料分段
+description: '了解整合式客戶設定檔、如何建立和更新設定檔，以及如何根據這些設定檔建立客戶區段。 '
 feature: 設定檔、資料管理活動
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 4%
@@ -19,29 +18,29 @@ ht-degree: 4%
 
 # 資料分段
 
-Adobe Campaign允許您透過對一般消費者屬性和其他資料來源的深入查詢進行進階分段，讓您建立可重複使用的清單、根據即時資料變更動態更新清單，甚至對任何資料點執行更複雜的活動，例如多變數測試。 本教學課程將說明整合式客戶個人檔案、如何建立和更新個人檔案，以及如何根據這些個人檔案建立客戶細分。
+Adobe Campaign可讓您透過對通用消費者屬性和其他資料來源的深層查詢來執行進階分段，以建立可重複使用的清單、根據資料的即時變更來動態更新清單，甚至對任何這些資料點執行更複雜的活動，例如多變數測試。 本教學課程說明整合式客戶設定檔、如何建立和更新設定檔，以及如何根據這些設定檔建立客戶區段。
 
-## Integrated Customer Profile{#integrated-customer-profile}
+## Integrated Customer Profile {#integrated-customer-profile}
 
-客戶會透過各個通道，在嘗試做購買決策或與品牌互動時，以手指尖產生資料。
+客戶在嘗試做出購買決策或與您的品牌互動時，會透過手指尖的每個管道產生資料。
 
-Adobe Campaign的整合式客戶個人檔案可讓行銷人員大規模擷取和管理資料；從個人資料屬性（如人口統計資料詳細資料「郵遞區號」「地址」「性別」等）到互動資料、「開啟訊息」、「點選電子郵件」、「網站造訪」，到轉換資料，甚至離線資料。
+Adobe Campaign的整合式客戶設定檔可讓行銷人員大規模擷取和管理該資料；從設定檔屬性（如人口統計詳細資料「郵遞區號」、「位址」、「性別」等）到互動資料、「開啟訊息」、「點擊電子郵件」、「網站造訪」等，到轉換資料，甚至離線資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
 
-## 建立和更新客戶配置檔案{#customer-profile-creation-and-update}
+## 建立和更新客戶配置檔案 {#customer-profile-creation-and-update}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
 
-## 客戶細分{#customer-segmentation}
+## 客戶細分  {#customer-segmentation}
 
-一旦您瞭解設定檔，就可以透過對常用消費者屬性和其他資料來源的深入查詢，進行進階細分。 可讓您建立可重複使用的清單、根據即時資料變更動態更新清單，甚至對任何資料點執行更複雜的活動，例如多變數測試。
+了解設定檔後，您就可以透過常見消費者屬性和其他資料來源的深層查詢執行進階分段。 可讓您建立可重複使用的清單、根據資料的即時變更動態更新清單，甚至對任何這些資料點執行更複雜的活動，例如多變數測試。
 
-請注意：此視訊是在Adobe Campaign ClassicV6中錄制，其功能完全相同，但工作流程圖示已變更。
+請注意：此影片在Adobe Campaign Classic V6中錄制，其功能完全相同，不過工作流程圖示已變更。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
 
 ## 其他資源 {#additional-resources}
 
-* [定位資料](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/targeting-data.html)
+* [目標定位資料](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/targeting-data.html)
 * [工作流程最佳實務](https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
