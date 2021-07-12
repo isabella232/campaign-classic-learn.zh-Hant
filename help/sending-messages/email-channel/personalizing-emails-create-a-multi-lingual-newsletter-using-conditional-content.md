@@ -1,28 +1,27 @@
 ---
 title: 個人化電子郵件 – 使用條件式內容建立多語電子報
-description: 透過多語言電子報的範例，瞭解如何將條件式內容新增至傳送內容。
+description: 透過多語言電子報範例，了解如何將條件式內容新增至傳遞。
 feature: 動態內容
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 62%
+ht-degree: 64%
 
 ---
 
 # 個人化電子郵件 – 使用條件式內容建立多語電子報
 
-透過設定條件式內容欄位，您可以建立進階的個人化。滿足特定條件時，便可以取代完整的文本區塊及/或影像。
+透過設定條件式內容欄位，您可以建立進階的個人化。滿足特定條件時，便可以取代完整的文字區塊及/或影像。
 
-透過多語言電子報的範例，瞭解如何將條件式內容新增至傳送內容。
+透過多語言電子報範例，了解如何將條件式內容新增至傳遞。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
