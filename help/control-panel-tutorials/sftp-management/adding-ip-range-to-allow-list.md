@@ -1,6 +1,6 @@
 ---
 title: '新增 IP 範圍至允許清單 '
-description: 瞭解如何新增IP位址範圍至允許清單。
+description: 了解如何將IP位址範圍新增至允許清單。
 feature: 控制面板
 kt: 6430
 thumbnail: 41775.jpg
@@ -8,10 +8,10 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 20%
@@ -20,12 +20,12 @@ ht-degree: 20%
 
 # 新增 IP 範圍至允許清單
 
-要通過客戶端應用程式或API連接到伺服器，必須設定公共SSH密鑰，並將連接到SFTP伺服器的IP地址添加到允許清單。
+若要透過用戶端應用程式或API連線至伺服器，您必須設定公開SSH金鑰，並將連線至SFTP伺服器的IP位址新增至允許清單。
 
-瞭解如何新增IP位址範圍至允許清單。
+了解如何將IP位址範圍新增至允許清單。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
 
 ## 其他資源
 
-* [IP範圍允許列出（說明檔案）](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [IP範圍允許清單（檔案）](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
