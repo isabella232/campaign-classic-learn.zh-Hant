@@ -1,25 +1,25 @@
 ---
 title: 排除查詢結果以修訂目標
-description: 瞭解如何透過將標準排除套用至工作流程來調整目標。 您也將學習如何建立預先定義的篩選，以及如何拍攝工作流程。
-feature: 工作流程、定位活動、查詢編輯器
+description: 瞭解如何將標準排除套用至工作流程，藉此縮小目標範圍。 您也將學習如何建立預先定義的篩選器，以及如何疑難排解您的工作流程。
+feature: 工作流程、鎖定目標定位活動、查詢編輯器
 kt: 5548
 thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 33%
+ht-degree: 77%
 
 ---
 
 # 排除查詢結果以修訂目標
 
-瞭解如何將&#x200B;**[!UICONTROL standard exclusion]**&#x200B;套用至工作流程，以調整您的目標。 您也將學習如何建立預先定義的篩選，以及如何拍攝工作流程。
+了解如何將&#x200B;**[!UICONTROL standard exclusion]**&#x200B;套用至工作流程，以縮小目標範圍。 您也將學習如何建立預先定義的篩選器，以及如何疑難排解您的工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12)
 
@@ -27,7 +27,7 @@ ht-degree: 33%
 
 文件:
 
-* [關於工作流程](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [關於工作流程](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hant)
 * [交集](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
 * [聯集](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
