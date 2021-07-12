@@ -1,6 +1,6 @@
 ---
 title: 監視伺服器容量
-description: 瞭解如何依例項監視和管理SFTP儲存空間，並新增IP位址以允許清單。
+description: 了解如何依執行個體監控及管理SFTP儲存，以及將IP位址新增至允許清單。
 feature: 控制面板
 audience: administrator
 kt: 3266
@@ -8,12 +8,11 @@ thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-whitelisting-adding-ssh-key.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-allow-listing-adding-ssh-key.html
 exl-id: cad80fc2-cf82-44fd-b192-0ceda90d6745
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 53%
@@ -22,7 +21,7 @@ ht-degree: 53%
 
 # 監視伺服器容量
 
-「控制面板」可讓您依例項監視和管理SFTP儲存空間。
+「控制面板」可讓您依執行個體監控及管理SFTP儲存。
 
 ## 存取 [!UICONTROL Control Panel] 子網域管理
 
@@ -35,6 +34,6 @@ ht-degree: 53%
 
 ## 監控伺服器容量、[!UICONTROL allow list]、IP 位址和新增 SSH 金鑰
 
-瞭解如何監控SFTP伺服器的儲存容量。
+了解如何監視SFTP伺服器的儲存容量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
