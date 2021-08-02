@@ -1,6 +1,6 @@
 ---
-title: 如何管理行銷活動
-description: 瞭解有助於有效規劃、執行和衡量跨頻道行銷宣傳的 Adobe Campaign 重要概念。
+title: 管理行銷活動
+description: 了解Adobe Campaign的重要概念，協助您有效規劃、執行和衡量跨管道行銷活動。
 feature: 行銷活動
 kt: 5077
 thumbnail: 35131.jpg
@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
-source-git-commit: dde42d8f7f43a15062c9644276fa71b1c7757886
+source-git-commit: 32ec5c28ea0bb3947b30dd78341e144f6ce273a4
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 61%
+source-wordcount: '41'
+ht-degree: 17%
 
 ---
 
