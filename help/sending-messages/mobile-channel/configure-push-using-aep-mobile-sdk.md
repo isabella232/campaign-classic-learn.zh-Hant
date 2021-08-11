@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: e4d647150bad188430046abf1067244f922a45b9
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 72%
+source-wordcount: '71'
+ht-degree: 66%
 
 ---
 
@@ -25,7 +25,5 @@ ht-degree: 72%
 *配置和安裝Adobe Experience Platform Mobile SDK（07:04分鐘）*
 
 ## 其他資源
-
-* [Adobe Experience Platform SDK 的 Campaign Classic 擴充功能](https://helpx-internal.corp.adobe.com/content/help/zh-Hant/campaign/kb/acc-aep-extension.html)
 
 * [在 Launch 中設定 Campaign Classic 擴充功能](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
