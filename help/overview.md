@@ -6,10 +6,10 @@ feature: 概觀
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: e92815e36c3d611f632768b0082a88ca62e64655
+source-git-commit: af19780541ac0f2bc3dbcd37f095ae602b872223
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '300'
+ht-degree: 80%
 
 ---
 
@@ -18,8 +18,7 @@ ht-degree: 0%
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Classic V7 許多功能的相關影片和教學課程。
 
 >[!INFO]
-> 你有問題嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對Adobe團隊的學習內容有反饋？
-在[Adobe Campaign學習社群執行緒](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)中加入對話！
+> 你有問題嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對Adobe團隊的學習內容有反饋？ 在[Adobe Campaign學習社群執行緒](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)中加入對話！
 
 ## 新增功能
 
