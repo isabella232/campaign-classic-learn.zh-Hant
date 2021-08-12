@@ -1,21 +1,26 @@
 ---
 title: Adobe Campaign Classic 教學課程 – 概觀
-description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
+description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
 sub-product: Campaign Classic
 feature: 概觀
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 226eee423845302431044fc0cff44f30651a0791
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 100%
+source-wordcount: '300'
+ht-degree: 80%
 
 ---
 
 # Adobe Campaign V7 教學課程 – 概覽
 
-Adobe Campaign 為設計跨頻道客戶體驗提供了平台，同時為可視性行銷活動的策劃、即時互動管理和跨頻道執行提供適合環境。本使用手冊包含了 Adobe Campaign Classic V7 許多功能的相關影片和教學課程。
+Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Classic V7 許多功能的相關影片和教學課程。
+
+>[!INFO]
+> 
+> 你有問題嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對Adobe團隊的學習內容有反饋？
+在[Adobe Campaign學習社群執行緒](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)中加入對話！
 
 ## 新增功能
 
@@ -88,4 +93,4 @@ Adobe Campaign 為設計跨頻道客戶體驗提供了平台，同時為可視�
 
 ## 其他資源
 
-* [文件](https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html)
+* [文件](https://final-docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
