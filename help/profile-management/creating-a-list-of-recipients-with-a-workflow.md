@@ -1,5 +1,5 @@
 ---
-title: 建立收件者清單 工作流程
+title: 使用工作流程建立收件者清單
 description: 了解如何從檔案總管設定收件者清單，以建立對象。
 feature: 對象
 kt: 2173
@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 50%
+ht-degree: 42%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 50%
 
 文件:
 
-* [建立和管理清單](https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [建立和管理清單](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 教學課程：
 
