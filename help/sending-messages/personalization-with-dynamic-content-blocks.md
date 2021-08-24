@@ -1,16 +1,15 @@
 ---
 title: 使用動態內容區塊個人化電子郵件
-description: 本教學課程示範如何製作個人化的傳遞內容、在傳遞範本使用 JavaScript 程式碼、在不同的傳遞範本進行標準化及共用內容區塊。
+description: 本教學課程示範如何個人化傳遞內容、在傳遞範本中使用JavaScript程式碼，以及在不同的傳遞範本中標準化和共用內容區塊。
 feature: 動態內容
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 99%
+source-wordcount: '254'
+ht-degree: 70%
 
 ---
 
@@ -24,11 +23,11 @@ ht-degree: 99%
 3 ── 插入動態的個人化欄位。\
 4 ── 建立條件式內容。
 
-本教學課程示範如何製作個人化的傳遞內容、在傳遞範本使用 JavaScript 程式碼、在不同的傳遞範本進行標準化及共用內容區塊。
+本教學課程示範如何個人化傳遞內容、在傳遞範本中使用JavaScript程式碼，以及在不同的傳遞範本中標準化和共用內容區塊。
 
 ## 建立個人化區塊並新增至傳遞
 
-個人化區塊為動態、個人化的區塊，並包含可以新增至傳遞的特定轉譯程式碼。例如，您可以新增影像、電子郵件標題、電子郵件頁尾、鏡像頁面連結、取消訂閱連結等。
+個人化區塊為動態區塊，包含可新增至傳送的特定轉譯程式碼。 例如，您可以新增影像、電子郵件標題、電子郵件頁尾、鏡像頁面連結、取消訂閱連結等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -46,4 +45,4 @@ ht-degree: 99%
 
 ## 其他資源：
 
-* [關於個人化](https://docs.adobe.com/content/help/zh-Hant/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [關於個人化](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
