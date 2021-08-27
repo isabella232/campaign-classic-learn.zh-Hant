@@ -1,14 +1,14 @@
 ---
-title: 'SSL憑證的必要條件 '
+title: 'SSL憑證的先決條件 '
 description: '了解如何確認安裝SSL憑證時的必要條件。 '
 feature: Subdomains and Certificates
 role: Admin
 level: Experienced
 topic: Development
 kt: 8389
-source-git-commit: 0f59f8f338220ad3d48dc8da283920cee44fd21f
+source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
