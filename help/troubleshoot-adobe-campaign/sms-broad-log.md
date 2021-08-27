@@ -1,7 +1,7 @@
 ---
 title: 當SMS傳送至錯誤的編號時，廣泛記錄狀態不正確
 description: 了解如何對SMS傳送至錯誤號碼時，所傳送的SMS廣泛記錄狀態進行除錯。
-feature: null
+feature: SMS
 role: Admin
 level: Experienced
 topic: Development
