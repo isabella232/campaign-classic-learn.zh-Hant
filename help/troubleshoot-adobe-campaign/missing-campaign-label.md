@@ -1,12 +1,11 @@
 ---
 title: Analytics中缺少促銷活動標籤
 description: 了解如何在analytics中修正遺失的campaign標籤
-feature: null
 role: Admin
 level: Experienced
 topic: Development
 kt: 8427
-source-git-commit: 4515849a9302f05948faedf03b642d6e29747997
+source-git-commit: 548739ef758c91beb68107847bfccebfceee5ac1
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 0%
