@@ -1,20 +1,20 @@
 ---
-title: SMS傳送正處於擱置狀態
+title: 簡訊傳送進入擱置狀態
 description: 了解如何解決進入  新建立的外部帳戶的掛起狀態。
 feature: SMS
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8429
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+exl-id: f6030e69-143e-40fa-838d-107e3ca3f4ad
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# SMS傳送正處於擱置狀態
+# 簡訊傳送進入擱置狀態
 
 了解如何解決進入  新建立的外部帳戶的掛起狀態。
 

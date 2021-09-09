@@ -1,18 +1,18 @@
 ---
-title: 'SSL憑證的先決條件 '
-description: '了解如何確認安裝SSL憑證時的必要條件。 '
+title: SSL憑證的必要條件
+description: 了解如何確認安裝SSL憑證時的必要條件。
 feature: Subdomains and Certificates
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8389
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+exl-id: 18b996f2-67f9-425f-a41b-baec564fe08f
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 使用SSL設定Adobe Campaign的必要條件
 

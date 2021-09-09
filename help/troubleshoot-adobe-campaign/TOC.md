@@ -1,23 +1,23 @@
 ---
 user-guide-title: 疑難排解Adobe Campaign
-user-guide-description: 尋找如何疑難排解Adobe Campaign問題的說明。
+user-guide-description: 尋找如何疑難排解 Adobe Campaign 問題的說明。
 breadcrumb-title: 疑難排解Adobe Campaign
 breadcrumb-url: /docs/campaign-classic-learn/troubleshoot-adobe-campaign/overview.html
 index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 8a6be644fe36317461efc9c2fdf73c2dc264c211
+source-git-commit: 80436fb4a92e9d7b6591350e4a38e3f4eec6db88
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 疑難排解Adobe Campaign {#troubleshooting}
 
-+ [疑難排解Adobe Campaign — 概觀](/help/troubleshoot-adobe-campaign/overview.md)
++ [疑難排解 Adobe Campaign — 概觀](/help/troubleshoot-adobe-campaign/overview.md)
 + 登錄和客戶端控制台{#login-and-client-console}
    + [登錄期間顯示指令碼錯誤或警告](/help/troubleshoot-adobe-campaign/script-error-during-login-errors.md)
    + [修正主控台登入錯誤](/help/troubleshoot-adobe-campaign/console-login-errors.md)
