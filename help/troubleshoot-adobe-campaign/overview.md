@@ -1,18 +1,18 @@
 ---
-title: 疑難排解Adobe Campaign — 概觀
-description: 尋找如何疑難排解Adobe Campaign問題的說明。
+title: 疑難排解 Adobe Campaign — 概觀
+description: 尋找如何疑難排解 Adobe Campaign 問題的說明。
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Experienced
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
-workflow-type: tm+mt
+exl-id: f8945058-4f2b-4b9c-bbb4-2761c420b278
+source-git-commit: d8b4d1f2a82b108cd94854460c858dae04cd4725
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 疑難排解 Adobe Campaign — 概觀
 
-# 疑難排解Adobe Campaign — 概觀
-
-尋找如何疑難排解Adobe Campaign問題的說明。 本節由Adobe客戶支援提供，協助您疑難排解Adobe Campaign Classic v7或Adobe Campaign v8可能遇到的問題。
+尋找如何疑難排解 Adobe Campaign 問題的說明。本章節由 Adobe 客戶支援提供，協助您疑難排解 Adobe Campaign Classic v7 或 Adobe Campaign v8 可能會遇到的問題。
