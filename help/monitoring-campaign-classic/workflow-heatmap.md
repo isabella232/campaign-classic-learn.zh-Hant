@@ -1,7 +1,7 @@
 ---
 title: 工作流程熱度圖
 description: 瞭解如何監控執行個體的負載並據此計畫工作流程。
-feature: 熱度圖
+feature: Heatmap
 kt: 2093
 doc-type: feature video
 activity: understand
@@ -10,9 +10,9 @@ role: Admin
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
 source-git-commit: d5b1d6ef2dde38e70371f2419c142224688b3b33
-workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 89%
+workflow-type: ht
+source-wordcount: '77'
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Adobe Campaign 工作流程熱度圖包含目前執行的所有工作流程，�
 
 ## 其他資源：
 
-* [監控流程](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/monitoring-processes.html)
+* [監控流程](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/monitoring-processes.html?lang=zh-Hant)
