@@ -1,7 +1,7 @@
 ---
 title: 如何使用稽核軌跡
-description: '稽核軌跡會即時擷取在Adobe Campaign中發生之動作和事件的完整清單。 '
-feature: 稽核軌跡
+description: '稽核軌跡可以即時擷取 Adobe Campaign 中發生之動作和事件的完整清單。 '
+feature: Audit Trail
 kt: 2835
 doc-type: feature video
 activity: understand
@@ -10,15 +10,15 @@ role: Admin
 level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
-workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 46%
+workflow-type: ht
+source-wordcount: '161'
+ht-degree: 100%
 
 ---
 
 # 如何使用稽核軌跡
 
-[!UICONTROL Audit Trail] 即時擷取在Adobe Campaign中發生之動作和事件的完整清單。[!UICONTROL Audit Trail]功能包括自助式存取資料記錄以協助回答下列問題：
+[!UICONTROL Audit Trail]稽核軌跡可以即時擷取 Adobe Campaign 中發生之動作和事件的完整清單。[!UICONTROL Audit Trail] 功能包括自助式存取歷史資料記錄，以協助回答下列問題：
 
 * 物件怎麼了？
 * 最近由誰修改？何時修改？
@@ -28,7 +28,7 @@ ht-degree: 46%
 >
 >稽核軌跡需要 Campaign Classic 19.1 版或更新版本
 
-[!UICONTROL Audit Trail]記錄和清單運算子動作，例如建立、修改和刪除工作流程、選項和源架構。 此外，還專門記錄了以下工作流程操作：
+[!UICONTROL Audit Trail] 將記錄並列出運算子動作，例如建立、修改和刪除工作流程、選項和來源架構。此外，還專門為工作流程記錄了以下動作：
 
 * 開始
 * 暫停
@@ -43,4 +43,4 @@ ht-degree: 46%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-如需詳細資訊，請參閱[稽核軌跡文件](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=en)。
+如需詳細資訊，請參閱[稽核軌跡文件](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=zh-Hant)。
