@@ -1,7 +1,7 @@
 ---
 title: 使用個人化欄位製作個人化電子郵件
 description: 瞭解如何將個人化欄位新增至主旨行，以及電子郵件傳送的內容。
-feature: 動態內容
+feature: Dynamic Content
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 68%
 
 ---

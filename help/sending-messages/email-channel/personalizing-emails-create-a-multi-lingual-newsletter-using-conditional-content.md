@@ -1,7 +1,7 @@
 ---
 title: 個人化電子郵件 — 使用條件式內容建立多語言電子報
 description: 透過多語言電子報範例，了解如何將條件式內容新增至傳遞。
-feature: 動態內容
+feature: Dynamic Content
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 39%
+source-wordcount: '114'
+ht-degree: 38%
 
 ---
 

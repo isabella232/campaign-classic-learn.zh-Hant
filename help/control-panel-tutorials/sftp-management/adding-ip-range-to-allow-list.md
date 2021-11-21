@@ -1,7 +1,7 @@
 ---
 title: '新增 IP 範圍至允許清單 '
 description: 了解如何將IP位址範圍新增至允許清單。
-feature: 控制面板
+feature: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
 doc-type: feature video
@@ -13,8 +13,8 @@ level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 20%
+source-wordcount: '94'
+ht-degree: 31%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 20%
 
 ## 其他資源
 
-* [IP範圍允許清單（檔案）](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [IP 範圍允許清單 (文件)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=zh-Hant)

@@ -1,7 +1,7 @@
 ---
-title: 結合查詢結果以修訂目標
+title: 結合查詢結果以縮小目標
 description: 瞭解如何使用交集或聯合活動在工作流程中結合查詢結果，以縮小目標範圍。
-feature: 工作流程、鎖定目標定位活動、查詢編輯器
+feature: Workflows, Targeting Activity, Query Editor
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 67%
+source-wordcount: '105'
+ht-degree: 65%
 
 ---
 
-# 結合查詢結果以修訂目標
+# 結合查詢結果以縮小目標
 
-了解如何使用&#x200B;**[!UICONTROL intersection]**&#x200B;或&#x200B;**[!UICONTROL union]**&#x200B;活動在工作流程中結合查詢結果，以縮小目標範圍。
+了解如何使用在工作流程中結合查詢結果，以縮小目標範圍 **[!UICONTROL intersection]** 或 **[!UICONTROL union]** 活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
@@ -34,5 +34,5 @@ ht-degree: 67%
 教學課程：
 
 * [在工作流程中定位設定檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [排除查詢結果以修訂目標](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [使用更新清單活動，建立具有工作流程的清單](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [排除查詢結果以縮小目標](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [使用更新清單活動，建立工作流程的清單](/help/automating-with-workflows/using-the-update-list-activity.md)

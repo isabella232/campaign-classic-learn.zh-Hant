@@ -1,7 +1,7 @@
 ---
 title: 存取內建報吿
 description: 瞭解內建的報告和分析，以及如何產生傳遞報告。
-feature: 報告
+feature: Reporting
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '70'
 ht-degree: 30%
 
 ---
 
 # 存取內建報吿
 
-了解  Campaign Classic中內建的報表和分析，並了解如何產生傳送報表。
+了解Campaign Classic中的內建報表和分析，並了解如何產生傳送報表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
 

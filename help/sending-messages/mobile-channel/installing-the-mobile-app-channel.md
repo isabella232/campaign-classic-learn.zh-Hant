@@ -1,7 +1,7 @@
 ---
 title: 安裝行動應用程式頻道
 description: 瞭解如何檢查執行個體上是否已安裝行動應用程式頻道，以及如何安裝。
-feature: 推送
+feature: Push
 kt: 6438
 thumbnail: 326544.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: f1e71f7d-4af1-4122-ae30-14c9f2ff2a19
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '69'
 ht-degree: 82%
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 完全子網域委派
 description: 瞭解如何將子網域完全委派至 Adobe Campaign。
-feature: 控制面板
+feature: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 74%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 74%
 
 >[!IMPORTANT]
 >
-> 從[!UICONTROL Control Panel]委派子網域的作業為測試版，且可能會經常更新和修改，恕不另行通知。
+> 從 [!UICONTROL Control Panel] 為測試版，可能會經常更新和修改，恕不另行通知。
 
 Adobe Campaign [!UICONTROL Control Panel] 可以讓您將子網域完全委派給 Adobe Campaign。
 

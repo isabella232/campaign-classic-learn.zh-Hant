@@ -1,7 +1,7 @@
 ---
 title: 建立收件者清單
 description: 了解如何從檔案總管設定收件者清單，以建立對象。
-feature: 對象
+feature: Audiences
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 62%
+source-wordcount: '106'
+ht-degree: 59%
 
 ---
 
@@ -35,4 +35,4 @@ ht-degree: 62%
 
 * [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
 * [匯入設定檔](/help/data-management/importing-profiles.md)
-* [使用工作流程建立收件者清單](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
+* [建立收件者清單 工作流程](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)

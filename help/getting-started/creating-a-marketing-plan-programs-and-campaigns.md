@@ -1,7 +1,7 @@
 ---
 title: 如何建立行銷計劃、方案和行銷活動
 description: 瞭解有助於有效規劃、執行和衡量跨頻道行銷活動的 Adobe Campaign 重要概念。
-feature: 行銷活動
+feature: Campaigns
 kt: 5347
 thumbnail: 35132.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: b63431c6-d09a-49d1-9281-e1f260842b86
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '67'
 ht-degree: 100%
 
 ---

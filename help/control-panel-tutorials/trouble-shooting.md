@@ -1,7 +1,7 @@
 ---
 title: 控制面板疑難排解
-description: 了解控制面板疑難排解。
-feature: 控制面板
+description: 瞭解如何進行控制面板疑難排解.
+feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
@@ -12,8 +12,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
 source-git-commit: 2f8ae3d47e4debf71311f341d3c02ff3a7f5297a
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 38%
+source-wordcount: '320'
+ht-degree: 100%
 
 ---
 
@@ -21,32 +21,32 @@ ht-degree: 38%
 
 ## 登入和首頁
 
-### 症狀：無法登入Experience Cloud
+### 症狀：無法登入 Experience Cloud
 
 **該做什麼：**
-使用者必須找到其IMS組織ID(xxx)。管理員必須將使用者新增至產品設定檔「Campaign-xxx-Admins」，以管理其要管理的每個執行個體。 如果使用者是所有執行個體的管理員，則他們必須將自己新增為使用者。
+使用者需要找到其 IMS Org ID (xxx)。系統管理員需要將使用者新增到他們想要管理的每個執行個體的產品設定檔「Campaign-xxx-Admins」。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為使用者。
 
 ### 症狀：使用者看不到 experience Cloud 首頁存取 [!UICONTROL Control Panel] 的連結
 
 **原因：**
-使用者新增為產品設定檔的使用者Campaign-xxx-Administrators/Admin _之前，不會看到連結_。
+使用者直到新增為產品設定檔 _Campaign-xxx-Administrators/Admin_ 的使用者後，才能看到連結。
 
 **該做什麼：**
-管理員必須將使用者新增至產品設 _定檔Campaign-xxx-_  Admin，以管理他們想要管理的每個執行個體。如果使用者是所有執行個體的管理員，則他們必須將自己新增為使用者。
+管理員需要將使用者新增至產品設定檔 _Campaign-xxx-Admins_，以便管理執行個體。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為使用者。
 
 ### 症狀：執行個體未列於 [!UICONTROL Control Panel]
 
 **原因：**
-可能是，使用者必須新增為 ** 遺 _失的執行個體的使用者產品設定檔Campaign-xxx-Administrators/_ Admin
+可能是，使用者需要新增為消失的執行個體的*使用者* 產品設定檔&#x200B;_Campaign-xxx-Administrators/Admin_
 
 **該做什麼：**
-管理員必須將使用者新增至產品設 _定檔Campaign-xxx-_  Admin，以管理他們想要管理的每個執行個體。如果使用者是所有執行個體的管理員，則他們必須將自己新增為「使用者」。
+管理員需要將使用者新增至產品設定檔 _Campaign-xxx-Admins_，以便管理執行個體。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為「使用者」。
 
 ### 有用的影片
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*檢查 IMS 組織 ID (00:26分鐘)*
+*檢查 IMS 組織 ID (00:26 分鐘)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
@@ -62,8 +62,8 @@ ht-degree: 38%
 連線至 SFTP 伺服器需要：
 
 * [!UICONTROL Allow listing] 您連接到 SFTP 伺服器的 IP 位址
-* 必須向Adobe Campaign註冊的私密/公開金鑰組
-* 若要直接連線至SFTP伺服器，您還需要SFTP用戶端軟體
+* 需要以 Adobe Campaign 註冊私人/公有金鑰組
+* 如需直接連接到 SFTP 伺服器，您還需要 SFTP 用戶端軟體
 
 ### 實用文件 {#helpful-docs}
 

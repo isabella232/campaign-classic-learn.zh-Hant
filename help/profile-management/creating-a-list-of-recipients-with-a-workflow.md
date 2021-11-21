@@ -1,7 +1,7 @@
 ---
 title: 使用工作流程建立收件者清單
 description: 了解如何從檔案總管設定收件者清單，以建立對象。
-feature: 對象
+feature: Audiences
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 42%
+source-wordcount: '84'
+ht-degree: 41%
 
 ---
 

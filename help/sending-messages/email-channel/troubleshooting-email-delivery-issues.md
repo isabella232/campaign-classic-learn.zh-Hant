@@ -1,7 +1,7 @@
 ---
 title: 疑難排解電子郵件傳遞問題
 description: 瞭解如何疑難排解 Campaign 中的電子郵件傳遞問題。
-feature: 電子郵件, 傳遞能力
+feature: Email, Deliverability
 kt: 5091
 thumbnail: 329920.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: a362a627-9812-4753-a5de-8eb97ea1b606
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '26'
 ht-degree: 100%
 
 ---

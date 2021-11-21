@@ -1,7 +1,7 @@
 ---
-title: 使用更新清單活動，建立具有工作流程的清單
+title: 使用更新清單活動，建立工作流程的清單
 description: 瞭解如何將標準排除套用至工作流程，藉此縮小目標範圍。 您也將學習如何建立預先定義的篩選器，以及如何疑難排解您的工作流程。
-feature: 工作流程、鎖定目標定位活動、查詢編輯器
+feature: Workflows, Targeting Activity, Query Editor
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 70%
+source-wordcount: '119'
+ht-degree: 69%
 
 ---
 
-# 使用更新清單活動，建立具有工作流程的清單
+# 使用更新清單活動，建立工作流程的清單
 
 了解Adobe Campaign Classic中清單的概念，並了解如何使用工作流程中的更新清單活動來建立清單。
 
@@ -33,5 +33,5 @@ ht-degree: 70%
 教學課程：
 
 * [在工作流程中定位設定檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [結合查詢結果以修訂目標](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [排除查詢結果以修訂目標](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [結合查詢結果以縮小目標](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [排除查詢結果以縮小目標](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)

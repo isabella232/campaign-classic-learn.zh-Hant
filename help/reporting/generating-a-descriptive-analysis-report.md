@@ -1,7 +1,7 @@
 ---
 title: 產生描述性分析報告
 description: 了解如何從 Adobe Campaign Classic 的工作流程產生描述性分析報告。
-feature: 報告
+feature: Reporting
 kt: 5079
 thumbnail: 35616.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 56%
+source-wordcount: '63'
+ht-degree: 55%
 
 ---
 
 # 產生描述性分析報告
 
-了解如何從工作流程產生[!UICONTROL descriptive analysis report]。
+了解如何產生 [!UICONTROL descriptive analysis report] 從工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 

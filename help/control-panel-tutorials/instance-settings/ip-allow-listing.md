@@ -1,9 +1,9 @@
 ---
 title: 新增 IP 位址以允許清單
-seo-title: 新增 IP 位址以允許清單
+seo-title: Adding IP addresses to allow lists
 description: 了解如何新增IP範圍以Campaign Classic例項的允許清單，以及如何使用控制面板從允許清單中移除例項。
-seo-description: 下面的影片說明如何透過允許列出 IP 位址範圍，以設定與執行個體的新連線。
-feature: 控制面板
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
+feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -15,8 +15,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 70%
+source-wordcount: '194'
+ht-degree: 69%
 
 ---
 
@@ -41,4 +41,4 @@ ht-degree: 70%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-如需 IP 允許清單的詳細資訊，請參閱[詳細的產品文件](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)。
+如需 IP 允許清單的詳細資訊，請參閱[詳細的產品文件](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=zh-Hant)。
