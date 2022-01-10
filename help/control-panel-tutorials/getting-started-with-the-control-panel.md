@@ -10,9 +10,9 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: f4cd1e05d6785abd66b83b309c98eecc97033bac
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '257'
 ht-degree: 74%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 74%
 
 >[!NOTE]
 >
-> 所有管理員使用者都可存取控制面板。 授予使用者管理員存取權限的步驟已詳載於 [產品文件](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hant#discover-control-panel)。
+>「控制面板」僅供管理員使用者存取。 進一步了解權限，請參閱 [本節](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hant#discover-control-panel).
 >
-> 您的執行個體必須托管於AWS，並使用最新的 [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=zh-Hant) 建置或最新 [GA版本編號(21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). 在[本章節](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)中瞭解如何確認您的版本。 若要檢查您的執行個體是否託管在 AWS 上，請按照[本頁面](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)詳述的步驟操作。
+>若為Campaign Classicv7，您的執行個體必須托管在Amazon Web Services(AWS)上，並升級至最新的 [促銷活動穩定組建](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=zh-Hant#rn-statuses) （或建置9032或更高版本）。 在[本章節](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=zh-Hant#getting-your-campaign-version)中瞭解如何確認您的版本。 若要檢查您的執行個體是否託管在 AWS 上，請按照[本頁面](faq.md#hosted-aws)詳述的步驟操作。
 
 此 [!UICONTROL Control Panel] 可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如管理 [!DNL SFTP] 按實例儲存，管理 [!DNL GPG] 鍵，或 [!UICONTROL subdomains] 和 [!UICONTROL certificates].
 
