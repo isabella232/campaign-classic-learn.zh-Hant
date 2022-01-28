@@ -9,11 +9,12 @@ activity: setup
 team: TM
 role: Admin
 level: Experienced
+recommendations: noDisplay
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: d3c8af1a3b6534f93daaa1c0a8223727679cd734
+source-git-commit: 813ef6f94d02c25f7b241eaaf30a7488d06b74b7
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 71%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,11 +22,11 @@ ht-degree: 71%
 
 >[!NOTE]
 >
->「控制面板」僅供管理員使用者存取。 進一步了解權限，請參閱 [本節](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hant#discover-control-panel).
+>控制面板僅可供管理員用戶訪問。 瞭解有關中權限的詳細資訊 [此部分](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hant#discover-control-panel)。
 >
->若為Campaign Classicv7，您的執行個體必須托管在Amazon Web Services(AWS)上，並升級至最新的 [促銷活動穩定組建](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=zh-Hant#rn-statuses) （或建置9032或更高版本）。 在[本章節](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=zh-Hant#getting-your-campaign-version)中瞭解如何確認您的版本。 若要檢查您的執行個體是否託管在 AWS 上，請按照[本頁面](https://experienceleague.corp.adobe.com/docs/control-panel/using/faq.html?lang=en#hosted-aws)詳述的步驟操作。
+>對於v7Campaign Classic，您的實例必須托管在Amazon Web Services(AWS)上，並升級到最新版本 [活動穩定構建](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=zh-Hant#rn-statuses) （或建9032或更高）。 在[本章節](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=zh-Hant#getting-your-campaign-version)中瞭解如何確認您的版本。 若要檢查您的執行個體是否託管在 AWS 上，請按照[本頁面](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=en#hosted-aws)詳述的步驟操作。
 
-此 [!UICONTROL Control Panel] 可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如管理 [!DNL SFTP] 按實例儲存，管理 [!DNL GPG] 鍵，或 [!UICONTROL subdomains] 和 [!UICONTROL certificates].
+的 [!UICONTROL Control Panel] 允許Adobe Campaign管理員監視關鍵資產並執行管理任務，如管理 [!DNL SFTP] 按實例儲存，管理 [!DNL GPG] 鍵或 [!UICONTROL subdomains] 和 [!UICONTROL certificates]。
 
 本文說明如何存取控制面板，以及使用控制面板的先決條件。
 
