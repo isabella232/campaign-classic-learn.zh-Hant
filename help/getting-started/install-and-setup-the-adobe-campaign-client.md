@@ -1,5 +1,5 @@
 ---
-title: 安裝及設定Adobe Campaign Client
+title: 安裝和設定Adobe Campaign客戶端
 description: 瞭解如何下載及安裝 Adobe Campaign 用戶端主控台、建立和管理您與多個環境的連線，以及驗證 Adobe Campaign 用戶端主控台的存取權。
 feature: Client Console
 kt: 5003
@@ -10,21 +10,15 @@ team: DOC
 role: User, Admin, Developer
 level: Beginner
 exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 68%
+source-wordcount: '76'
+ht-degree: 38%
 
 ---
 
-# 安裝及設定Adobe Campaign Client
+# 安裝和設定Adobe Campaign客戶端
 
-以下影片說明如何下載和安裝 Adobe Campaign 用戶端主控台、建立和管理您與多個環境的連線，以及驗證 Adobe Campaign 主控台的存取權。
+以下視頻介紹了如何下載和安裝Adobe Campaign客戶端控制台、建立和管理到多個環境的連接以及驗證對Adobe Campaign客戶端控制台的訪問。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12)
-
-## 其他資源：
-
-* [相容性矩陣](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/compatibility-matrix.html?lang=en#compatibility-matrix)
-* [安裝客戶端主控台](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/installing-the-client-console.html?lang=en)
-* [Campaign Classic 實作指南](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=zh-Hant)

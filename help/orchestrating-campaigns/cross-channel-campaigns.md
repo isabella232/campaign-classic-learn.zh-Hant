@@ -1,16 +1,16 @@
 ---
 title: 建立跨頻道行銷活動
 description: 瞭解如何根據客戶與第一次傳送的互動，使用電子郵件和直接郵件傳送，建立跨頻道行銷活動。
-feature: Workflows
+feature: Cross Channel Orchestration
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: ac74fffaaf15bced07212d0df4b631944f15f742
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ ht-degree: 100%
 瞭解如何根據客戶與第一次傳送的互動，使用電子郵件和直接郵件傳送，建立跨頻道行銷活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
-
-## 其他資源
-
-* [多頻道和跨頻道行銷活動](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)

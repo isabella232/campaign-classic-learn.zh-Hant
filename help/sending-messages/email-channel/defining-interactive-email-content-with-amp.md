@@ -10,10 +10,10 @@ team: TM
 role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 82%
 
 ---
 
@@ -27,7 +27,6 @@ AMP for Email 是新的開放原始碼格式，可以讓開發人員建立動態
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-## 其他資源
+您可以使用 [AMP編輯器](https://playground.amp.dev/) 建立您自己的AMP代碼。
 
-* [AMP 編輯器](https://playground.amp.dev/)
-* [文件](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=zh-Hant#about-amp-for-email)
+請參閱 [產品文檔](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=zh-Hant#about-amp-for-email) 的子菜單。

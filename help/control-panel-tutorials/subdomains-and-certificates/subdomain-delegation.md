@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 74%
+source-wordcount: '115'
+ht-degree: 68%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 74%
 
 >[!IMPORTANT]
 >
-> 從 [!UICONTROL Control Panel] 為測試版，可能會經常更新和修改，恕不另行通知。
+> 從 [!UICONTROL Control Panel] 是beta版，需要頻繁更新和修改，恕不另行通知。
 
 Adobe Campaign [!UICONTROL Control Panel] 可以讓您將子網域完全委派給 Adobe Campaign。
 
@@ -42,7 +42,4 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您將子網域完全委派�
 
 *子網域委派（05:07 分鐘）*
 
-## 其他資源
-
-* [新增 SSL 憑證](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [續約子網域的SSL憑證（檔案）](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+有關續訂子域的SSL證書的詳細資訊，請參閱 [產品文檔](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)。

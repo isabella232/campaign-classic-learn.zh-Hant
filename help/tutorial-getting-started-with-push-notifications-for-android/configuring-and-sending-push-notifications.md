@@ -1,6 +1,6 @@
 ---
-title: '設定和傳送推播通知 '
-description: 了解如何設定推播通知並傳送給Android應用程式使用者。
+title: '配置和發送推送通知 '
+description: 瞭解如何配置並向android應用用戶發送推送通知。
 feature: Push
 kt: 6579
 thumbnail: 328154.jpg
@@ -10,23 +10,20 @@ team: TM
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
-source-git-commit: e89f2b239a3d783e7fddbb5c9249524db0018cc5
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 5%
+source-wordcount: '51'
+ht-degree: 3%
 
 ---
 
-# 設定和傳送推播通知
+# 配置和發送推送通知
 
-了解如何設定和傳送 [!DNL push] 通知使用者 [!DNL Android] 應用程式。
+瞭解如何配置和發送 [!DNL push] 通知用戶 [!DNL Android] 應用程式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 
 **上一步**
 
-步驟2: [在Campaign中設定Android服務及建立Android行動應用程式](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+步驟2: [在市場活動中配置Android服務和建立Android移動應用程式](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
-## 其他資源
-
-* [建立Android的推播通知（檔案）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/create-a-push-msg/create-notifications-android.html)

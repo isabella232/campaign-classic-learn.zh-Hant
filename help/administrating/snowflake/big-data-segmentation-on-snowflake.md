@@ -1,7 +1,7 @@
 ---
 title: Snowflake 上的巨量資料管理
-description: 了解如何在Adobe Campaign Classic中運用Snowflake連接器
-feature: Federated Data Access
+description: 瞭解如何利用Adobe Campaign Classic的Snowflake連接器
+feature: Federated Data Access, Data Management
 kt: 4405
 doc-type: feature video
 activity: use
@@ -9,16 +9,16 @@ team: PM
 role: Admin, Developer
 level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 62%
+source-wordcount: '115'
+ht-degree: 56%
 
 ---
 
 # Snowflake 上的巨量資料管理
 
-本教學課程說明如何運用 [!DNL Snowflake] 連接器。Adobe Campaign Classic
+本教程介紹如何利用 [!DNL Snowflake] 連接器在Adobe Campaign Classic。
 您將瞭解到
 
 * 連結到 Snowflake
@@ -32,6 +32,4 @@ ht-degree: 62%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
 
-## 其他資源
-
-* [配置訪問Snowflake](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic)
+有關如何配置訪問Snowflake的詳細資訊，請參閱 [產品文檔](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic)。

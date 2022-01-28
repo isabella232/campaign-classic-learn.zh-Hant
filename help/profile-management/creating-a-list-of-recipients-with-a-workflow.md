@@ -1,7 +1,7 @@
 ---
 title: 使用工作流程建立收件者清單
-description: 了解如何從檔案總管設定收件者清單，以建立對象。
-feature: Audiences
+description: 通過從資源管理器中配置收件人清單瞭解如何建立訪問群體。
+feature: Audiences, Profiles
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
@@ -10,27 +10,15 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 41%
+source-wordcount: '55'
+ht-degree: 29%
 
 ---
 
 # 使用工作流程建立收件者清單
 
-了解如何建立工作流程以鎖定收件者，以及如何在使用電子郵件定位中的清單之前讓工作流程重複執行。
+瞭解如何建立工作流以達到目標收件人，以及如何在電子郵件目標中使用清單之前使其重複。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12)
-
-## 其他資源
-
-文件:
-
-* [建立和管理清單](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
-
-教學課程：
-
-* [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
-* [匯入設定檔](/help/data-management/importing-profiles.md)
-* [建立收件者清單](/help/profile-management/creating-a-list-of-recipients.md)

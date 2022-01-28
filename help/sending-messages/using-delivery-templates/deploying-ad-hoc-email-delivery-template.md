@@ -1,6 +1,6 @@
 ---
-title: 在Adobe Campaign Classic中部署隨選電子郵件傳送範本
-description: '了解如何部署隨選電子郵件傳送範本，並了解電子郵件傳送與傳送工作流程之間的差異。 '
+title: 在Adobe Campaign Classic部署臨時電子郵件傳遞模板
+description: '瞭解如何部署臨時電子郵件傳遞模板並瞭解電子郵件傳遞和傳遞工作流之間的區別。 '
 feature: Delivery Templates
 kt: 1565
 thumbnail: 24065.jpg
@@ -10,28 +10,15 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 61%
+source-wordcount: '61'
+ht-degree: 9%
 
 ---
 
 # 部署隨選電子郵件傳遞範本 {#deploying-a-delivery-template}
 
-此影片說明如何部署隨選電子郵件傳送範本，並說明電子郵件傳送與傳送工作流程之間的差異。
+此視頻說明了如何部署即席電子郵件傳遞模板，並說明了電子郵件傳遞與傳遞工作流之間的區別。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
-
-## 其他資源 {#additional-resources}
-
-操作說明短片
-* [設定傳遞範本](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
-* [設定傳遞範本屬性](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
-
-文件：
-
-* [關於範本](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=zh-Hant)
-* [建立傳遞範本](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=zh-Hant)
-* [選擇目標對應](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=zh-Hant)
-* [從範本建立傳遞](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=zh-Hant)

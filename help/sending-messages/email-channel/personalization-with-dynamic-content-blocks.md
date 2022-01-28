@@ -1,7 +1,7 @@
 ---
 title: 使用動態內容區塊製作個人化電子郵件
 description: 瞭解如何建立動態內容區塊，以及如何使用這些區塊來個人化您的電子郵件傳遞內容。
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 88%
+source-wordcount: '122'
+ht-degree: 86%
 
 ---
 
@@ -26,17 +26,6 @@ ht-degree: 88%
 
 瞭解如何建立動態內容區塊，以及如何使用這些區塊來個人化您的電子郵件傳遞內容。
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
-## 其他資源
-
-文件：
-
-* [關於個人化](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* [個人化區塊](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
-
-影片教學課程:
-
-* [使用個人化欄位個人化電子郵件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [個人化電子郵件 — 使用條件式內容建立多語言電子報](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+要瞭解有關個性化的詳細資訊，請參閱 [產品文檔](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)。

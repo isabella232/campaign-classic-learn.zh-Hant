@@ -1,5 +1,5 @@
 ---
-title: 從行銷活動建立電子郵件
+title: 從市場活動建立電子郵件
 description: 了解如何直接從行銷活動建立電子郵件傳送。
 feature: Email
 kt: 2172
@@ -10,19 +10,15 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
-source-git-commit: e7fab13d8fe549c48b89027d50a563065e2c022e
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 47%
+source-wordcount: '34'
+ht-degree: 64%
 
 ---
 
-# 從行銷活動建立電子郵件
+# 從市場活動建立電子郵件
 
 了解如何直接從行銷活動建立電子郵件傳送。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
-
-## 其他資源
-
-* [使用案例：建立電子郵件傳送（檔案）](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
