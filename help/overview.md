@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '264'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 93%
 
 ---
 
@@ -23,6 +23,10 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
+* **[與Adobe Target整合](/help/integrations/target-integration.md)**
+
+   *瞭解如何通過Adobe Target提供的動態內容個性化交付。*
+
 * **[建立跨頻道行銷活動](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
    *瞭解如何建立和執行跨頻道行銷活動。*
@@ -30,11 +34,6 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 * **[使用控制群組](/help/sending-messages/email-channel/use-control-groups.md)**
 
    *瞭解控制群組的概念，並瞭解如何使用控制群組進行傳遞。*
-
-* **[傳送及驗證證明](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
-
-   *瞭解如何傳送及驗證證明。*
-
 
 ## 員工精選
 
