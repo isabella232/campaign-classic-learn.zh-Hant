@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -21,11 +21,11 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 >[!INFO]
 > 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入對話！
 
-## 新增功能
+## 有哪些新功能
 
-* **[與Adobe Target整合](/help/integrations/target-integration.md)**
+* **[整合 Adobe Target](/help/integrations/target-integration.md)**
 
-   *瞭解如何通過Adobe Target提供的動態內容個性化交付。*
+   *瞭解如何經由 Adobe Target 提供的動態內容來個人化傳遞。*
 
 * **[建立跨頻道行銷活動](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
