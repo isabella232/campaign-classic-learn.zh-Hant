@@ -10,18 +10,14 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 1c6626847e3fcd8f07332dddabc6a9355f83a120
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
 
-# 使用 CNAME (beta) 委派子網域
-
->[!IMPORTANT]
->
-> 使用 CNAME 進行子網域委派為測試版，且會經常更新及修改，恕不另行通知。
+# 使用 CNAME 委派子網域
 
 若要開始傳送電子郵件或發佈登陸頁面給 Adobe Campaign，您必須設定新的子網域。
 
