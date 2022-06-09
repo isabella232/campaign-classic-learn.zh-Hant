@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,21 +19,25 @@ ht-degree: 100%
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用者指南包含了 Adobe Campaign Classic V7 許多功能的相關影片和教學課程。
 
 >[!INFO]
-> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入對話！
+> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096?lang=zh-Hant)中加入對話！
 
 ## 有哪些新功能
 
-* **[整合 Adobe Target](/help/integrations/target-integration.md)**
+* **[簡訊簡介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
 
-   *瞭解如何經由 Adobe Target 提供的動態內容來個人化傳遞。*
+   *瞭解簡訊的工作原理和Adobe Campaign發送簡訊的方式*
 
-* **[建立跨頻道行銷活動](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[為標準SMPP提供程式設定SMS帳戶](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
-   *瞭解如何建立和執行跨頻道行銷活動。*
+   *瞭解如何將SMS連接器適應您的SMPP提供商。 微調SMS設定以處理連接限制、設定最大吞吐量、發送窗口和使用TLS的加密。*
 
-* **[使用控制群組](/help/sending-messages/email-channel/use-control-groups.md)**
+* **[將SMS連接器適用於您的SMPP提供商](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
 
-   *瞭解控制群組的概念，並瞭解如何使用控制群組進行傳遞。*
+   *瞭解如何優化SMS設定以處理連接限制、設定最大吞吐量、發送窗口和使用TLS的加密。*
+
+* **[最大限度地提高您的電子郵件投資回報並學習訂閱者重新參與的最佳做法](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *瞭解如何最大化電子郵件投資回報率，並瞭解訂閱者重新參與的最佳做法。 瞭解提高訂閱者參與度的策略，並瞭解電子郵件活動的總體成功。*
 
 ## 員工精選
 
