@@ -13,9 +13,9 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 recommendations: noDisplay
 exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
 source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '252'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
 
    *瞭解如何使用「控制面板」中的 CNAME 來設定和提交子網域。*
 
-查看 [發行說明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hant) 的子菜單。
+請參閱最新的產品發行[版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hant)以取得更多資訊。
 
 ## 員工精選
 
