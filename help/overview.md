@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '371'
+ht-degree: 100%
 
 ---
 
@@ -23,21 +23,21 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 有哪些新功能
 
-* **[簡訊簡介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
+* **[簡訊簡介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=zh-Hant)**
 
-   *瞭解簡訊的工作原理和Adobe Campaign發送簡訊的方式*
+   *了解簡訊的工作原理和 Adobe Campaign 傳送簡訊的方式*
 
-* **[為標準SMPP提供程式設定SMS帳戶](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
+* **[為標準 SMPP 提供者設定 SMS 帳戶](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=zh-Hant)**
 
-   *瞭解如何將SMS連接器適應您的SMPP提供商。 微調SMS設定以處理連接限制、設定最大吞吐量、發送窗口和使用TLS的加密。*
+   *了解如何將 SMS 連接器調整至您的 SMPP 提供者。 微調 SMS 設定以處理連線限制、設定最大輸送量、傳送視窗和使用 TLS 的加密。*
 
-* **[將SMS連接器適用於您的SMPP提供商](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
+* **[將 SMS 連接器調整至您的 SMPP 提供者](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=zh-Hant)**
 
-   *瞭解如何優化SMS設定以處理連接限制、設定最大吞吐量、發送窗口和使用TLS的加密。*
+   *了解如何微調 SMS 設定以處理連線限制、設定最大輸送量、傳送視窗和使用 TLS 的加密。*
 
-* **[最大限度地提高您的電子郵件投資回報並學習訂閱者重新參與的最佳做法](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[最大限度地提高您的電子郵件 ROI 並學習使訂閱者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)**
 
-   *瞭解如何最大化電子郵件投資回報率，並瞭解訂閱者重新參與的最佳做法。 瞭解提高訂閱者參與度的策略，並瞭解電子郵件活動的總體成功。*
+   *了解如何最大化電子郵件 ROI，並了解使訂閱者重新參與的最佳實務。 探索提高訂閱者參與度的策略，並瞭解電子郵件 Campaign 的整體成功。*
 
 ## 員工精選
 
