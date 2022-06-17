@@ -5,16 +5,16 @@ user-guide-title: Adobe Campaign Classic 教學課程
 user-guide-description: Adobe Campaign Classic 可讓行銷人員設計跨通道的客戶體驗，並提供視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: 教學課程
 source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '404'
+ht-degree: 100%
 
 ---
 
 
 # Adobe Campaign Classic 教學課程 {#tutorials}
 
-+ [Adobe Campaign ClassicV7](/help/overview.md)
++ [Adobe Campaign Classic V7](/help/overview.md)
 + 開始使用{#getting-started}
    + [Adobe Campaign Classic 簡介](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [安裝及設定 Adobe Campaign 用戶端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -44,7 +44,7 @@ ht-degree: 0%
       + [疑難排解電子郵件傳遞問題](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [設計電子郵件以提供傳遞能力](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + SMS 頻道{#sms-channel}
-      + [為Adobe Campaign設定SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
+      + [為 Adobe Campaign 設定 SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hant)
       + [建立簡訊傳遞](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 推播頻道{#push-channel}
       + [安裝行動應用程式頻道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -91,6 +91,6 @@ ht-degree: 0%
    + 存取外部資料庫 (FDA) {#fda}
       + [ [!DNL Snowflake]上的巨量資料管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [疑難排解 Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hant)
-+ 戰略與思想領導{#strategy}
-   + [最大限度地提高電子郵件投資回報率和最佳實踐，以實現用戶重新參與](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
++ 策略與思想領導{#strategy}
+   + [最大限度地提高電子郵件 ROI 和最佳實務，以實現訂閱者重新參與](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
    + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
