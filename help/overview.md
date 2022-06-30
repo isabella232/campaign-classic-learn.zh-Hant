@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: ht
-source-wordcount: '371'
-ht-degree: 100%
+source-git-commit: 7e0296bfd4b22a8ef913a50fa594cff08ff783ed
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 83%
 
 ---
 
@@ -23,21 +23,21 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 有哪些新功能
 
+* **[監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)**
+
+   *瞭解如何監視工作流的臨時儲存使用情況以及配置工作流設定以避免實例上出現資料庫或工作流問題的位置。*
+
+* **[監視吞吐量和延遲](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *瞭解如何監控活動實例的傳遞吞吐量和事務性消息延遲。*
+
 * **[簡訊簡介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=zh-Hant)**
 
    *了解簡訊的工作原理和 Adobe Campaign 傳送簡訊的方式*
 
 * **[為標準 SMPP 提供者設定 SMS 帳戶](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=zh-Hant)**
 
-   *了解如何將 SMS 連接器調整至您的 SMPP 提供者。 微調 SMS 設定以處理連線限制、設定最大輸送量、傳送視窗和使用 TLS 的加密。*
-
-* **[將 SMS 連接器調整至您的 SMPP 提供者](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=zh-Hant)**
-
-   *了解如何微調 SMS 設定以處理連線限制、設定最大輸送量、傳送視窗和使用 TLS 的加密。*
-
-* **[最大限度地提高您的電子郵件 ROI 並學習使訂閱者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)**
-
-   *了解如何最大化電子郵件 ROI，並了解使訂閱者重新參與的最佳實務。 探索提高訂閱者參與度的策略，並瞭解電子郵件 Campaign 的整體成功。*
+   *了解如何將 SMS 連接器調整至您的 SMPP 提供者。 微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
 
 ## 員工精選
 
