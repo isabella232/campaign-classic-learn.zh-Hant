@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教學課程
 user-guide-description: Adobe Campaign Classic 可讓行銷人員設計跨通道的客戶體驗，並提供視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
-workflow-type: ht
-source-wordcount: '404'
-ht-degree: 100%
+source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
+workflow-type: tm+mt
+source-wordcount: '406'
+ht-degree: 97%
 
 ---
 
@@ -87,10 +87,10 @@ ht-degree: 100%
    + [整合 Adobe Target](/help/integrations/target-integration.md)
    + [與 Dynamics 365 整合](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
-   + [控制面板](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hant)
+   + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;
    + 存取外部資料庫 (FDA) {#fda}
       + [ [!DNL Snowflake]上的巨量資料管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [疑難排解 Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hant)
 + 策略與思想領導{#strategy}
-   + [最大限度地提高電子郵件 ROI 和最佳實務，以實現訂閱者重新參與](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
+   + [盡可能提高電子郵件 ROI，以及讓使用者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
    + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
