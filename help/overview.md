@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 3341541a9d21a8006da1b910315b2e21efbc5e87
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '384'
+ht-degree: 100%
 
 ---
 
@@ -19,21 +19,21 @@ ht-degree: 0%
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用者指南包含了 Adobe Campaign Classic V7 許多功能的相關影片和教學課程。
 
 >[!INFO]
-> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096?lang=zh-Hant)中加入對話！
+> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入對話！
 
 ## 有哪些新功能
 
-* **[用於混合主機模型的控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)**
+* **[混合託管模型的控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html?lang=zh-Hant)**
 
-   *瞭解如何為Adobe Campaign混合托管模型啟用控制面板、訪問控制面板和解鎖關鍵功能。*
+   *瞭解如何為 Adobe Campaign 混合託管模型啟用控制面板、存取控制面板和解鎖關鍵功能。*
 
-* **[控制面板 — 監視工作流](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;**
+* **[控制面板 — 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
-   *瞭解如何監視工作流的臨時儲存使用情況以及配置工作流設定以避免實例上出現資料庫或工作流問題的位置。*
+   *瞭解如何監視工作流程的臨時儲存使用情況以及在何處編輯工作流程設定以避免執行個體出現資料庫或工作流程問題。*
 
-* **[控制面板 — 監視吞吐量和延遲](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;**
+* **[控制面板 — 監視輸送量和延時](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
-   *瞭解如何監控活動實例的傳遞吞吐量和事務性消息延遲。*
+   *瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。*
 
 * **[簡訊簡介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=zh-Hant)**
 
