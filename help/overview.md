@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: e9b7b7e76e026227bd8c44a854bde98d1adf1428
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -27,15 +27,15 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
    *瞭解如何建立 SMPP 連線以及 SMPP 如何通過 PDU 交換資料。 瞭解如何疑難排解連線問題。*
 
-* **[混合託管模型的控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=en)**
+* **[混合託管模型的控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=zh-Hant)**
 
    *瞭解如何為 Adobe Campaign 混合託管模型啟用控制面板、存取控制面板和解鎖關鍵功能。*
 
-* **[控制面板 — 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
+* **[控制面板 — 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
    *瞭解如何監視工作流程的臨時儲存使用情況以及在何處編輯工作流程設定以避免執行個體出現資料庫或工作流程問題。*
 
-* **[控制面板 — 監視輸送量和延時](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
+* **[控制面板 — 監視輸送量和延時](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
    *瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。*
 
