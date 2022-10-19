@@ -5,16 +5,15 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 10be650f7a5e001d7afb74dcab1edb7dbfc0ec96
+source-git-commit: 92d32058534303c35cf111ce9ce3836687391000
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '419'
+ht-degree: 98%
 
 ---
 
-# Adobe Campaign V7 教學課程 — 概覽
+# Adobe Campaign Classic V7教學課程
 
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用者指南包含了 Adobe Campaign Classic V7 許多功能的相關影片和教學課程。
 
@@ -23,7 +22,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 <div id="whats-new-section">
 
-## 有哪些新功能
+## 新增功能
 
 * **[SMPP 協定深入剖析和疑難排解](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=zh-Hant)**
 
