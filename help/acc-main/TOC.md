@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教學課程
 user-guide-description: Adobe Campaign Classic 可讓行銷人員設計跨通道的客戶體驗，並提供視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: 5ea94a7e00a2c9fdc9fbadb563aa61f43479cb24
+source-git-commit: 3be59ba2d184aab2e614d8b27326e8a464068650
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 100%
+source-wordcount: '413'
+ht-degree: 98%
 
 ---
 
@@ -77,6 +77,7 @@ ht-degree: 100%
    + [設定擴充活動](/help/automating-with-workflows/enrichment-activity.md)
    + [資料細分](/help/data-management/data-segmentation.md)
    + [管理核准](/help/automating-with-workflows/managing-approvals.md)
+   + [向同儕學習 — 工作流程最佳實務](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + 設計內容{#designing-content}
    + [設定登陸頁面](/help/designing-content/configure-landingpages.md)
 + 監視 {#monitoring}
