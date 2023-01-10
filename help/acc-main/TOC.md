@@ -7,7 +7,7 @@ breadcrumb-title: 教學課程
 source-git-commit: 4be021933b4124a19282a235fc364b663c9028bf
 workflow-type: tm+mt
 source-wordcount: '413'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 97%
    + [設定擴充活動](/help/automating-with-workflows/enrichment-activity.md)
    + [資料分段](/help/data-management/data-segmentation.md)
    + [管理核准](/help/automating-with-workflows/managing-approvals.md)
-   + [向同儕學習 — 工作流程最佳實務](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+   + [向同儕學習 - 工作流程最佳實務](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + 設計內容{#designing-content}
    + [設定登陸頁面](/help/designing-content/configure-landingpages.md)
 + 監視 {#monitoring}
