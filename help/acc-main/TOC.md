@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教學課程
 user-guide-description: Adobe Campaign Classic 可讓行銷人員設計跨通道的客戶體驗，並提供視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: 4be021933b4124a19282a235fc364b663c9028bf
+source-git-commit: 3e39c4972106f6343bec6f1417c3d2ae5371833f
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 99%
+source-wordcount: '419'
+ht-degree: 97%
 
 ---
 
@@ -87,11 +87,12 @@ ht-degree: 99%
    + [整合 Adobe Target](/help/integrations/target-integration.md)
    + [與 Dynamics 365 整合](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
-   + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant){target=&quot;_blank&quot;}
+   + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant){target="_blank"}
    + [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hant)
    + 存取外部資料庫 (FDA) {#fda}
       + [ [!DNL Snowflake]上的巨量資料管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [疑難排解 Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hant)
 + 策略與思想領導{#strategy}
+   + [行銷人員適用Adobe Campaign成功的10個最佳實務](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [盡可能提高電子郵件 ROI，以及讓使用者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
    + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
