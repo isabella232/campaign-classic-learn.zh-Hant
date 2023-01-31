@@ -4,7 +4,7 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教學課程
 user-guide-description: Adobe Campaign Classic 可讓行銷人員設計跨通道的客戶體驗，並提供視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: 4439abdb7ea767951bb2469835f4f60b0804477f
+source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 97%
@@ -93,6 +93,6 @@ ht-degree: 97%
       + [ [!DNL Snowflake]上的巨量資料管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [疑難排解 Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hant)
 + 策略與思想領導{#strategy}
-   + [Adobe Campaign成功行銷的十大最佳實務](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [Adobe Campaign成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
    + [盡可能提高電子郵件 ROI，以及讓使用者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
    + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
