@@ -1,19 +1,19 @@
 ---
 title: Adobe Campaign Classic 教學課程 — 概覽
-description: Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行銷活動策劃、即時互動管理和Cross-channel Execution的環境。 本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
+description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理及 Cross-channel Execution 提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 24ef8cdb92d45d24fc15f23045deae137d018b10
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '413'
+ht-degree: 100%
 
 ---
 
-# Adobe Campaign Classic V7教學課程
+# Adobe Campaign Classic V7 教學課程
 
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用者指南包含了 Adobe Campaign Classic V7 許多功能的相關影片和教學課程。
 
@@ -32,11 +32,11 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
    *瞭解如何為 Adobe Campaign 混合託管模型啟用控制面板、存取控制面板和解鎖關鍵功能。*
 
-* **[控制面板 — 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hant){target=&quot;_blank&quot;}**
+* **[控制面板 - 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hant){target="_blank"}**
 
    *瞭解如何監視工作流程的臨時儲存使用情況以及在何處編輯工作流程設定以避免執行個體出現資料庫或工作流程問題。*
 
-* **[控制面板 — 監視輸送量和延時](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hant){target=&quot;_blank&quot;}**
+* **[控制面板 - 監視輸送量與延時](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hant){target="_blank"}**
 
    *瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。*
 
