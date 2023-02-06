@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic 教學課程
 user-guide-description: Adobe Campaign Classic 可讓行銷人員設計跨通道的客戶體驗，並提供視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: 教學課程
 source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -75,7 +75,7 @@ ht-degree: 97%
    + [使用更新清單活動，建立工作流程的清單](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [設定驗證工作流程](/help/automating-with-workflows/validation-flow-configuration.md)
    + [設定擴充活動](/help/automating-with-workflows/enrichment-activity.md)
-   + [資料分段](/help/data-management/data-segmentation.md)
+   + [資料細分](/help/data-management/data-segmentation.md)
    + [管理核准](/help/automating-with-workflows/managing-approvals.md)
    + [向同儕學習 - 工作流程最佳實務](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + 設計內容{#designing-content}
@@ -93,6 +93,6 @@ ht-degree: 97%
       + [ [!DNL Snowflake]上的巨量資料管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [疑難排解 Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hant)
 + 策略與思想領導{#strategy}
-   + [Adobe Campaign成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
+   + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
    + [盡可能提高電子郵件 ROI，以及讓使用者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
    + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
