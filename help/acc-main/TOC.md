@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic 教學課程
 user-guide-description: Adobe Campaign Classic 可讓行銷人員設計跨通道的客戶體驗，並提供視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: 教學課程
 source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 96%
       + [管理電子郵件中的種子和校樣](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [傳送及驗證校樣](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [使用控制組](/help/sending-messages/email-channel/use-control-groups.md)
-      + [設定A/B測試的傳送](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
+      + [設定 A/B 測試的傳遞](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [設定動態內容](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [使用動態內容區塊製作個人化電子郵件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [使用個人化欄位個人化電子郵件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -83,7 +83,7 @@ ht-degree: 96%
    + [向同儕學習 - 工作流程最佳實務](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + 設定登陸頁面 {#landing-pages}
    + [設定登陸頁面](/help/designing-content/configure-landingpages.md)
-   + [建立首選項中心](/help/designing-content/create-a-preference-center.md)
+   + [建立偏好設定中心](/help/designing-content/create-a-preference-center.md)
 + 監視 {#monitoring}
    + [工作流程熱度圖](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [稽核軌跡](/help/monitoring-campaign-classic/audit-trail.md)
