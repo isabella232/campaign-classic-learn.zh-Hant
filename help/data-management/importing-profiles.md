@@ -1,6 +1,6 @@
 ---
 title: 如何匯入設定檔？
-description: 瞭解如何在Adobe Campaign Classic導入配置檔案
+description: 了解如何在Adobe Campaign Classic中匯入設定檔
 feature: Profiles
 kt: 2176
 doc-type: feature video
@@ -9,7 +9,7 @@ team: TM
 role: User, Admin, Developer
 level: Beginner
 exl-id: 373c0247-fd72-4c36-b2d6-cb758dc72492
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 28%
@@ -18,6 +18,6 @@ ht-degree: 28%
 
 # 如何匯入設定檔？
 
-此視頻說明如何導入Adobe Campaign Classic的配置檔案。
+此影片說明如何在Adobe Campaign Classic中匯入設定檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign Classic資料分割
-description: '瞭解整合的客戶配置檔案、如何建立和更新配置檔案以及如何基於這些配置檔案建立客戶段。 '
+title: Adobe Campaign Classic中的資料分段
+description: 了解整合式客戶設定檔、如何建立和更新設定檔，以及如何根據這些設定檔建立客戶區段。
 feature: Profiles, Data Management Activity
 kt: 1656
 doc-type: feature video
@@ -9,7 +9,7 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -18,25 +18,25 @@ ht-degree: 0%
 
 # 資料細分
 
-Adobe Campaign允許您通過對常用消費者屬性和其他資料源的深入查詢執行高級分段，從而建立可重用清單、根據對資料的即時更改動態更新清單，甚至對任何資料點執行更複雜的活動，如多變數測試。 本教程介紹了整合的客戶配置檔案、如何建立和更新配置檔案以及如何根據這些配置檔案建立客戶段。
+Adobe Campaign可讓您透過對通用消費者屬性和其他資料來源的深層查詢來執行進階分段，以建立可重複使用的清單、根據資料的即時變更來動態更新清單，甚至對任何這些資料點執行更複雜的活動，例如多變數測試。 本教學課程說明整合式客戶設定檔、如何建立和更新設定檔，以及如何根據這些設定檔建立客戶區段。
 
 ## Integrated Customer Profile {#integrated-customer-profile}
 
-客戶通過手指小費來生成每個渠道的資料，因為他們在做人們在做出購買決策時所做的所有事情，或者只是與您的品牌進行交互。
+客戶在嘗試做出購買決策或與您的品牌互動時，會透過手指尖的每個管道產生資料。
 
-Adobe Campaign的整合客戶概況使營銷人員能夠大規模捕獲和管理這些資料；從人口結構細節「郵遞區號」「地址」「性別」等個人資料屬性，到交互資料、「開啟郵件」、「點擊電子郵件」、「網站訪問」，到轉換資料，甚至離線資料。
+Adobe Campaign的整合式客戶設定檔可讓行銷人員大規模擷取和管理該資料；從設定檔屬性（如人口統計詳細資料「郵遞區號」、「位址」、「性別」等）到互動資料、「開啟訊息」、「點擊電子郵件」、「網站造訪」等，到轉換資料，甚至離線資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
 
 ## 建立和更新客戶配置檔案 {#customer-profile-creation-and-update}
 
->[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
 
 ## 客戶細分  {#customer-segmentation}
 
-一旦您瞭解了配置檔案，您就可以通過對常用用戶屬性和其他資料源的深入查詢來執行高級細分。 允許您建立可重用清單，根據對資料的即時更改動態更新清單，甚至可以執行更複雜的活動，如對任何資料點進行多變數測試。
+了解設定檔後，您就可以透過常見消費者屬性和其他資料來源的深層查詢執行進階分段。 可讓您建立可重複使用的清單、根據資料的即時變更動態更新清單，甚至對任何這些資料點執行更複雜的活動，例如多變數測試。
 
-請注意：此視頻在Adobe Campaign ClassicV6中錄制，功能完全相同，但工作流表徵圖已更改。
+請注意：此影片在Adobe Campaign Classic V6中錄制，其功能完全相同，不過工作流程圖示已變更。
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
 

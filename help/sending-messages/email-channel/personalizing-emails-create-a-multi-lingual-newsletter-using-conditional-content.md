@@ -1,6 +1,6 @@
 ---
-title: 個性化電子郵件 — 使用條件內容建立多語言新聞簡報
-description: 瞭解如何在多語言新聞稿的示例中向交付內容添加條件內容。
+title: 個人化電子郵件 — 使用條件式內容建立多語言電子報
+description: 透過多語言電子報範例，了解如何將條件式內容新增至傳遞。
 feature: Dynamic Content, Personalization
 kt: 5922
 thumbnail: 24926.jpg
@@ -10,19 +10,19 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 26%
+ht-degree: 45%
 
 ---
 
-# 個性化電子郵件 — 使用條件內容建立多語言新聞簡報
+# 個人化電子郵件 — 使用條件式內容建立多語言電子報
 
 透過設定條件式內容欄位，您可以建立進階的個人化。滿足特定條件時，便可以取代完整的文字區塊及/或影像。
 
-瞭解如何在多語言新聞稿的示例中向交付內容添加條件內容。
+透過多語言電子報範例，了解如何將條件式內容新增至傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
-要瞭解有關個性化的詳細資訊，請參閱 [產品文檔](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)。
+若要深入了解個人化，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=zh-Hant)。

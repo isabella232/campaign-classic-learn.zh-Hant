@@ -1,6 +1,6 @@
 ---
 title: 如何使用稽核軌跡
-description: '稽核軌跡可以即時擷取 Adobe Campaign 中發生之動作和事件的完整清單。 '
+description: 稽核軌跡可以即時擷取 Adobe Campaign 中發生之動作和事件的完整清單。
 feature: Audit Trail
 kt: 2835
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
@@ -41,6 +41,6 @@ ht-degree: 100%
 
 以下影片說明存取稽核軌跡的位置，以及可以進行的相關設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on)
 
 如需詳細資訊，請參閱[稽核軌跡文件](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=zh-Hant)。
