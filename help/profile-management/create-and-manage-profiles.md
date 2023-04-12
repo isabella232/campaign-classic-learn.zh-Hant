@@ -2,7 +2,7 @@
 title: 建立和管理設定檔
 description: 了解如何存取設定檔資料、排序和篩選設定檔，以及手動建立和管理設定檔。 了解應該遵守一般資料保護規範 (GDPR) 和加州消費者隱私保護法 (CCPA) 的規定。
 landing-page-description: 瞭解設定檔的相關概念。瞭解如何存取設定檔資料、排序和篩選設定檔，以及手動建立和管理設定檔。了解 GDPR 和 CCPA。
-short-description: Understand the concept of profiles. Learn how to access profile data, sort and filter profiles and manually create and manage profiles. Learn about GDPR and CCPA.
+short-description: 瞭解設定檔的相關概念。瞭解如何存取設定檔資料、排序和篩選設定檔，以及手動建立和管理設定檔。了解 GDPR 和 CCPA。
 feature: Profiles
 kt: 5081
 thumbnail: 35611.jpg
@@ -14,7 +14,7 @@ level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
 source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '137'
 ht-degree: 100%
 
 ---
