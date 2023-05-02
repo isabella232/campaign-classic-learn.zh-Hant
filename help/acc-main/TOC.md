@@ -4,7 +4,7 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教學課程
 user-guide-description: Adobe Campaign Classic 可讓行銷人員設計跨通道的客戶體驗，並提供視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: f4005dbd21dbe7c38ab5831a260a87a5bb9ea4ca
+source-git-commit: 3812f2852958edb7be5fca16fe2e5e9b31a91199
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -32,6 +32,7 @@ ht-degree: 0%
 + 傳送訊息{#sending-messages}
    + 電子郵件頻道{#email-channel}
       + [建立及設計電子郵件傳遞](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [設計電子郵件傳遞內容](/help/sending-messages/email-channel/design-email-delivery-content.md)
       + [管理電子郵件中的種子和校樣](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [傳送及驗證校樣](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [使用控制組](/help/sending-messages/email-channel/use-control-groups.md)
