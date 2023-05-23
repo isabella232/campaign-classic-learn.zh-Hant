@@ -18,9 +18,9 @@ ht-degree: 53%
 
 # 建立目標定位工作流程
 
-Adobe Campaign 使用工作流程來執行目標定位行銷活動、建立行銷活動或執行 Adobe Campaign 技術流程。在此影片中，我們將著重於鎖定工作流程。 目標工作流程可讓您建立數個傳送目標。
+Adobe Campaign 使用工作流程來執行目標定位行銷活動、建立行銷活動或執行 Adobe Campaign 技術流程。在此視頻中，我們將重點介紹工作流的目標。 目標工作流使您能夠構建多個傳遞目標。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on)
 
-請參閱本檔案 [關於工作流程](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hant)
-和 [關於目標定位活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) 以取得更多資訊。
+請參閱文檔 [關於工作流](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hant)
+和 [關於目標活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) 的子菜單。

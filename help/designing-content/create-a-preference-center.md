@@ -1,6 +1,6 @@
 ---
 title: 建立偏好設定中心
-description: 了解如何使用Adobe Campaign的Web應用程式編輯器建立偏好設定中心。
+description: 瞭解如何使用Adobe Campaign的Web應用程式編輯器建立首選項中心。
 feature: Landing Pages
 kt: 1562
 thumbnail: 25041.jpg
@@ -20,8 +20,8 @@ ht-degree: 14%
 
 # 建立偏好設定中心
 
-了解如何使用Adobe Campaign的Web應用程式編輯器建立偏好設定中心。
+瞭解如何使用Adobe Campaign的Web應用程式編輯器建立首選項中心。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on)
 
-如需詳細資訊，請參閱 [建立登錄頁面](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+有關詳細資訊，請參閱 [建立登錄頁](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)。

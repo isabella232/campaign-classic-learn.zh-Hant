@@ -19,6 +19,6 @@ ht-degree: 82%
 
 # 排除查詢結果以縮小目標
 
-了解如何透過套用 **[!UICONTROL standard exclusion]** 至工作流程。 您也將學習如何建立預先定義的篩選器，以及如何疑難排解您的工作流程。
+瞭解如何通過應用 **[!UICONTROL standard exclusion]** 到工作流。 您也將學習如何建立預先定義的篩選器，以及如何疑難排解您的工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on)

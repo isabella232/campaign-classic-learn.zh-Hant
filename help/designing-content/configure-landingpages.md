@@ -1,6 +1,6 @@
 ---
-title: 設定登錄頁面
-description: 了解如何建立和設定登錄頁面。
+title: 配置登錄頁
+description: 瞭解如何建立和配置登錄頁。
 feature: Landing Pages
 kt: 11918
 thumbnail: 3415819
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# 設定登錄頁面
+# 配置登錄頁
 
-了解如何建立和設定登錄頁面。
+瞭解如何建立和配置登錄頁。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on)
 
-如需詳細資訊，請參閱 [建立登錄頁面](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+有關詳細資訊，請參閱 [建立登錄頁](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)。

@@ -1,22 +1,22 @@
 ---
-title: 與Adobe Target整合
-description: 瞭解如何通過Adobe Target提供的動態內容個性化交付。
+title: 整合 Adobe Target
+description: 瞭解如何透過 Adobe Target 提供的動態內容個性化交付。
 feature: Target Integration
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 9601
 thumbnail: 341030.jpg
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+exl-id: 1338427d-d75e-4480-9377-f8e68e067364
+source-git-commit: 818dc5bb697ce70182ecee936c22a26730201337
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 61%
 
 ---
 
+# 整合 Adobe Target
 
-# 與Adobe Target整合
-
-瞭解如何通過Adobe Target提供的動態內容個性化交付。
+瞭解如何透過 Adobe Target 提供的動態內容個性化交付。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on)
 

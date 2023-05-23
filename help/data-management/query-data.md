@@ -1,6 +1,6 @@
 ---
 title: 查詢資料
-description: 了解如何使用查詢編輯器查詢資料。
+description: 瞭解如何使用查詢編輯器查詢資料。
 kt: 11924
 doc-type: feature video
 activity: use
@@ -19,6 +19,6 @@ ht-degree: 18%
 
 # 查詢資料
 
-了解如何使用查詢編輯器查詢資料。
+瞭解如何使用查詢編輯器查詢資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on)

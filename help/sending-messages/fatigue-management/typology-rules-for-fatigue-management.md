@@ -1,5 +1,5 @@
 ---
-title: 如何在Adobe Campaign Classic中使用類型規則設定疲勞管理
+title: 如何利用類型規則在Adobe Campaign Classic建立疲勞管理
 description: 瞭解如何套用類型規則來實施疲勞管理。
 feature: Fatigue Management, Typology Rules
 kt: 1564
@@ -16,14 +16,14 @@ ht-degree: 41%
 
 ---
 
-# 如何使用類型規則設定疲勞管理
+# 如何利用類型規則建立疲勞管理
 
 疲勞管理控制傳訊的頻率和數量，以避免收件者過度請求，且通會套用類型規則。
 
-類型規則可讓行銷人員更有效率地標準化所有傳遞的業務實務，以控制傳送給客戶的行銷活動訊息。 他們不需要將排除項目或常用的規則套用至每個個別促銷活動，即可達成此目的。 符合 *類型規則* 會在分析階段期間從傳送中排除。
+類型規則可讓行銷人員更有效率地標準化所有傳遞的業務實務，以控制傳送給客戶的行銷活動訊息。 他們通過消除將排除或常用規則應用於每個活動的必要性來做到這一點。 符合條件的收件人 *類型規則* 在分析階段從交貨中排除。
 
-此影片說明如何透過套用類型規則，在Adobe Campaign Classic中實作疲勞管理。
+本視頻說明了如何通過應用類型規則在Adobe Campaign Classic實施疲勞管理。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on)
 
-請造訪產品檔案以深入了解 [行銷活動類型](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hant).
+訪問產品文檔以瞭解有關 [競選類型](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hant)。

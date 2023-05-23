@@ -20,6 +20,6 @@ ht-degree: 84%
 
 Adobe Campaign 包括一個工作流程模組，可跨應用程式伺服器的不同模組策劃所有流程和任務。使用這個全方位的圖像式環境，您可以設計各式流程，包含細分、行銷活動執行、檔案處理、人力參與等。工作流程引擎將執行並追蹤這些流程。
 
-此影片說明如何在Adobe Campaign Classic中建立工作流程。
+此視頻介紹如何在Adobe Campaign Classic建立工作流。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on)

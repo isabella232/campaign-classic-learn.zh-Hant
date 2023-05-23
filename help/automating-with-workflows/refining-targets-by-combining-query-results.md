@@ -19,6 +19,6 @@ ht-degree: 64%
 
 # 結合查詢結果以縮小目標
 
-了解如何使用在工作流程中結合查詢結果，以縮小目標範圍 **[!UICONTROL intersection]** 或 **[!UICONTROL union]** 活動。
+瞭解如何通過使用 **[!UICONTROL intersection]** 或 **[!UICONTROL union]** 活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on)

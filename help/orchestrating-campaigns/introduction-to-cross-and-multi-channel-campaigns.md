@@ -1,5 +1,5 @@
 ---
-title: 多管道和跨管道行銷活動之間的差異
+title: 多渠道和跨渠道營銷活動之間的區別
 description: 瞭解多頻道和跨頻道行銷活動之間的差異，以及多頻道和跨頻道行銷活動的使用案例。
 feature: Cross Channel Orchestration
 kt: 7018

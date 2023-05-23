@@ -16,7 +16,7 @@ ht-degree: 88%
 
 # 電子郵件傳送活動與傳送活動
 
-A [!UICONTROL Delivery-type activity] 可讓您建立傳送動作。 可使用輸入元素來建構。
+A [!UICONTROL Delivery-type activity] 允許您建立交貨操作。 可使用輸入元素來建構。
 
 此影片說明如何部署電子郵件傳遞範本。 它說明了電子郵件傳遞與傳遞工作流程之間的差異。
 
