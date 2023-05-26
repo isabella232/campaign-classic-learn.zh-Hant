@@ -1,6 +1,6 @@
 ---
 title: 如何管理電子郵件中的種子和證明
-description: 瞭解如何將種子和校樣添加到現有電子郵件中以及如何發送。
+description: 瞭解如何將種子和校樣新增到現有電子郵件以及如何傳送。
 feature: Email, Seed Address, Proofs
 kt: 2178
 thumbnail: 25606.jpg
@@ -19,6 +19,6 @@ ht-degree: 36%
 
 # 如何管理電子郵件中的種子和證明
 
-瞭解如何將種子和校樣添加到現有電子郵件中以及如何發送。
+瞭解如何將種子和校樣新增到現有電子郵件以及如何傳送。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on)

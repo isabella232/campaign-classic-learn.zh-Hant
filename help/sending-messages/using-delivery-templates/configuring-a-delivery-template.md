@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Campaign Classic配置交貨模板
+title: 在Adobe Campaign Classic中設定傳遞範本
 description: 瞭解如何設定隨選傳遞的範本。
 feature: Delivery Templates
 kt: 1980
@@ -28,7 +28,7 @@ ht-degree: 84%
 * 寄件者和回覆地址
 * 基本個人化區塊
 * 鏡像頁面和取消訂閱的連結
-* 內容、公司徽標或簽名
+* 內容、公司標誌或簽名
 * 其他傳遞屬性，例如資源有效性、批次數量⋯
 
 下列影片示範如何設定隨選傳遞的範本。

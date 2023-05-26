@@ -19,7 +19,7 @@ ht-degree: 69%
 
 # 使用更新清單活動，建立工作流程的清單
 
-瞭解Adobe Campaign Classic清單的概念，並瞭解如何使用工作流中的更新清單活動建立清單。
+瞭解Adobe Campaign Classic中清單的概念，並瞭解如何使用工作流程中的更新清單活動建立清單。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12&learn=on)
 

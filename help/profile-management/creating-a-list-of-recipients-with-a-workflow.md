@@ -1,6 +1,6 @@
 ---
 title: 使用工作流程建立收件者清單
-description: 通過從資源管理器中配置收件人清單瞭解如何建立訪問群體。
+description: 瞭解如何透過從檔案總管設定收件者清單來建立對象。
 feature: Audiences, Profiles
 kt: 2173
 thumbnail: 25603.jpg
@@ -19,6 +19,6 @@ ht-degree: 29%
 
 # 使用工作流程建立收件者清單
 
-瞭解如何建立工作流以達到目標收件人，以及如何在電子郵件目標中使用清單之前使其重複。
+瞭解如何在電子郵件目標中使用清單之前，建立工作流程以定位收件者，以及如何使其重複發生。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on)

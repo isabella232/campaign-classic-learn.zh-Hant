@@ -18,8 +18,8 @@ ht-degree: 54%
 
 # 使用 Experience Platform Mobile SDK 設定推送頻道
 
-此視頻介紹如何配置和安裝Adobe Experience Platform移動SDK。
+此影片說明如何設定和安裝Adobe Experience Platform Mobile SDK。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on)
 
-要詳細瞭解如何在Mobile SDK中配置Campaign Classic擴展，請參見 [產品文檔](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)。
+若要進一步瞭解如何在Mobile SDK中設定Campaign Classic擴充功能，請參閱 [產品檔案](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).

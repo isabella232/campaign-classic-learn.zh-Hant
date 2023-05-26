@@ -21,4 +21,4 @@ ht-degree: 61%
 >[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on)
 
 >[!NOTE]
-> 視頻已在市場活動V8中錄制，Campaign ClassicV7和市場活動V8的功能相同。
+> 此影片已在Campaign V8中錄製，其功能與Campaign Classic V7和Campaign V8相同。

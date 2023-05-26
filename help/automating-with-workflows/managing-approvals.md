@@ -1,5 +1,5 @@
 ---
-title: 管理市場活動中的批准
+title: 管理行銷活動中的核准
 description: 瞭解如何設定核准和行銷活動，以及如何區分傳遞和工作流程核准。
 feature: Workflows, Approvals
 kt: 5093
@@ -17,10 +17,10 @@ ht-degree: 62%
 
 ---
 
-# 管理市場活動中的批准
+# 管理行銷活動中的核准
 
 透過核准，操作人員可以決定管理工作流程決策，或確認繼續執行。瞭解如何設定核准和行銷活動，以及如何區分傳遞和工作流程核准。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on)
 
-要瞭解有關定義審批的詳細資訊，請參閱 [產品文檔](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails)。
+若要進一步瞭解定義核准，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).
