@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: e54154e5785b1688ee4a157f05ff91207ee75663
+source-git-commit: d56ae485ffdd3ccaf75a0cf76652f2ade7f61fed
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 48%
@@ -25,6 +25,6 @@ ht-degree: 48%
 
 請參閱產品檔案以取得下列專案的詳細資訊：
 
-* [如何定義控制組](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group)
-* [如何定義傳遞目標母體](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en)
+* [如何定義控制組](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
+* [如何定義傳遞目標母體](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
 
