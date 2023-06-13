@@ -1,12 +1,12 @@
 ---
 title: 使用動態內容區塊個人化電子郵件
 description: 本教學課程示範如何個人化傳遞內容、在傳遞範本中使用JavaScript程式碼，以及在不同傳遞範本中標準化和共用內容區塊。
-feature: Dynamic Content, Personalization
+feature: Personalization
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f155a48a2eea11867a217051741941d57ad54915
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 67%
