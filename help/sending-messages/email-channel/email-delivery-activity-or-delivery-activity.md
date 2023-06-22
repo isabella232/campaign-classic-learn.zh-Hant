@@ -2,11 +2,11 @@
 title: 電子郵件傳遞活動與 Adobe Campaign Classic 中傳遞活動的比較
 description: 本影片說明如何設定和使用傳遞範本。
 feature: Delivery Templates, Email
-kt: 3232
+jira: KT-3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 88%

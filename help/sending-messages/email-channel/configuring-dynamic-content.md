@@ -2,7 +2,7 @@
 title: 設定動態內容
 description: 瞭解不同類型的動態內容，並瞭解如何建立個人化區塊和條件陳述式並套用至傳遞。
 feature: Personalization, Email
-kt: 6824
+jira: KT-6824
 thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 84%

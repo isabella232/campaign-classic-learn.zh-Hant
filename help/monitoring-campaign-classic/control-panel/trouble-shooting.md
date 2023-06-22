@@ -2,11 +2,11 @@
 title: 控制面板疑難排解
 description: 「控制面板」可以讓您依執行個體和允許清單IP位址監控及管理SFTP儲存。
 feature: Control Panel
-kt: 2938
+jira: KT-2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 80%
