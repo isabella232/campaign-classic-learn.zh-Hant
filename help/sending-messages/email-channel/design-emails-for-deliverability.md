@@ -2,7 +2,7 @@
 title: 如何在設計電子郵件時確保傳遞能力？
 description: 瞭解如何運用傳遞能力的最佳實務。
 feature: Email, Deliverability
-kt: 5095
+jira: KT-5095
 thumbnail: 330943.jpg
 doc-type: feature video
 activity: understand
@@ -10,9 +10,9 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: tm+mt
-source-wordcount: '41'
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
