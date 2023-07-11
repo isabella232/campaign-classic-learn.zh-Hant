@@ -2,15 +2,16 @@
 title: Adobe Campaign 成功行銷的十大最佳實務
 description: 了解十大最佳實務，協助 Adobe Campaign 從業人員充分發揮並加速消費者數位轉型，並向客戶提供更佳體驗。
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: ht
+source-git-commit: eae208987b8430773421cba7aec2f77d5441b618
+workflow-type: tm+mt
 source-wordcount: '1279'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +50,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 例如，如果客戶早上利用手機查看最佳交易，您可考慮傳送行銷活動簡訊給他們。 如果他們在晚上瀏覽下個熱門趨勢，請考慮傳送後續電子郵件，內含免運費促銷代碼。 同樣重要的是，利用 [!DNL Campaign] 的熱度圖工具來追蹤工作流程與傳送的執行時間。 協調及促進跨多個品牌的通訊可能是一項挑戰。 對於訊息與行銷活動執行個體的整體穩定性及力量而言，[密切關注並了解電子郵件的節奏、步調與時間](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)重要性不可小覷。
 
-## 4. 在重要時機利用個人化功能
+## 4.在需要個人化的地方使用
 
 如今，消費者期望收到一定程度個人化的訊息。 [80% 的客戶較可能從提供個人化體驗的品牌購物](https://us.epsilon.com/power-of-me)。主旨使用其名字是個好點子。 不過，個人化可更進一步。 您可納入其瀏覽過的產品、將其與連結至類似產品，或繼續強化您品牌的整體體驗與外觀感受。 每項做法均有其成效，並能推動訊息的參與度及點開率。
 
