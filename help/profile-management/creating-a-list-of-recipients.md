@@ -1,6 +1,6 @@
 ---
 title: 建立收件者清單
-description: 瞭解如何透過從檔案總管設定收件者清單來建立對象。
+description: 瞭解如何從檔案總管設定收件者清單，以建立對象。
 feature: Audiences, Profiles
 jira: KT-2171
 thumbnail: 25602.jpg
@@ -21,6 +21,6 @@ ht-degree: 59%
 
 此清單 (list) 是一組靜態的收件者名單，在傳遞作業期間可用於提供目標，或在匯入作業或工作流程執行期間可對其進行更新。收件者清單也可以稱為受眾。
 
-瞭解如何透過從檔案總管設定收件者清單來建立對象。
+瞭解如何從檔案總管設定收件者清單，以建立對象。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25602/quality=12)

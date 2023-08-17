@@ -19,7 +19,7 @@ ht-degree: 3%
 
 # 設定和傳送推播通知
 
-瞭解如何設定和傳送 [!DNL push] 通知使用者 [!DNL Android] 應用程式。
+瞭解如何設定並傳送 [!DNL push] 通知使用者 [!DNL Android] 應用程式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on)
 

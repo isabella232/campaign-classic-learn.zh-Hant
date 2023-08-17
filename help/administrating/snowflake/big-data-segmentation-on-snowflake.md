@@ -18,7 +18,7 @@ ht-degree: 56%
 
 # Snowflake 上的巨量資料管理
 
-本教學課程說明如何運用 [!DNL Snowflake] Adobe Campaign Classic中的聯結器。
+本教學課程說明如何善用 [!DNL Snowflake] Adobe Campaign Classic中的聯結器。
 您將瞭解到
 
 * 連結到 Snowflake

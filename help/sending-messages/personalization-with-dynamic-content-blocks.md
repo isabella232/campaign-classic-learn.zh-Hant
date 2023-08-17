@@ -27,7 +27,7 @@ ht-degree: 67%
 
 ## 建立個人化區塊並新增至傳遞
 
-個人化區塊是動態的，並包含可以新增至傳遞的特定轉譯程式碼。 例如，您可以新增影像、電子郵件標題、電子郵件頁尾、鏡像頁面連結、取消訂閱連結等。
+個人化區塊為動態區塊，並包含可以新增至傳遞的特定轉譯程式碼。 例如，您可以新增影像、電子郵件標題、電子郵件頁尾、鏡像頁面連結、取消訂閱連結等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on)
 
@@ -43,4 +43,4 @@ ht-degree: 67%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
-若要進一步瞭解個人化，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
+若要深入瞭解個人化，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

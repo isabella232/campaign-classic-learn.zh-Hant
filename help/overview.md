@@ -25,28 +25,22 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 ## 新增功能
 
 * **[SMPP 協定深入剖析和疑難排解](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=zh-Hant)**
-
-   *瞭解如何建立 SMPP 連線以及 SMPP 如何通過 PDU 交換資料。 瞭解如何疑難排解連線問題。*
+  *瞭解如何建立 SMPP 連線以及 SMPP 如何通過 PDU 交換資料。 瞭解如何疑難排解連線問題。*
 
 * **[混合託管模型的控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=zh-Hant)**
-
-   *瞭解如何為 Adobe Campaign 混合託管模型啟用控制面板、存取控制面板和解鎖關鍵功能。*
+  *瞭解如何為 Adobe Campaign 混合託管模型啟用控制面板、存取控制面板和解鎖關鍵功能。*
 
 * **[控制面板 - 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hant){target="_blank"}**
-
-   *瞭解如何監視工作流程的臨時儲存使用情況以及在何處編輯工作流程設定以避免執行個體出現資料庫或工作流程問題。*
+  *瞭解如何監視工作流程的臨時儲存使用情況以及在何處編輯工作流程設定以避免執行個體出現資料庫或工作流程問題。*
 
 * **[控制面板 - 監視輸送量與延時](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hant){target="_blank"}**
-
-   *瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。*
+  *瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。*
 
 * **[簡訊簡介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=zh-Hant)**
-
-   *了解簡訊的工作原理和 Adobe Campaign 傳送簡訊的方式*
+  *了解簡訊的工作原理和 Adobe Campaign 傳送簡訊的方式*
 
 * **[為標準 SMPP 提供者設定 SMS 帳戶](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=zh-Hant)**
-
-   *了解如何將 SMS 連接器調整至您的 SMPP 提供者。 微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
+  *了解如何將 SMS 連接器調整至您的 SMPP 提供者。 微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
 
 </div>
 

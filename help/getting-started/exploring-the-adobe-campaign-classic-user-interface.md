@@ -1,6 +1,6 @@
 ---
 title: 探索 Adobe Campaign Classic 使用者介面
-description: 瞭解Adobe Campaign Classic的主要使用者介面，並示範如何導覽至主要功能。
+description: 瞭解主要的Adobe Campaign Classic使用者介面，並示範如何導覽至主要功能。
 feature: Overview
 jira: KT-5009
 thumbnail: 35130.jpg

@@ -24,4 +24,4 @@ ht-degree: 34%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12&learn=on)
 
-請瀏覽產品檔案以進一步瞭解 [行銷活動型別](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hant).
+請瀏覽產品檔案以深入瞭解 [行銷活動型別](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hant).

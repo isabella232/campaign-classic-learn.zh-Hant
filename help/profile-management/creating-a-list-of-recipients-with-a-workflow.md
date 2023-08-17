@@ -1,6 +1,6 @@
 ---
 title: 使用工作流程建立收件者清單
-description: 瞭解如何透過從檔案總管設定收件者清單來建立對象。
+description: 瞭解如何從檔案總管設定收件者清單，以建立對象。
 feature: Audiences, Profiles
 jira: KT-2173
 thumbnail: 25603.jpg

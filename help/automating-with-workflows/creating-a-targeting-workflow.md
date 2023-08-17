@@ -18,7 +18,7 @@ ht-degree: 53%
 
 # 建立目標定位工作流程
 
-Adobe Campaign 使用工作流程來執行目標定位行銷活動、建立行銷活動或執行 Adobe Campaign 技術流程。在本影片中，我們將著重於目標定位工作流程。 目標工作流程可讓您建立多個傳遞目標。
+Adobe Campaign 使用工作流程來執行目標定位行銷活動、建立行銷活動或執行 Adobe Campaign 技術流程。在本影片中，我們將著重於目標定位工作流程。 目標工作流程可讓您建立數個傳遞目標。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on)
 

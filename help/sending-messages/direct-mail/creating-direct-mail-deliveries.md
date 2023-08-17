@@ -19,6 +19,6 @@ ht-degree: 57%
 
 # 建立直接郵件傳遞
 
-瞭解如何 [!UICONTROL direct mail] 工作位置 [!UICONTROL Adobe Campaign] 並瞭解如何建立、格式化及執行 [!UICONTROL direct mail]傳遞。
+瞭解如何 [!UICONTROL direct mail] 運作方式 [!UICONTROL Adobe Campaign] 並瞭解如何建立、格式化及執行 [!UICONTROL direct mail]傳遞。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12&learn=on)

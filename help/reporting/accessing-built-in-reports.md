@@ -19,6 +19,6 @@ ht-degree: 54%
 
 # 存取內建報吿
 
-瞭解Campaign Classic中的內建報告和分析，並瞭解如何產生傳遞報告。
+瞭解Campaign Classic中的內建報告和分析，以及如何產生傳遞報告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on)

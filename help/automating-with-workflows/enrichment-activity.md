@@ -24,4 +24,4 @@ ht-degree: 70%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on)
 
-如需更多詳細資訊，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)
+如需擴充的詳細資訊，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)

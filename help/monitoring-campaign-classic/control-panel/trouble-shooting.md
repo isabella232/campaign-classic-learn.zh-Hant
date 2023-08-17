@@ -1,6 +1,6 @@
 ---
 title: 控制面板疑難排解
-description: 「控制面板」可以讓您依執行個體和允許清單IP位址監控及管理SFTP儲存。
+description: 「控制面板」可以讓您依執行個體及允許清單IP位址監視及管理SFTP儲存。
 feature: Control Panel
 jira: KT-2938
 doc-type: article
@@ -34,7 +34,7 @@ ht-degree: 80%
 ### 症狀：執行個體未列於 [!UICONTROL Control Panel]
 
 **原因：**
-最有可能的使用者必須新增為「使用者」產品設定檔 _Campaign-xxx-Administrators/Admin_ 針對遺失的執行個體
+最有可能的使用者必須新增為「使用者」產品設定檔 _Campaign-xxx-Administrators/Admin_ 針對缺少的執行個體
 
 **該做什麼：**
 管理員需要將使用者新增至產品設定檔 _Campaign-xxx-Admins_，以便管理執行個體。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為「使用者」。
