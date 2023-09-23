@@ -6,10 +6,10 @@ jira: KT-2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 80%
+source-wordcount: '334'
+ht-degree: 79%
 
 ---
 
@@ -41,11 +41,11 @@ ht-degree: 80%
 
 ### 有用的影片
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
 
 *檢查 IMS 組織 ID (00:26 分鐘)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
 
 *如何為產品設定檔管理員新增管理員，以便使用[!UICONTROL Control panel] (01:03 分鐘)*
 

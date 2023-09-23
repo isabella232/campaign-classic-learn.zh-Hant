@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 45%
+source-wordcount: '93'
+ht-degree: 44%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 45%
 
 透過多語言電子報範例，瞭解如何將條件式內容新增至傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
 若要深入了解個人化，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=zh-Hant)。

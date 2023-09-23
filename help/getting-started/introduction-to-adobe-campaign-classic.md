@@ -10,10 +10,10 @@ team: WWFRE
 role: User, Admin, Developer
 level: Beginner
 exl-id: 40411fe3-44d8-4c2e-99df-940d17ab9f3e
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '56'
+ht-degree: 96%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解 Adobe Campaign Classic 如何與 Adobe Digital Experience 作品集整合，並概觀其主要特性與功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&learn=on){transcript=true}
