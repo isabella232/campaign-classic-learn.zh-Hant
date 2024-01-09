@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic v7Tutorials
-user-guide-description: Adobe Campaign Classic v7可讓行銷人員設計跨頻道客戶體驗，並提供視覺行銷活動協調、即時互動管理和跨頻道執行的環境。
+user-guide-description: Adobe Campaign Classic v7的影片和教學課程。
 breadcrumb-title: Campaign Classicv7Tutorials
 auto-video-transcripts: true
-source-git-commit: 11fa8be0e1ea218fa46647b2bee30adbd3352e7f
+source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 89%
+source-wordcount: '415'
+ht-degree: 93%
 
 ---
 
