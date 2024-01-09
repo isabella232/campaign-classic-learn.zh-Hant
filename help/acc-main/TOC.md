@@ -1,21 +1,21 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Adobe Campaign Classic 教學課程
-user-guide-description: Adobe Campaign Classic 可讓行銷人員設計跨通道的客戶體驗，並提供視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
-breadcrumb-title: 教學課程
+user-guide-title: Adobe Campaign Classic v7Tutorials
+user-guide-description: Adobe Campaign Classic v7可讓行銷人員設計跨頻道客戶體驗，並提供視覺行銷活動協調、即時互動管理和跨頻道執行的環境。
+breadcrumb-title: Campaign Classicv7Tutorials
 auto-video-transcripts: true
-source-git-commit: 770c1b87b9be4f6fdf753b8b0d33e8feea5c9cb9
+source-git-commit: 11fa8be0e1ea218fa46647b2bee30adbd3352e7f
 workflow-type: tm+mt
-source-wordcount: '460'
-ht-degree: 100%
+source-wordcount: '434'
+ht-degree: 89%
 
 ---
 
 
-# Adobe Campaign Classic 教學課程 {#tutorials}
+# Adobe Campaign Classic v7Tutorials {#tutorials}
 
-+ [Adobe Campaign Classic V7 - 教學課程](/help/overview.md)
++ [Adobe Campaign Classic V7 -Tutorials](/help/overview.md)
 + 開始使用{#getting-started}
    + [Adobe Campaign Classic 簡介](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [安裝及設定 Adobe Campaign 用戶端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -47,7 +47,7 @@ ht-degree: 100%
       + [疑難排解電子郵件傳遞問題](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [將附件新增至電子郵件傳遞](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [設計電子郵件以提供傳遞能力](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-   + SMS 頻道{#sms-channel}
+   + 簡訊頻道{#sms-channel}
       + [建立簡訊傳遞](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 推播頻道{#push-channel}
       + [安裝行動應用程式頻道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
