@@ -1,19 +1,19 @@
 ---
-title: Adobe Campaign Classic 教學課程 — 概覽
+title: Adobe Campaign Classic v7 教學課程
 description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理及 Cross-channel Execution 提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 3b25a787f7fe0457cbf40c4903815c82eec04073
-workflow-type: ht
+source-git-commit: 303705cfde82c630dbf603ab40b7df1c73113449
+workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 100%
 
 ---
 
-# Adobe Campaign Classic V7 教學課程
+# Adobe Campaign Classic v7 教學課程
 
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用者指南包含了 Adobe Campaign Classic V7 許多功能的相關影片和教學課程。
 
